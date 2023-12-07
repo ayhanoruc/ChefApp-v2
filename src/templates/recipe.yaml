@@ -1,0 +1,40 @@
+recipe_id: (numeric)
+recipe_name: 
+metadata:
+  cuisine: [Choose one of these: Italian Cuisine, Mexican Cuisine, Chinese Cuisine, ...]
+  meal_type: [Choose one of these: Breakfast, Lunch, Dinner, Appetizers, Snacks, Desserts, Beverages, Baking]
+  dietary_type: [Choose one of these: "Vegetarian Cooking","Vegan Cooking","Gluten-Free Cooking","Keto Cooking","Paleo Cooking","Low-Carb Cooking","Dairy-Free Cooking"]
+  health_and_wellness: [Choose one of these: "Heart-Healthy Cooking", "Low-Calorie Cooking", "High-Protein Recipes", "Weight-Loss-Friendly Recipes", "Plant-Based Nutrition"]
+  cooking_skill_levels: [Choose one of these: Beginner-Friendly Recipes, Intermediate Cooking, Advanced Culinary Techniques]
+  image_url: Image URL
+semantic_info:
+  nutrition_information:
+    calories: 350.0 (float)(fill required)
+    protein: 10.0 (float)(fill required)
+    carbohydrates: 45.0 (float)(fill required)
+    total_fat: 15.0 (float)(fill required)
+  ingredients:
+    - ingredient: //(only the name not features)
+      quantity: 1.0 (float)
+      unit: (fill required)
+      preparation: Preparation
+    - ingredient: (only the name not features)
+      quantity: 1.0 (float)
+      unit: (fill required)
+      preparation: Preparation
+    ...
+recipe_details:
+  prep_time: //(minutes)(fill required)
+  cook_time: //(minutes)(fill required)
+  total_time: //(minutes)(fill required)
+  servings: 4 (integer)
+  instructions:
+    - step: 1
+      description: Instructions for Step 1
+    - step: 2
+      description: Instructions for Step 2
+    - step: 3
+      description: Instructions for Step 3
+
+
+      

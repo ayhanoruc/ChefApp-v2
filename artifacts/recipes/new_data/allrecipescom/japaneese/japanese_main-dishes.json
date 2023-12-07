@@ -1,0 +1,2574 @@
+[
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "15 mins",
+            "Cook": "10 mins",
+            "Total": "55 mins",
+            "Servings": "6",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "841",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "27g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/246854/chicken-karaage-japanese-fried-chicken/",
+        "recipe_name": "Chicken Karaage (Japanese Fried Chicken)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/OU3pzY3Se7xZQ2pny6L8xLXeF-I=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3503916-3805fb2d38c74617b61332b747a66e00.jpg",
+        "recipe_ingredients_formatted": [
+            "2 tablespoons soy sauce",
+            "1 tablespoon sake (Japanese rice wine)",
+            "2 teaspoons grated fresh ginger",
+            "1 \u00bd pounds boneless, skinless chicken breasts, cut into bite-size pieces",
+            "2 cups vegetable oil for frying",
+            "\u00be cup cornstarch"
+        ],
+        "recipe_directions_formatted": [
+            "Combine soy sauce, sake, and ginger in a large bowl. Add chicken; turn to coat. Cover with plastic wrap and marinate in the refrigerator for 30 minutes.",
+            "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+            "Place cornstarch in a large resealable plastic bag. Add chicken; seal bag and toss until chicken is coated with cornstarch.",
+            "Fry chicken in batches until golden brown and juices run clear, 2 to 3 minutes. Drain on paper towels or on a wire rack.",
+            "Please be sure to use regular rice wine (sake) for this recipe. Don't confuse it with sweet rice wine (mirin) or rice vinegar!",
+            "We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "30 mins",
+            "Servings": "6",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "311",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "24g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/23053/sukiyaki/",
+        "recipe_name": "Sukiyaki",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/qdaknTIbNnxOvg5fS6-W22k9ECE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1112531-ee4774618cd94f93865bd95c8554e60d.jpg",
+        "recipe_ingredients_formatted": [
+            "1 tablespoon vegetable oil",
+            "1 \u00bd pounds beef sirloin strips",
+            "\u2154 cup soy sauce",
+            "2 teaspoons monosodium glutamate (MSG)",
+            "\u2153 cup chicken broth",
+            "\u2153 cup white sugar",
+            "3 small onions, sliced",
+            "2 cups chopped celery",
+            "1 (14 ounce) can bamboo shoots, drained and chopped",
+            "4  green onions, sliced",
+            "1 (4.5 ounce) can mushrooms, drained",
+            "1 (8 ounce) can water chestnuts, drained",
+            "1 teaspoon cornstarch"
+        ],
+        "recipe_directions_formatted": [
+            "Heat oil in a large skillet or wok over medium-high heat. Brown beef in hot oil, then stir in soy sauce, MSG, broth, and sugar. Mix in onion and celery, and cook until tender. Stir in bamboo shoots, green onions, mushrooms, and water chestnuts. Reduce heat to medium, stir in cornstarch, and simmer until sauce is thickened."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "30 mins",
+            "Total": "50 mins",
+            "Servings": "6",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "719",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "51g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/106227/miso-salmon/",
+        "recipe_name": "Miso Salmon",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/AQ6ZfgEIE3V5Iy3-WMjqAggqLHE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(672x0:674x2):format(webp)/4530087-c3414a480a534cb1a2f333ab7a9b688b.jpg",
+        "recipe_ingredients_formatted": [
+            "2 (1 1/2-pound) salmon fillets, skin removed",
+            "1 cup miso paste",
+            "\u00bd cup brown sugar",
+            "\u00bd cup prepared soy-ginger salad dressing",
+            "\u00bc cup sake",
+            "\u00bc cup water",
+            "3 tablespoons seasoned rice vinegar",
+            "2 tablespoons sesame seeds",
+            "1 teaspoon sesame oil"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Fill a large skillet with about 1 inch of water and bring to a boil. Poach fish just until cooked on the outside, about 2 minutes per side. Transfer fillets to a broiler pan.",
+            "Stir together miso paste, brown sugar, salad dressing, sake, water, rice vinegar, sesame seeds, and sesame oil in a small bowl. Spread over the tops of the salmon fillets.",
+            "Bake in the preheated oven until almost cooked through, about 15 minutes. Switch the oven to broil, and broil until the top is browned and bubbly, about 5 more minutes. Cut fillets into portions to serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Dumpling Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "40 mins",
+            "Cook": "15 mins",
+            "Total": "55 mins",
+            "Servings": "6",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "254",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "13g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/257373/gyoza-japanese-potstickers/",
+        "recipe_name": "Gyoza (Japanese Potstickers)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/G--uj1ZY6SHLGDM-crsU8jz3FOk=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4484464-fd111a9ad6164439857523c52ca27c40.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd pound ground pork",
+            "\u00bd head napa cabbage, shredded",
+            "3  green onions, thinly sliced",
+            "1 large egg",
+            "1 (2 inch) piece fresh ginger, grated",
+            "1 small clove garlic, minced",
+            "1 tablespoon soy sauce",
+            "1 teaspoon Sriracha sauce, or more to taste",
+            "\u00bc teaspoon sesame oil",
+            "30  gyoza wrappers, or as needed",
+            "1 tablespoon vegetable oil, or as needed",
+            "1 cup water, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Prepare the potstickers: Combine ground pork, napa cabbage, green onions, egg, ginger, garlic, soy sauce, Sriracha, and sesame oil in a bowl.",
+            "Arrange gyoza wrappers on a flat work surface. Place 1 teaspoon of pork mixture in the middle of each wrapper. Wet edges with your finger or a brush. Fold up sides to form a semicircle; pinch edges to seal.",
+            "Heat oil in a heavy skillet over medium-high heat. Add 12 to 15 gyoza to the skillet. Cook until golden brown on the bottom, about 2 minutes. Pour in 1/2 cup water; cover and cook until water is absorbed, 5 to 7 minutes. Transfer gyoza to a plate. Repeat with remaining gyoza.",
+            "Make the dipping sauce: Mix soy sauce, rice vinegar, sesame oil, and Sriracha together. Serve dipping side alongside gyoza.",
+            "To make hanetsuki gyoza (crispy wing gyoza), which is famous in Japan, add 1 1/2 teaspoons to 1 tablespoon flour to the water before adding to the skillet in Step 3.",
+            "Substitute 3 garlic chives for the greens onions and garlic clove if desired.",
+            "The sauce ratio is 1 part soy sauce: 1 part seasoned rice vinegar: 1/4 part sesame oil, plus Sriracha sauce to taste."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Bowls",
+            "Noodle Bowl"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/soba-noodle-bowls/",
+        "recipe_name": "12+ Scrumptious Soba Noodle Bowl Recipes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/nh52au9OtHmvJ00lkxqJV8Z7v5M=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/8932049_saimin_allrecipes-9ca3691a55304179bbe7758770c108a3.jpg",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": [
+            "Some of the simplest and greatest meals often involve pasta, but if you're feeling stuck in a pasta rut, why not switch to soba? These Japanese noodles make the most satisfying noodle bowls you'll ever make. Soba noodles are made from buckwheat flour and many brands are gluten-free, but check the package to determine if wheat flour has been added. You can buy soba at Asian grocery stores, or the Asian section of your grocery stores. These modest noodles have a delicious nutty flavor and are the perfect accompaniment to crunchy vegetables and grilled meat. Here are scrumptious soba noodle bowl recipes to try.",
+            "This zesty Thai salad is perfect with some grilled chicken and a cold beer. \"This dish has more of a Thai flavor,\" says Christiana Heins, who submitted the recipe. \"For a Japanese flavor, omit the pepper flakes, peanuts, and cilantro. Add 1/4 cup of toasted sesame seeds and mix in 1/2 cup of shredded dried seaweed (nori) just before serving. You can substitute ramen noodles for soba.\"",
+            "Fresh ginger and rice vinegar give this healthy salad a real zippy flavor. \"This tasty salad with Japanese buckwheat noodles is both quick and healthy,\" says donrmath.",
+            "Soba and sesame are a match made in heaven, just add some crunchy vegetables and you have the perfect dish. \"I love this recipe!\" raves Laura Bates. \"I have to add a little meat for the husband so I just bake chicken breast and cut into cubes.\"",
+            "Lean pork tenderloin is sliced thin, marinated briefly in an Asian-flavored marinade, and then quickly stir-fried and tossed with cold soba noodles. Garnish with peanuts, green onions, and sesame seeds. \"Tender pork tenderloin is the perfect partner to this tasty Asian-flavored buckwheat cold noodle salad,\" says lutzflcat.",
+            "Say goodbye to boring chicken, and wake up your taste buds with sweet and spicy soba and chicken. This traditional Japanese yakisoba noodle dish includes cabbage and a spicy sauce.",
+            "This salad is delicious served cold, and is a great potluck dish for a summer BBQ. \"The beauty of this salad is that it will wait for you,\" says Juanita Peek. \"It makes such a pretty dish on the table. The Soba buckwheat noodles are worth a trip to the Asian grocery store. Serve with salad tongs and try adding a horizontally sliced scallion for a eye catching garnish.\"",
+            "Brightly colored vegetables with a tamarind, ginger, and garlic sauce are tossed with baked tofu triangles and served over bi-colored soba noodles with sesame and peanut crunch. The tamarind gives this dish a beautiful color and tangy flavor.",
+            "Diced mango, shredded purple cabbage, carrots, and fresh herbs are tossed with cold soba noodles dressed up in a simple, light dressing of lime juice, sesame oil, tamari, and Sriracha sauce. \"This recipe is based on a fresh spring roll I tried at a local restaurant,\" says thedailygourmet. \"In fact, if you have any leftovers, feel free to roll them up in rice paper.\"",
+            "Chicken breast cubes quickly stir-fry in soy sauce and brown sugar. You'll serve your lightly caramelized chicken with soba noodles over mixed salad greens and dressed with an olive oil, rice vinegar, and finely grated ginger vinaigrette. \"Wonderful and fairly fast meal,\" says Katagator.",
+            "\"This is a deliciously fresh and easy recipe,\" says Tarrin. \"It is best served cold but can also be served at room temperature. I guarantee you'll be having seconds!\"",
+            "\"Saimin is a popular Hawaiian dish that has vibes reminiscent of ramen, not surprising given the Japanese influence on food and culture in Hawaii,\" says thymeforpineapple. \"The quick, yet flavorful broth sets the stage for this comforting soup.\"",
+            "\"I fell in love with the Panera Bread Shrimp and Soba Salad, decided to recreate it myself, and fell in love with my recipe,\" says Chantal Rogers. \"This is now one of my favorites!\"",
+            "\"An easy recipe using soba noodles. My husband and one-and-a-half-year-old loved it!\" says Snappycakes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Eggs"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "15 mins",
+            "Prep": "30 mins",
+            "Cook": "30 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "1",
+            "Yield": "1 bento box"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "730",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "35g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/279390/tamagoyaki-bento-box/",
+        "recipe_name": "Tamagoyaki Bento Box",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/8UrKy10mwFebyAnP-Yv4ffiVY50=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1683x0:1685x2):format(webp)/4539426-d4ab2a9422114093a6e7521c8a79d6b3.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup uncooked short-grain white rice",
+            "\u00be cup water",
+            "1 sheet nori (dry seaweed), or as needed",
+            "2 teaspoons bonito flakes, divided",
+            "1 teaspoon white sesame seeds",
+            "1 teaspoon black sesame seeds"
+        ],
+        "recipe_directions_formatted": [
+            "Rinse rice with cool water until the water runs clear; drain. Bring rice and 3/4 cup water to a boil in a pot. Reduce heat and let simmer until water is absorbed, about 15 minutes. Let cool, 10 to 20 minutes.",
+            "Cut the sheet of nori into two 1-inch strips; reserve the remainder of the sheet for making tamagoyaki.",
+            "Wet your hands and form the cooled rice into 4 equal portions. Keep your hands wet to keep rice from sticking. Create an indention in one of the rice portions using your thumb. Fill the indention with 1 teaspoon bonito flakes. Top with another rice portion to close the onigiri. Form into an oval shape and wrap the middle with a strip of nori. Make another onigiri with the remaining ingredients. Sprinkle white and black sesame seeds on top. Place in a bento box.",
+            "Whisk together the eggs, mirin, and 1/8 teaspoon tamari together in a bowl; divide into 3 portions. Cut remaining portion of nori sheet into four 1/2-inch strips.",
+            "Heat oil in a small saucepan or square tamagoyaki pan over medium-high heat. Add 1/3 of the egg mixture and cook until almost firm, 2 to 3 minutes; if omelette is too firm, it won't stick together very well. Slide onto a plate. Add the 4 strips of nori to the pan with some space between each.",
+            "Cook another 1/3 of the omelette the same way, but roll it up carefully in the saucepan with the nori. Slide the rolled-up omelette onto the edge of the first omelette. Cook the third omelette and roll it up, sliding it on top of the second omelette. Let cool enough to touch, about 5 minutes.",
+            "Roll the entire layered omelette together with nori inside. Cut into 4 pieces. Place into the bento box alongside the onigiri.",
+            "Mix 2 tablespoons tamari, ginger, and wasabi paste together in a bowl. Put the mixture into a portable container then put inside the bento box. Add the steamed broccoli and edamame."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Cuisine",
+            "Asian",
+            "Japanese",
+            "Main Dishes"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/japanese-beef-recipes/",
+        "recipe_name": "12 Japanese Beef Recipes for Simple Comforting Dinners",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/kL8UFmwy5jQ5s64Pf90KOlCy3mQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2):format(webp)/7800592_instant-pot-japanese-curry_diana71-2000-1e7800d6dcb94b81a83e8b6807cee5c3.jpg",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": [
+            "We've gathered together some classic Japanese beef recipes, which showcase traditional flavors and techniques of Japanese cooking. These comforting recipes feature sure-fire dinner hits like beef sukiyaki, Japanese-style curry, beef yakitori, Japanese-style burgers, and much more. They make great weeknight meals for the family.",
+            "\"This is basically a common Japanese fast food where beef and caramelized onions are served on top of short-grain rice,\" says LittoBubbo. \"Perfect when hot, cold, or room temperature. Good for school lunches on hot days.\"",
+            "This recipe starts with a simple soy sauce and ginger marinade. Marinated cubes of sirloin steak are skewered and grilled for mere minutes. \"The marinade made the meat so tender and flavorful and we loved it!\" raves GINAH1. \"I made my kabobs with Vidalia onions and cherry tomatoes. This is a keeper!\"",
+            "These traditional Japanese burgers combine ground beef, shiitake mushrooms, and firm tofu. They're finished with a flavorful mirin glaze, and eaten without a bun. \"Absolutely delicious!\" says Mariko eats. \"I like to eat these with cooked daikon (Japanese radish) and rice.\"",
+            "You might also like:",
+            "This traditional Japanese beef dish combines vegetables, noodles, and beef simmered in a flavorful broth made with dashi, mirin, and soy sauce. \"We have a favorite restaurant that serves beef sukiyaki and this came pretty close!\" says Michelle. \"It was excellent.\"",
+            "Thin slices of beef sirloin cook with potatoes and onions in a simple sauce made with prepared dashi soup, sake, and soy sauce. Many cooks increased the amount of beef called for in the recipe. Nikyma rates it 5 stars and raves: \"So tasty! I have a Japanese foreign exchange student whose been missing the food from home. He loved this! So did everyone else who got to taste it.\"",
+            "\"Japanese curry is different from Indian or Thai curries,\" explains MMSVA. \"It is more of a brown stew and it can be mild or spicy, depending on your tastes. The curry roux, from no heat to very spicy, can be bought at any international grocery store. It can be served over white rice or with udon noodles. This recipe is very flexible.\"",
+            "This easy recipe is ready in less than 20 minutes. Ground beef quickly cooks in a super-simple sauce made with freshly grated ginger, soy sauce, sake, mirin, and a little sugar. Makes a great mid-week meal served with rice.",
+            "\"Traditional Japanese beef sukiyaki recipe for a one-pot recipe that is cooked at the table. Delicious when dipped in raw beaten egg and eaten with rice,\" says Brenda Sawyer Adamson.",
+            "Thin slices of sirloin steak are marinated in a sweet and savory combination of mirin and soy, rolled around pieces of green onion, and broiled or grilled.",
+            "You'll roll thin slices of beef around blanched asparagus and shiitake mushrooms. \"It can be put together in advance and cooked only minutes before you're ready to eat,\" says Elegant Chef. \"A healthy and filling meal, it can be served with rice, or for the carb-conscious, by itself.\"",
+            "You might also like:",
+            "Call on the Instant Pot to create a Japanese-style curry with tender slices of beef and vegetables in a spicy curry sauce. \"Japanese curry is easily one of the top national dishes of Japan, behind sushi, ramen, and miso soup,\" says Diana71. \"It is distinctly Japanese, varying enough from Indian or Thai curries to be its own. Making Japanese curry in the Instant Pot\u00ae ensures the texture is perfect, and the meat, if used, is tender and juicy. What I was taught growing up: always, always use the roux as a base. Serve with rice!\"",
+            "In this Japanese-inspired slow cooker recipe, you'll combine a beef roast with broth, rice wine, ginger, and soy sauce. \"This is a delicious roast adapted from a common recipe for cooking beef in Japan,\" says carnegie, the recipe submitter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Side Dish",
+            "Rice Side Dish Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "35 mins",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "10",
+            "Yield": "5 cups"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "181",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/137596/moms-sushi-rice/",
+        "recipe_name": "Mom's Sushi Rice",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/uIXgfgV38Wq6hrJFxW2isg489pw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/5421868-2c5f5ae9fd744db7baf6ad5482692295.jpg",
+        "recipe_ingredients_formatted": [
+            "2 \u00bc cups Japanese sushi-style rice",
+            "1 (4 inch) piece konbu dried kelp (Optional)",
+            "3 cups water",
+            "\u00bc cup rice vinegar",
+            "\u00bc cup white sugar",
+            "1 \u00bc teaspoons salt"
+        ],
+        "recipe_directions_formatted": [
+            "Place rice into a large, deep bowl. Fill with cold water and rub rice together with hands until water turns milky white. Pour off cloudy water, being careful not to pour out rice. Repeat 3 or 4 times until you can see rice through 3 inches of water.",
+            "Drain rice in a fine strainer, then place into a saucepan along with konbu and 3 cups water. Allow to stand for 30 minutes. Stir together rice vinegar, sugar, and salt until dissolved in a small bowl; set aside.",
+            "Cover, and bring rice to a boil over high heat, then reduce heat to low, and simmer for 15 minutes. Remove from heat and allow to stand, covered, for 5 minutes.",
+            "Scrape rice into a bowl; remove and discard konbu. Stir in vinegar mixture until well incorporated and no lumps of rice remain. Allow to cool at room temperature. For a shinier appearance, use an electric fan to cool rice rapidly."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "45 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "1",
+            "Yield": "1 bowl"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "1406",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "76g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/254262/tonkatsu-shoyu-ramen-pork-cutlet-soy-sauce-ramen/",
+        "recipe_name": "Tonkatsu Shoyu Ramen (Pork Cutlet Soy Sauce Ramen)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/YcFGlbBqC3RudMhJmmVgo55-CQY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(594x323:596x325):format(webp)/4465714-tonkatsu-shoyu-ramen-pork-cutlet-soy-sauce-ramen-Diana71-4x3-1-9863d609d1e64c08850800340fb04adc.jpg",
+        "recipe_ingredients_formatted": [
+            "1 large egg",
+            "1 \u00bd teaspoons spicy sesame oil",
+            "2  (1x3-inch) boneless pork chop slices",
+            "2 tablespoons olive oil, divided",
+            "1 tablespoon black sesame seeds, divided",
+            "2 leaves fresh basil, chopped, divided",
+            "1 leaf fresh sage, chopped, divided",
+            "1 (3 ounce) package instant ramen noodles (such as Shirakiku\u00ae), seasoning packet discarded",
+            "3 tablespoons shredded dried kombu",
+            "1 \u00be tablespoons bonito soup stock (such as Hondashi\u00ae)",
+            "1 \u00be tablespoons soy sauce (shoyu)",
+            "\u00bd teaspoon white miso paste with dashi"
+        ],
+        "recipe_directions_formatted": [
+            "Fill a small pot halfway with water. Bring to a boil; add egg and cook in boiling water for 15 minutes. Drain. Run cold water over egg and set aside to cool.",
+            "Pour sesame oil into a large skillet. Lay pork slices in oil. Cover pork with 1 tablespoon olive oil, 1/2 tablespoon sesame seeds, 1/2 of the basil, and 1/2 of the sage. Flip and cover pork with these remaining ingredients: 1 tablespoon olive oil, 1/2 tablespoon sesame seeds, basil, and sage.",
+            "Cook pork, covered, over medium-low heat, until evenly browned on the bottom, about 5 minutes. Flip and continue cooking until second side is browned, about 5 minutes more. Remove from heat.",
+            "Bring a large pot of water to a boil. Cook ramen noodles in boiling water until tender, about 3 minutes. Drain in a colander set in the sink; rinse noodles until water runs clear. Return noodles to the pot.",
+            "Stir kombu, bonito stock, soy sauce, and miso paste into noodles. Cook, stirring with chopsticks, over medium heat, until miso paste is dissolved, 3 to 5 minutes. Transfer noodles to a serving bowl.",
+            "Peel and cut egg in half lengthwise. Place egg, pork slices, and fish paste slices over noodles. Garnish with tonkatsu sauce, ginger, green onion, and black pepper.",
+            "You can find most of the ingredients in a Japanese market.",
+            "You can substitute dried Welsh onions for green onions. You can substitute dried basil and sage for fresh if preferred.",
+            "Start preparing pork while waiting for the water to boil for the egg so everything is finished by the time the egg is cooked and cooled.",
+            "Nutrition data for this recipe includes the full amount of bonito soup stock. The actual amount of bonito consumed will vary."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "55 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "653",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "37g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/277861/japanese-curry-chicken/",
+        "recipe_name": "Japanese Curry Chicken",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/5ellbVEw9S86zjbwHLu-rLNS9OI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(665x0:667x2):format(webp)/7519725-d67372c99e1c4721a9b8891471a9676b.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd pounds skinless, boneless chicken breast, or more to taste",
+            "1 tablespoon olive oil, or as needed",
+            "1 pinch salt and ground black pepper to taste",
+            "5 \u2153 cups water, divided",
+            "1 (7.75 ounce) package curry sauce mix (such as S&B\u00ae Golden Curry\u00ae)",
+            "1 (15 ounce) can peas, drained",
+            "5  new potatoes, halved",
+            "1 (8 ounce) package sliced cremini mushrooms",
+            "2 medium carrots, chopped",
+            "1 medium onion, chopped",
+            "2 cups jasmine rice (such as Mahatma\u00ae)"
+        ],
+        "recipe_directions_formatted": [
+            "Place chicken in a large, deep skillet. Drizzle with olive oil and season with salt and pepper on both sides. Add 1/3 cup water to the pan, cover, and cook over medium heat until no longer pink in the center and the juices run clear, about 20 minutes.",
+            "While chicken is cooking, pour 2 cups water into a microwave-safe bowl. Break curry sauce mix into pieces and add to water. Heat in the microwave on high for 3 1/2 minutes; remove and stir until sauce mix has completely dissolved.",
+            "Remove chicken from the skillet. Cut into cubes, return to the skillet, and pour curry sauce over top. Stir in peas, potatoes, mushrooms, carrots, and onion. Bring to a boil, then lower heat and simmer until vegetables are tender, about 30 minutes.",
+            "Meanwhile, bring remaining water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes.",
+            "Scoop rice into bowls and serve curry on top.",
+            "Two 3.2-ounce packages of curry sauce mix can be used instead of the larger package.",
+            "Baby portobello mushrooms can be used instead of cremini mushrooms.",
+            "You can substitute a canned pea-and-carrot mixture for the canned peas. Substitute one 15-ounce can of diced potatoes for the new potatoes if desired."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Pasta and Noodles",
+            "Noodle Recipes",
+            "Ramen Noodle Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "10 mins",
+            "Total": "25 mins",
+            "Servings": "2",
+            "Yield": "2 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "342",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "40g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/284318/easy-ramen-with-chicken-and-teriyaki-sauce/",
+        "recipe_name": "Easy Ramen with Chicken and Teriyaki Sauce",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/cLDfHn5NQk9Qs6CdWvlbAKz1UFM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(639x0:641x2):format(webp)/image-384-22c475e07f8842c4a2794c0029af58d5.jpg",
+        "recipe_ingredients_formatted": [
+            "2 (3 ounce) packages ramen noodles (flavor packets discarded)",
+            "1 tablespoon butter",
+            "2 medium carrots, peeled and thinly sliced",
+            "1 medium zucchini, chopped",
+            "1 medium onion, chopped",
+            "2 cups cooked, shredded chicken breast meat",
+            "1 tablespoon teriyaki sauce, or more to taste",
+            "salt and ground black pepper to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Add 4 cups water to a skillet and bring to a boil. Add ramen and cook until soft, about 5 minutes.",
+            "Meanwhile, melt butter in another skillet over medium heat. Add carrots, zucchini, and onion and saute until vegetables have softened, about 5 minutes. Add shredded chicken, teriyaki sauce, salt, and pepper and cook until heated through and sauce has thickened, 3 to 5 minutes.",
+            "Drain ramen and add to the vegetable and chicken mixture. Toss and add more teriyaki as needed."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "15 mins",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "276",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "22g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/263690/easy-chicken-yakitori/",
+        "recipe_name": "Easy Chicken Yakitori",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Oamh6lTuCcdYyZWaGaVMEjbqgRs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(852x0:854x2):format(webp)/5290537-4fed39fa6c774f33aa77b5c23aff196e.jpg",
+        "recipe_ingredients_formatted": [
+            "10 wooden skewers",
+            "4  skinless, boneless chicken thighs, cut into 1-inch cubes",
+            "4  scallions, sliced into 1-inch pieces",
+            "\u00bd cup sake",
+            "\u00bd cup soy sauce",
+            "3 tablespoons mirin",
+            "2 tablespoons white sugar",
+            "1 teaspoon vegetable oil, or to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Soak 10 wooden skewers in cold water for 15 minutes.",
+            "Thread chicken pieces onto the soaked skewers, alternating with scallions.",
+            "Combine sake, soy sauce, mirin, and sugar in a small saucepan and bring to a boil. Reduce heat and simmer for 5 minutes. Reserve 1/2 of the sauce for dipping.",
+            "Heat a grill pan over high heat and lightly brush with vegetable oil. Add skewers and cook until chicken is no longer pink in the center, basting frequently with 1/2 of the sauce, 7 to 10 minutes per side."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "1 hr 20 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "411",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "22g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/265980/beef-teppanyaki/",
+        "recipe_name": "Beef Teppanyaki",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Dq9RKc3Bex4wl4ztZaSMYkVdfgc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(359x0:361x2):format(webp)/265980-Beef-Teppanyaki-1x1-1-ec9a3d734f164766af1d61124190d70c.jpg",
+        "recipe_ingredients_formatted": [
+            "3 tablespoons soy sauce",
+            "2 tablespoons sweet cooking wine (mirin)",
+            "1 teaspoon garlic powder",
+            "1 teaspoon ground black pepper",
+            "\u00bd teaspoon ground ginger",
+            "1 pound beef chunks, very thinly sliced",
+            "3 tablespoons vegetable oil",
+            "1 tablespoon sweet cooking wine (mirin)"
+        ],
+        "recipe_directions_formatted": [
+            "Combine soy sauce, mirin, garlic powder, black pepper, and ground ginger together in a bowl. Add sliced beef and mix well. Leave to marinate at least 1 hour.",
+            "Heat oil in a frying pan over medium-high heat. Fry beef slices, about 10 minutes, and place on a serving dish.",
+            "Pour leftover marinade into the same frying pan over low heat. Add mirin and simmer until sauce is slightly thickened, 1 to 2 minutes. Pour sauce over beef and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "30 mins",
+            "Cook": "15 mins",
+            "Total": "2 hrs 45 mins",
+            "Servings": "12",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "280",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "14g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/273940/grilled-chicken-teriyaki-skewers-with-miso-ranch/",
+        "recipe_name": "Grilled Chicken Teriyaki Skewers with Miso Ranch",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/_vt6O5IRhT34uQOPNp86p-OHehA=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/6691068-grilled-chicken-teriyaki-skewers-with-miso-ranch-Chef-John-1x1-1-d32a1f66bcc04072842e0341f5f3a870.jpg",
+        "recipe_ingredients_formatted": [
+            "12 bamboo skewers"
+        ],
+        "recipe_directions_formatted": [
+            "Soak bamboo skewers in water.",
+            "Prepare the chicken skewers: Cut chicken thighs in half lengthwise along the creases and halve the thicker portions to get 3 or 4 pieces each. Place chicken in a bowl. Pour in soy sauce, sake, mirin, brown sugar, green onions, ginger, and oil. Toss by hand until well combined and brown sugar is dissolved. Cover top in plastic wrap and marinate in the refrigerator for 2 to 6 hours.",
+            "Make the dressing: Combine mayonnaise, buttermilk, sour cream, and miso in a bowl. Add green onion, garlic, tarragon, dill, and chives. Season with black pepper and cayenne. Whisk dressing until thoroughly combined.",
+            "Thread chicken pieces onto skewers. Strain marinade into a saucepan and bring to a boil to make the glaze.",
+            "Preheat a grill for medium-high heat. Grill skewers, basting with some of the reserved marinade, until meat firms up and springs back to the touch, 4 to 5 minutes per side.",
+            "Serve skewers next to the miso ranch dressing and brush with reserved glaze.",
+            "Substitute cr\u00e8me fraiche or yogurt for the sour cream if desired.",
+            "Try to avoid an extra-long marination, especially for such small chunks. The meat will cure in the sweet, salty mixture, which can give it an odd texture once cooked and make it easier to fall apart."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "5 mins",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "121",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/157438/steamed-clams-in-butter-and-sake/",
+        "recipe_name": "Steamed Clams in Butter and Sake",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/OCHGmjwMr74VN9MRk3b8dC6vq_Q=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/220623-a9648582888746a0aec990859f38b659.jpg",
+        "recipe_ingredients_formatted": [
+            "4 teaspoons sake",
+            "4 teaspoons mirin (Japanese sweet wine)",
+            "2 teaspoons rice vinegar",
+            "1 \u00bc pounds clams in shell, scrubbed",
+            "3 tablespoons butter",
+            "1 teaspoon soy sauce",
+            "1  green onion, chopped"
+        ],
+        "recipe_directions_formatted": [
+            "Scrub and rinse clams. Soak in a large bowl of cold water for 5 minutes. Drain thoroughly.",
+            "Heat a wok or large saucepan over high heat. Quickly pour in the sake, mirin and rice vinegar. Add the clams; cover and cook until the clams open, 3 to 4 minutes. Discard any clams that do not open.",
+            "Remove any scum that forms on the surface using a spoon or paper towel. Stir in the butter, soy sauce and green onion, tossing to coat the clams as the butter melts. Arrange clams on a serving plate and drizzle the sauce over them. Serve immediately."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Rice",
+            "Fried Rice Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "35 mins",
+            "Total": "50 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "785",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "23g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/272802/japanese-shrimp-fried-rice-with-yum-yum-sauce/",
+        "recipe_name": "Japanese Shrimp Fried Rice with Yum Yum Sauce",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/TTD1_PXkoL5l67X17UFJp_vXdr4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2):format(webp)/6747907-6dec770e014746358bf0ddecf320c1c6.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups uncooked jasmine rice",
+            "3 cups water",
+            "3 tablespoons vegetable oil, divided",
+            "1  sweet onion, chopped",
+            "2 cloves garlic, crushed and minced",
+            "1 (16 ounce) package frozen peas and carrots",
+            "4 tablespoons butter, divided",
+            "2  eggs",
+            "4 tablespoons oyster sauce",
+            "3 tablespoons soy sauce",
+            "1  lemon, juiced, divided",
+            "salt and pepper to taste",
+            "1 pound uncooked medium shrimp, peeled and deveined"
+        ],
+        "recipe_directions_formatted": [
+            "Bring 3 cups water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes. Set aside and let cool.",
+            "Heat 2 tablespoons vegetable oil in a large, deep skillet over medium-high heat. Add onion and cook until soft and translucent, about 5 minutes. Stir in garlic and cook until fragrant, about 1 minute. Mix in cooked jasmine rice and frozen peas-carrot mixture; fry until rice begins to brown, about 5 minutes. Add 2 tablespoons butter and stir to combine. Pour in eggs and cook until firm. Add oyster sauce, soy sauce, and 1/2 lemon juice; stir to combine. Season with salt and pepper.",
+            "Heat remaining 1 tablespoon vegetable oil in a separate pan over medium-high heat. Add shrimp and fry until they are bright pink on the outside and the meat is opaque, 2 to 3 minutes. Mix in remaining 2 tablespoons butter and lemon juice. Combine with fried rice mixture.",
+            "Combine mayonnaise, water, paprika, ginger paste, white sugar, garlic powder, salt, and pepper in a bowl to make the yum yum sauce. Stir well. Serve with the fried rice."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Eggs",
+            "Omelet Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "5 mins",
+            "Total": "10 mins",
+            "Servings": "1",
+            "Yield": "1 omelet"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "162",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "13g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/254315/japanese-sweet-omelet/",
+        "recipe_name": "Japanese Sweet Omelet",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/uQ7vcGIr0PxW11VTlDzrtLn_S68=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4409537-701155d663014f929b68ad6326a28f6b.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs",
+            "1 tablespoon water",
+            "1 teaspoon soy sauce",
+            "1 teaspoon white sugar"
+        ],
+        "recipe_directions_formatted": [
+            "Mix eggs, water, soy sauce, and sugar in a bowl with a fork until combined.",
+            "Heat a skillet over medium heat. Pour egg mixture into skillet and stir with a fork. Cook until omelet begins to set and liquid is no longer visible, 3 to 5 minutes. Fold in half twice."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "15 mins",
+            "Total": "35 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "287",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "28g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/54040/my-fly-stir-fry/",
+        "recipe_name": "My Fly Stir-Fry",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/btuhG0NMHKLE2vucUN1oTSLcOUM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2436763-my-fly-stir-fry-naples34102-4x3-1-cb19fdfb895f457bb0691a7d56a4bd55.jpg",
+        "recipe_ingredients_formatted": [
+            "4  center cut pork chops, thinly sliced",
+            "\u00bc cup mirin (Japanese sweet wine)",
+            "\u00bc cup rice vinegar",
+            "\u00bd cup soy sauce",
+            "\u00bd cup mushrooms, sliced",
+            "1  green bell pepper, sliced",
+            "1 bunch green onions",
+            "1 clove garlic, minced",
+            "1 tablespoon minced fresh ginger root",
+            "1 tablespoon sesame oil"
+        ],
+        "recipe_directions_formatted": [
+            "Slice pork as thinly as possible. Working with partially frozen chops makes this easier. In a medium bowl, mix pork with mirin, rice vinegar, and soy sauce. Cover, and let marinate in refrigerator while you prepare the remaining ingredients.",
+            "Slice mushrooms, green pepper, green part of green onions, and set aside. Mince white part of green onions, garlic, and ginger.",
+            "Heat wok or large skillet over medium heat, then coat with sesame oil. Saute minced green onion, garlic, and ginger until fragrant. Increase heat to high. Squeeze marinade off pork, and place pork into wok. Reserve marinade. Cook and stir until pork is no longer pink, about 4 minutes. Stir in mushrooms, green pepper, and sliced green onion. Cook, stirring, until vegetables are tender, about 4 minutes. Stir in reserved marinade, and cook about 2 minutes.",
+            "The amount of sauce you add depends on your taste, or the amount of meat or vegetables you have decided to cook. Do not let the dish get too soupy. If you don't mind the taste, you could add 1 tablespoon of cornstarch to thicken the sauce. What's key are the proportions of the sauce: 1 part each rice wine and rice vinegar, to 2 parts soy."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "3 hrs 30 mins",
+            "Total": "3 hrs 45 mins",
+            "Servings": "12",
+            "Yield": "12 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "520",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "35g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/116066/miso-braised-pork/",
+        "recipe_name": "Miso Braised Pork",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Yr5M1vKfJ2ulbvRWvzJ0VobKRXw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1475118-miso-braised-pork-corey-pearson-4x3-1-934775ebf59044fca320b2394438823a.jpg",
+        "recipe_ingredients_formatted": [
+            "1 tablespoon canola oil",
+            "5 pounds pork butt (shoulder roast) cut into 2-inch slices",
+            "2 tablespoons minced garlic",
+            "1 teaspoon minced ginger",
+            "2 cups water, more if needed",
+            "\u2153 cup soy sauce",
+            "\u2153 cup brown sugar",
+            "\u00be cup white (shiro) miso"
+        ],
+        "recipe_directions_formatted": [
+            "Heat canola oil in a large Dutch oven over medium-high heat until hot. Sear pork slices until well browned on both sides, then remove. Stir in the garlic and ginger, cook until fragrant, about 30 seconds. Add the water, soy sauce, brown sugar, and miso; bring to a simmer, scraping the bottom of the pan to dissolve the caramelized juices.",
+            "Place pork into pot, add additional water if needed to cover pork with the sauce. Then, reduce heat to medium-low, cover, and simmer for 3 hours until the pork is tender, and the sauce has thickened."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "25 mins",
+            "Cook": "15 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "4 pancakes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "329",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "16g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/255416/okonomiyaki-japanese-pancake/",
+        "recipe_name": "Okonomiyaki (Japanese Pancake)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/T1AlXnwgAHS8eNzeH7ohe78GkTg=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/5363444-210631180ded436fba19d2cf1d3336ba.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "\u2154 cup water",
+            "4 cups chopped cabbage",
+            "6 strips cooked bacon, crumbled",
+            "2  eggs",
+            "1  sausage, diced, or more to taste (Optional)",
+            "\u00bd cup chopped green onions",
+            "\u00bc cup cooked shrimp (Optional)",
+            "\u00bc cup shredded cheese (Optional)",
+            "\u00bc cup tenkasu (tempura pearls)",
+            "1 tablespoon vegetable oil, or to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Mix flour and water together in a bowl until smooth. Stir in cabbage, bacon, eggs, sausage, green onions, shrimp, cheese, and tenkasu.",
+            "Preheat a griddle to 400 degrees F (200 degrees C) and coat with oil.",
+            "Pour 1/4 of batter onto preheated griddle. Cook until golden brown, about 6 minutes per side. Transfer to a serving plate. Repeat to make a total of 4 pancakes.",
+            "Make sauce: Mix soy sauce, ketchup, and vinegar together in a small bowl. Drizzle over pancakes.",
+            "Garnish with panko and mayonnaise.",
+            "For a spicy okonomiyaki sauce, add cayenne pepper.",
+            "Substitute crumbled saltine crackers for the panko bread crumbs if desired."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Eggs"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "12 mins",
+            "Total": "17 mins",
+            "Servings": "2",
+            "Yield": "2 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "157",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "17g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/72231/steamed-egg-chawan-mushi/",
+        "recipe_name": "Steamed Egg (Chawan Mushi)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/QJt1OumFqYqb9bOSTe1Xnc7aX44=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/16395-3b4e253a92124da2b69081d9cffd7988.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs",
+            "1 cup cooled chicken or fish stock",
+            "1 dash sake",
+            "\u00bd teaspoon soy sauce",
+            "\u00bd cup chopped cooked chicken breast meat",
+            "1  shiitake mushroom, sliced into strips",
+            "2 sprigs fresh parsley, for garnish"
+        ],
+        "recipe_directions_formatted": [
+            "In a medium bowl, whisk eggs gently while slowly pouring in the chicken stock, sake, and soy sauce. Divide the mushroom and chicken evenly between two small tea cups. Pour the egg mixture into each cup until filled.",
+            "Bring about 1 inch of water to a boil in a steamer or saucepan. Reduce heat to a simmer, and place cups into the steamer. Cover, and steam for 12 minutes, or until egg is firm but soft and silky like tofu. Garnish each cup with a sprig of parsley, and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "290",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "17g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/46543/tonkatsu/",
+        "recipe_name": "Tonkatsu",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/bmwIkr9XOCAKiTDAKn1TK3ZF_NE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/931809-ed67de3d47fd45a2b6bf7221c12ffa09.jpg",
+        "recipe_ingredients_formatted": [
+            "4 (4 ounce) boneless pork chops",
+            "salt and ground black pepper to taste",
+            "2 cups oil for frying, or as needed",
+            "\u00bc cup all-purpose flour",
+            "1  egg, beaten",
+            "\u00be cup panko (Japanese-style bread crumbs)"
+        ],
+        "recipe_directions_formatted": [
+            "Place the pork chops between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound the pork with the smooth side of a meat mallet to a 1/4-inch thickness (about .75 cm). Season with salt and pepper to taste.",
+            "Pour oil into a skillet about 1/2 inch (1.25 cm) deep. Heat the oil over medium-high heat to 375 degrees F (190 degrees C).",
+            "Place the flour, egg, and panko crumbs in separate bowls. Coat each cutlet in flour, then egg, and finally in bread crumbs. Tap off any loose crumbs.",
+            "Fry the cutlets until golden brown and cooked through, about 4 minutes per side. Drain on paper towels.",
+            "The nutrition data for this recipe includes the full amount of the breading ingredients. The actual amount of the breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and the specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "25 mins",
+            "Cook": "None",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "4 rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "522",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/239021/buffalo-chicken-sushi-roll/",
+        "recipe_name": "Buffalo Chicken Sushi Roll",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/cKbM_yM4VJEmaUgICbRvC1e5i-Y=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3792008-fbd4cd0ec6904d86b249c8b3113d241f.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd pound fully cooked breaded chicken breast tenderloins",
+            "\u00bc cup hot pepper sauce",
+            "4 sheets nori (dry seaweed)",
+            "4 cups cooked sushi rice",
+            "1  carrot, peeled and cut into 4-inch matchsticks",
+            "1  celery stalk, cut into 4-inch matchsticks",
+            "\u00bc cup spicy mayonnaise",
+            "\u00bc cup French-fried onions (such as French's\u00ae)"
+        ],
+        "recipe_directions_formatted": [
+            "Mix chicken and hot sauce in a bowl and toss to coat.",
+            "Place 1 nori sheet onto a bamboo sushi rolling mat. Spread 1 cup rice onto the nori, leaving a 1/2-inch strip along one edge. Arrange 1/4 each of the chicken, carrot, and celery in a line near one edge of the rice. Use the mat to carefully lift the edge near the filling and roll tightly around the ingredients. Moisten the remaining edge of the nori with a finger dipped in water and press to seal; repeat with remaining ingredients.",
+            "Cut each roll into 8 slices using a sharp, wet knife. Top each piece with a dollop of mayonnaise and a small amount of French-fried onion."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Asian",
+            "Japanese",
+            "Main Dishes",
+            "Sushi Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "35 mins",
+            "Prep": "30 mins",
+            "Cook": "15 mins",
+            "Total": "1 hr 20 mins",
+            "Servings": "4",
+            "Yield": "4 sushi rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "542",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/283035/spicy-yellowtail-sushi-roll/",
+        "recipe_name": "Spicy Yellowtail Sushi Roll",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/DtKv8l-iXPNuVyg2CjdoP2nNN8M=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/609541-03cb4108b19b4ae6987fd255d84a55f5.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups Japanese short-grain white rice",
+            "3 cups water",
+            "3 tablespoons rice vinegar",
+            "2 \u00bd tablespoons white sugar",
+            "4 sheets nori (dry seaweed)",
+            "4 ounces yellowtail flounder",
+            "\u00bc cup Japanese mayonnaise (such as Kewpie\u00ae)",
+            "1 tablespoon Sriracha sauce",
+            "\u00bc medium cucumber, peeled and julienned",
+            "2 tablespoons tobiko (flying fish roe)"
+        ],
+        "recipe_directions_formatted": [
+            "Rinse rice under cold running water until water runs clear.",
+            "Combine rice and water in a large saucepan and bring to a boil. Lower heat to a simmer and cook for 10 minutes. Turn off heat and let rice sit without opening the lid for 20 minutes; the remaining steam continues to cook the rice.",
+            "Combine rice vinegar and sugar; stir until mostly dissolved. Once rice has finished steaming, fold in vinegar-sugar mixture. Let rice cool, 15 to 20 minutes.",
+            "Place one sheet of nori on a work surface with the shiny side down. Place 1/4 of the rice on the nori and spread it around evenly from edge to edge, about 1/4-inch thick. Flip nori over on top of a plastic-covered rolling mat. Repeat with remaining nori and rice.",
+            "Chop yellowtail into 1/4-inch cubes. Combine yellowtail, mayonnaise, and Sriracha in a bowl. Place 1/4 of the mixture, along with 1/4 of the cucumber, in a line along one of the short sides of the nori. Roll the mixture inside the nori using the rolling mat. Press roll tightly to form a uniform log. Spread 1/2 tablespoon tobiko in a long thin line across the top of each roll. Press rolls with rolling mat.",
+            "Cover rolls with plastic wrap and press with the rolling mat again. Using a very sharp, wet, clean knife, cut each roll into 8 even pieces. Remove plastic wrap, plate, and serve.",
+            "Making sushi is pretty easy and straight forward. I recommend watching some sushi DIYs on YouTube(R) to get the hang of the process.",
+            "One nice thing about sushi is that you can customize it to whatever your likings are. If you want to use salmon instead of yellowtail, go for it. Use sushi-grade fish for this."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "1 hr 25 mins",
+            "Servings": "2",
+            "Yield": "2 sandwiches"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "759",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "17g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/283909/japanese-egg-salad-sandwich-tamago-sando/",
+        "recipe_name": "Japanese Egg Salad Sandwich (Tamago Sando)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/d-IKfopyY3OZweN0KEBvtBQBook=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2504x0:2506x2):format(webp)/9137858-8a268dbf191a400ab5a760017ebca27b.jpg",
+        "recipe_ingredients_formatted": [
+            "4 large eggs"
+        ],
+        "recipe_directions_formatted": [
+            "I've always gone out of my way to avoid egg salad, and had no plans to change that behavior this late in life, but after seeing people go nuts over this sandwich on social media, I decided to give it a go.",
+            "Surprisingly, I didn't hate it. In fact, I kind of liked it, and have identified the two main reasons why. It comes served on soft, buttery, slightly sweet Japanese milk bread, which is the perfect delivery system. Plus, the salad is bound together with a super savory mayonnaise that, as my old buddy Guy Fieri might say, would taste great on a flip flop. The most popular brand of this mayo is called Kewpie, which is pretty easy to find. But just in case, I show a fairly close version using commonly found pantry ingredients.",
+            "Mine doesn't include MSG, which is one reason people line up for the stuff, but it's still very savory. Between that and the homemade milk bread, I almost forgot I was eating egg salad. So, whether you love egg salad and have always wanted to try this, or you're not a huge fan (but willing to taste the world's most famous version), I hope you give this a try soon. Enjoy!",
+            "For more Chef John, be sure to subscribe to Food Wishes on YouTube! Click the \"Join\" button there to get Chef John's bonus video footage and behind-the-scenes pictures, live chats, and other Food Wishes member exclusives.",
+            "Place eggs in the bottom of a saucepan. Add 1/4 inch of water. Heat over medium-high heat and bring to a boil. Cover and steam for 11 minutes. Turn off the heat and drain water carefully; pour cold water over and let cool.",
+            "Mix mayonnaise, salt, sugar, mustard, hot sauce, lemon juice, and vinegar for Kewpie-style mayonnaise together. Cover with plastic wrap and refrigerate until needed.",
+            "Peel eggs. Mash in a shallow bowl with the side and back of a fork until desired texture is reached. Add salt, sugar, cayenne, heavy cream, and 3 tablespoons Kewpie-style mayonnaise. Stir to combine. Wrap and refrigerate until well chilled, at least 1 hour. Taste and adjust seasonings.",
+            "Butter bread slices and use 1/2 of the egg salad on each sandwich. Cut crusts off before serving if you're fancy.",
+            "I used Dijon mustard for the Kewpie-style mayonnaise, but regular yellow will work. Also, if you have any MSG laying around, or Hondashi(R) (which is a powdered dashi base), you could add some of that for some extra savory-ness, but this version is very savory as-is.",
+            "You can use milk instead of cream to make the egg salad.",
+            "Here's the recipe for my Milk Bread, which is perfect for this sandwich.",
+            "Nutrition data for this recipe includes the full amount of Kewpie-style mayonnaise. You will have enough left to make another batch (2 more sandwiches)."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "25 mins",
+            "Total": "55 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "584",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "27g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/272610/authentic-yakisoba/",
+        "recipe_name": "Authentic Yakisoba",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/DONjPZcGDef4OQIleLev0-w-hk8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x764:981x766):format(webp)/6598225-authentic-yakisoba-thedailygourmet-4x3-1-2d475b8bf3d24a13b05705880ebec9fa.jpg",
+        "recipe_ingredients_formatted": [
+            "4 (8 ounce) packages buckwheat soba noodles",
+            "2 tablespoons vegetable oil",
+            "1 pound pork tenderloin, cut against the grain in thin strips",
+            "2 cups carrots, cut into julienne strips",
+            "1 medium onion, cut into julienne strips",
+            "1 tablespoon freshly grated ginger",
+            "3 cloves garlic, minced",
+            "\u00bd head napa cabbage, shredded",
+            "\u2154 cup yakisoba sauce",
+            "salt and ground black pepper to taste",
+            "4 tablespoons pickled red ginger (beni shoga), or to taste",
+            "4 tablespoons kizami nori (dried flaked aonori seaweed), or to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Bring a large pot of water to a boil. Cook soba in boiling water, stirring occasionally, until noodles are tender yet firm to the bite, 5 to 8 minutes. Drain noodles and rinse with cold water. Set aside.",
+            "Heat oil in a wok over medium heat. Add pork and stir-fry with a pinch of salt and pepper, about 5 minutes. Transfer meat to a plate, reserving oil in wok. Add carrots, onion, ginger, and garlic to the wok and stir-fry for 3 to 4 minutes.",
+            "Add cabbage to the wok and stir-fry briefly, about 1 minute. Add drained soba noodles. Pour in 1/2 the yakisoba sauce and stir-fry until noodles and vegetables are covered with sauce, about 3 minutes. Return pork to the wok. Add additional sauce as desired. Remove from heat.",
+            "Garnish yakisoba with kizami nori and a small pile of beni shoga just before serving."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "1 hr 10 mins",
+            "Total": "1 hr 40 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "360",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "16g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274077/japanese-curry/",
+        "recipe_name": "Japanese Curry",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/D8GnH9vzv3MjVK1TGrDWHI8paEA=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2):format(webp)/4917776-japanese-curry-MMSVA-4x3-1-ea36281f103d4aa7a7c289714cc498df.jpg",
+        "recipe_ingredients_formatted": [
+            "1 tablespoon vegetable oil, or more as needed",
+            "1 \u00be pounds beef chuck, cut into 2-inch cubes",
+            "3  onions, quartered",
+            "1 tablespoon ketchup",
+            "1 \u00bd teaspoons Worcestershire sauce",
+            "1 pinch cayenne pepper, or to taste (Optional)",
+            "water to cover",
+            "4  carrots, cut into 2-inch pieces",
+            "1 cube chicken bouillon (Optional)",
+            "3 medium potatoes, cut into 3-inch chunks",
+            "1 \u00bd (3.5 ounce) containers Japanese curry roux, or more to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Heat oil in a 6-quart pot over medium-high heat. Add beef and saute until brown, 5 to 7 minutes. Add onions and cook until starting to soften, about 3 minutes. Add ketchup and Worcestershire sauce. Stir to coat. Add cayenne pepper. Pour in water to cover mixture by 1 or 2 inches. Add carrots and bouillon.",
+            "Simmer, skimming fat off the surface of the broth as needed, for 30 minutes. Add potatoes. Stir in 1 package of curry roux and let dissolve; add remaining curry as needed to achieve desired thickness. Continue simmering until beef and vegetables are tender, about 30 minutes more.",
+            "Use any beef stew meat you prefer.",
+            "Substitute soy sauce for the Worcestershire if desired.",
+            "Curry roux is found in boxes in the international aisle or an international grocery store. There are many brands with varying heat levels. I like S&B(R) and Vermont Curry. I usually mix the two brands. The more roux you use the thicker the sauce.",
+            "As with most stews, the longer you simmer the better it will taste. This can also be frozen without the potatoes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 10 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "256",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "21g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/28179/japanese-style-deep-fried-chicken/",
+        "recipe_name": "Japanese-Style Deep Fried Chicken",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/GYoNsPzbmIVGAHwCt-dIgR9uo5A=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/296189-229015a486164f93b6ff35d535029e21.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs, lightly beaten",
+            "\u00bd teaspoon salt",
+            "\u00bd teaspoon black pepper",
+            "\u00bd teaspoon white sugar",
+            "1 tablespoon minced garlic",
+            "1 tablespoon grated fresh ginger root",
+            "1 tablespoon sesame oil",
+            "1 tablespoon soy sauce",
+            "\u215b teaspoon chicken bouillon granules",
+            "1 \u00bd pounds skinless, boneless chicken breast halves - cut into 1 inch cubes",
+            "3 tablespoons potato starch",
+            "1 tablespoon rice flour",
+            "oil for frying"
+        ],
+        "recipe_directions_formatted": [
+            "In a large bowl, mix together eggs, salt, pepper, sugar, garlic, ginger, sesame oil, soy sauce, and bouillon. Add chicken pieces, and stir to coat. Cover, and refrigerate for 30 minutes.",
+            "Remove bowl from refrigerator, add potato starch and rice flour to meat, and mix well.",
+            "In a large skillet or deep fryer, heat oil to 365 degrees F (185 degrees C). Place chicken in hot oil, and fry until golden brown. Cook meat in batches to maintain oil temperature. Drain briefly on paper towels. Serve hot.",
+            "We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount may vary depending on cook time and temperature, ingredient density, and the specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "10 mins",
+            "Prep": "30 mins",
+            "Cook": "35 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "422",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "23g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/279203/instant-pot-japanese-curry/",
+        "recipe_name": "Instant Pot\u00ae Japanese Curry",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/rHp47xiyu-uJcZPF0VjOxc-_lGM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(767x0:769x2):format(webp)/7800592-4d8b69e6575241738674c275f0955a39.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd tablespoons canola oil",
+            "1  onion, chopped",
+            "1 \u00bd pounds beef, cut into 1/2-inch or 1-inch cubes",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "2 medium potatoes, peeled and cubed",
+            "2  carrots, peeled and chopped into 1/2-inch pieces",
+            "\u00bc teaspoon salt",
+            "\u00bc teaspoon ground black pepper",
+            "2 \u00bd cups beef broth",
+            "1 small apple, grated",
+            "1 tablespoon ketchup",
+            "1 tablespoon soy sauce",
+            "1 (3.5 ounce) container Japanese curry roux"
+        ],
+        "recipe_directions_formatted": [
+            "Turn on a multi-functional pressure cooker (such as Instant Pot\u00ae) and select Saute function. Heat oil in the pot. Add onion; saute until almost translucent, about 3 minutes. Add beef, garlic, and ginger; saute until beef begins to brown, about 3 minutes more. Mix in potatoes and carrots. Cook, stirring constantly, for 2 minutes. Season with salt and pepper.",
+            "Pour beef broth, apple, ketchup, and soy sauce into the pot. Break up curry roux into blocks and place on top of the beef mixture. Do not mix the blocks into the broth.",
+            "Turn Saute function off. Close and lock the lid. Seal valve. Select high pressure according to manufacturer's instructions; set timer for 15 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid. Stir broth to incorporate all the curry roux blocks, which should have melted over the top.",
+            "The easiest way to achieve the creamy, spicy, and perfect flavor is by using a curry roux, which you can find at any grocery store, even outside of Asian markets.",
+            "Substitute tonkatsu sauce for the ketchup, if desired."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "25 mins",
+            "Cook": "15 mins",
+            "Total": "40 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "276",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "28g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/58793/tonkatsu-asian-style-pork-chop/",
+        "recipe_name": "Tonkatsu - Asian-Style Pork Chop",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/xoH5gxgrncj6_5Ar82c3aaGOXAw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1223x0:1225x2):format(webp)/6195830-0586d9ad159e4195b2765f95b84eb089.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs",
+            "1 teaspoon milk",
+            "\u00bd teaspoon minced garlic",
+            "salt to taste",
+            "\u00bd teaspoon pepper",
+            "1 cup vegetable oil for frying",
+            "8  thin cut boneless pork chops",
+            "1 \u00bd cups panko crumbs"
+        ],
+        "recipe_directions_formatted": [
+            "In a medium bowl, mix together the eggs, milk, garlic, salt and pepper. Heat oil in a large heavy skillet over medium-high heat. Place the panko crumbs in a shallow bowl.",
+            "Rinse pork chops with water, then dip in the egg mixture. Coat with panko crumbs, dip in the egg mixture again, then coat with another layer of panko crumbs. Lay coated chops on a plate until the rest are finished. If you have time, let them set for about 10 minutes, and the coating will set very well. If you wish to freeze the chops, now is the time.",
+            "When the oil is very hot, place pork chops into the pan, and fry for about 5 minutes on each side, until golden brown."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "1 hr 30 mins",
+            "Total": "1 hr 40 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "331",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/216760/okinawa-shoyu-pork/",
+        "recipe_name": "Okinawa Shoyu Pork",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/RqdxPF2lUVYnsfWsE7-qwYYrOeg=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1727x0:1729x2):format(webp)/4650080-251ed9ac99ef42ce864bfba8ba4ba26a.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd pounds whole pork belly",
+            "\u00bd cup soy sauce",
+            "\u00bd cup packed brown sugar",
+            "\u00bd cup water",
+            "\u00bd cup mirin (Japanese sweet wine)",
+            "2 teaspoons ground ginger",
+            "1 clove garlic, or to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Place pork belly into a large pot, and cover with water about 1-inch above the pork. Bring to a boil over medium-high heat, and simmer for 2 minutes. Discard water and fill pot with fresh water about 1-inch above the pork. Bring to a boil over medium-high heat, then reduce heat to a simmer. Cook until the pork begins to soften, about 1 hour.",
+            "Remove the pork from the water, and place on a cutting board. Allow pork to cool for a few minutes, then slice off the thick skin and discard. Cut the remaining pork meat into 1-inch wide slices. Set aside.",
+            "Combine the soy sauce, brown sugar, 1/2 cup water, mirin, ginger, and garlic in a large saucepan, and bring to a boil over high heat. Add the sliced pork belly, then bring to a boil again. Reduce heat to low, and place a sheet of aluminum foil directly over the meat and sauce. Simmer uncovered until the pork is tender, 30 to 45 minutes, turning the pork several times to cook evenly.",
+            "It's best to use pork belly, but pork tenderloin or boneless pork short ribs are also great.",
+            "You can substitute 1/2 cup water for katsuo dashi. Katsuo dashi is a fish stock made from water and bonito flakes. In a small pot, boil 1-2 c of water and about 1/2 c bonito flakes for a few minutes. Pour into a bowl, straining the bonito flakes out of the liquid so you have only stock."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Dumpling Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "1 hr",
+            "Cook": "8 mins",
+            "Total": "1 hr 8 mins",
+            "Servings": "6",
+            "Yield": "40 gyoza"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "349",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "18g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/259900/pork-gyoza/",
+        "recipe_name": "Pork Gyoza",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/NzYOe1kMnqv-iZcrFnQ69esK4uU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4553335-pork-gyoza-ChefJackie-1x1-1-0efcedefa7f3461b86d07cdfaca106b6.jpg",
+        "recipe_ingredients_formatted": [
+            "12 ounces ground pork",
+            "\u00bc head cabbage, shredded",
+            "1  egg",
+            "2  spring onions, sliced",
+            "1 tablespoon soy sauce",
+            "2 teaspoons sake",
+            "2 teaspoons mirin",
+            "2 teaspoons minced fresh ginger root",
+            "40  gyoza wrappers, or as needed",
+            "2 tablespoons vegetable oil",
+            "\u00bd cup water"
+        ],
+        "recipe_directions_formatted": [
+            "Combine ground pork, cabbage, egg, spring onions, 1 tablespoon soy sauce, sake, mirin, and ginger in a large bowl; mix well.",
+            "Place approximately 1 to 2 teaspoons of the pork mixture in the center of each gyoza wrapper. Moisten your fingers with water and rub around the edges of each wrapper. Fold wrappers in half over filling, creating a semi circle. Take one side of the wrapper and make crimps along the edges for a decorative pattern (like pleats of a skirt) and press along the edges to seal the two sides together. Ensure there isn't much excess air caught inside the dumpling. Repeat until all the pork mixture is used.",
+            "Heat vegetable oil in a large skillet over medium-high heat. Place as many gyoza in the skillet as fit in a single layer and fry until the bottom is browned, about 3 to 5 minutes. Add water to skillet and reduce heat. Cover and allow gyoza to steam until all the water has evaporated, about 5 minutes. Repeat with the remaining gyoza.",
+            "Mix rice vinegar and soy sauce together for a dipping sauce and serve with the gyoza."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Cuisine",
+            "Asian",
+            "Japanese",
+            "Main Dishes"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/easy-japanese-recipes/",
+        "recipe_name": "20 Easy Japanese Recipes for Quick Weeknight Dinners",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/0_CP93EQZRp7jHbMwtZYAfiFofU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(324x0:326x2):format(webp)/1003751-35832726416b4911a8e952c3d7b9a958.jpg",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": [
+            "Japanese cooking is often defined by precise preparations and artful presentations, with every aspect of the meal designed to appeal to the senses. Sounds like a time commitment, right? Well, many Japanese meals are actually quick and easy to prepare. In fact, these top-rated Japanese recipes do it all! They feature exciting flavors, textures, and compositions -- everything we love about Japanese food, including major umami -- but they're ready in minutes. You'll love these quick and easy Japanese recipes on even your busiest weeknights. For more, check out our collection of Japanese Recipes.",
+            "Many Japanese dinners begin with miso soup -- \"One soup, three sides,\" as the saying goes. This simple, comforting Japanese miso soup is made with kombu, bonito flakes, and miso paste. \"Loved it!\" raves Buckwheat Queen. \"My daughter said it tasted just like the soup at her favorite Japanese restaurant.\"",
+            "\"Japanese curry recipes are different from Indian or Thai curries,\" says MMSVA. \"They're more of a brown stew, and can be mild or spicy, depending on your tastes. The curry roux, from no heat to very spicy, can be bought at any international grocery store. Serve over white rice or with udon noodles. This recipe is very flexible; it can easily be made for more or less people. It can also be frozen (don't put the potatoes in).\"",
+            "This simple Japanese comfort food recipe is ready in less than 20 minutes! \"Family Secret Revealed... This authentic Japanese recipe comes from a southern province of Japan, and has been passed down for generations,\" says chantal. \"Our family loves to eat this meal every Sunday for brunch. Healthy comfort food! Try it and you will love it too! Serve over hot white rice.\"",
+            "\"This is the best shrimp fried rice I've ever made or had!\" says doingdirt. \"The yum yum sauce tastes better if made the day before, so the flavors can marry.\"",
+            "\"Also known as 'yasai yakisoba,' this is a healthy and quick dish with stir-fried noodles, vegetables, and a savory sauce,\" says Diana71. \"The recipe can be easily doubled, but this is really best for one person.\"",
+            "Crispy deep-fried pork chops are the stars of this savory Japanese-style rice bowl. \"Also known as Katsudon,\" says otaku. \"Garnish with sliced green onions.\"",
+            "Broiled black cod with a miso glaze of miso, sake, mirin, and a little brown sugar. Brush a bit of glaze on the cod, allow the fish to sit momentarily to marinate, and then broil. Dinner's ready! \"This is my take on the oft requested miso-glazed, black cod, made famous by chef Nobu Matsuhisa,\" says Chef John. \"In addition to a taste and texture to die for, this is one of the easiest fish recipes of all time. A couple minutes to make the sauce, some brushing, a short wait, and you're broiling.\"",
+            "Tonkatsu is a popular Japanese-style fried pork cutlet. \"Serve plain with Japanese-style barbeque sauce or serve on top of curry, ramen, udon, and more!\" says otaku.",
+            "\"This is my family recipe for Chicken Katsu -- Japanese-style fried chicken,\" says akuraiiko. \"Can also be used to make Tonkatsu, just use pork cutlets instead of chicken. Serve with white rice and tonkatsu sauce.\"",
+            "Here's a Japanese hot pot recipe -- a one-pot Japanese meal with vegetables, noodles, and beef, all simmered in a steaming, flavorful broth made with dashi, mirin, and soy sauce. \"We have a favorite restaurant that serves beef sukiyaki and this came pretty close!\" raves Michelle. \"It was excellent.\"",
+            "Cubes of chicken breast meat are marinated in a soy sauce, sake, and ginger sauce, threaded onto skewers with leeks, and broiled. \"An easy, tasty, and fun meal,\" says dakota kelly.",
+            "Here's a broiled Japanese eggplant recipe with a sweet miso glaze. \"These tender eggplants are delicious as an appetizer or a vegetarian main course,\" says Mochi Puffs. If you cannot find agave nectar, try honey.\"",
+            "Thin slices of pork are stir-fried with ginger, daikon radish, sake, and mirin. \"I love this stir-fry because you can add any veggies you like, including spring onions, savoy, or Chinese cabbage... whatever you have handy,\" says ZAYO. \"If you can't find daikon radishes, use a bunch of small red radishes when in season.\"",
+            "Tuna steaks are coated with sesame seeds and quickly seared and served with wasabi and a dipping sauce of soy sauce, mirin, rice vinegar, honey, and sesame oil. . \"This tuna is served rare, so be sure to use a good quality fresh tuna,\" says NEWORLEANSGIGLET.",
+            "This traditional Japanese yakisoba noodle dish includes cabbage and chicken in a spicy sauce. \"This was a great recipe!\" raves mommyluv3. \"I used the reduced soy sauce as the other reviews had said. And instead of chopping up those vegetables, I just used a pack of tri-color coleslaw mix. It turned out great!\"",
+            "This simple one-pot recipe features sliced beef sirloin cooked with potatoes, onion, and snow peas in a sweet-savory sauce made with prepared dashi soup, sake, a touch of sugar, and soy sauce. \"So tasty!\" raves nikyma. \"I have a Japanese foreign exchange student who's been missing the food from home. He loved this! So did everyone else.\"",
+            "\"This is one of the really traditional, easy dishes in Japan,\" says kyoko. \"We often eat this dish with the rice, miso soup, grilled fish and Japanese pickles in the morning.\"",
+            "Ready in about 30 minutes! Cubes of chicken breast meat quickly stir-fry in soy sauce and brown sugar. You'll serve your lightly caramelized chicken with soba noodles over mixed salad greens and dressed with an olive oil, rice vinegar, and finely grated ginger vinaigrette. \"Wonderful and fairly fast meal,\" says Katagator.",
+            "It's breakfast for dinner, with a Japanese twist. This is a great way to use up leftover fried rice. As ZAYO explains: \"This recipe is an easy choice when you need to rustle up something for yourself and happen to have leftovers like rice and bacon and vegetables that need to be used up. This recipe is versatile -- use whatever you like.\"",
+            "A quick healthy dinner's ready in about 20 minutes! Fast and simple to make, \"This recipe is dedicated to the other side of the sushi bar menu, where after you work your way through the nigiri and sushi rolls, you discover things like tuna tataki and cold, Japanese-style spinach salad,\" says Chef John. This tuna is also great seared, chilled, and served cold."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "10 mins",
+            "Prep": "20 mins",
+            "Cook": "1 hr 30 mins",
+            "Total": "2 hrs",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "436",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/275651/instant-pot-tonkotsu-ramen-broth/",
+        "recipe_name": "Instant Pot Tonkotsu Ramen Broth",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/PF63hpTAjJaecvkNvbhGzVyNaFU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/6993109-4dc15e0368ab48e0826843f122d464e1.jpg",
+        "recipe_ingredients_formatted": [
+            "1 pound pork bones, with meat",
+            "1 tablespoon olive oil",
+            "2 small leeks, chopped",
+            "1  onion, roughly chopped",
+            "3 large cloves garlic, minced",
+            "5 cups water, divided",
+            "\u00bd teaspoon salt",
+            "\u00bd teaspoon ground black pepper",
+            "1 teaspoon dashi granules",
+            "1 tablespoon soy sauce",
+            "1 tablespoon shiro miso (white fermented soybean paste)",
+            "\u00bc cup fresh spinach",
+            "2 (3 ounce) packages ramen noodles, or to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Place the pork bones into a large pot and cover with water. Bring to a boil over medium-high heat and cook at a rolling boil for 5 minutes. Drain the pork bones into a colander in the sink and rinse well until water against the bones runs clear; this is the most important step of the process.",
+            "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saute function. Warm the olive oil in the pot. Add leeks, onion, and garlic. Saute until onion is clear and has begun to brown, 7 to 10 minutes. Turn Saute mode off.",
+            "Place the cleaned pork bones into the inner pot on top of the onion mixture. Add 4 cups of water. Place the lid onto the Instant Pot, with the vent set to Sealing. Select high pressure according to manufacturer's instructions; set timer for 45 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes, or turn vent to Venting.",
+            "Remove lid and carefully remove the inner pot. Strain the stock in a cheesecloth-lined colander that is placed on top of a large saucepan. Set aside. Remove any remaining meat from bones and set aside.",
+            "Season strained broth with salt and pepper. Add in dashi and remaining 1 cup water. Stir in soy sauce. Bring broth to a slow boil over medium-low heat; turn heat down to a simmer. Scoop out 1/3 cup of the broth into a bowl. Add the miso into the bowl and \"soften\" the miso with a spoon, dissolving it into the broth. Return this paste to the saucepan. Mix paste into the broth and combine well. Add spinach to the broth. Continue simmering for 10 minutes (do not bring to a boil).",
+            "Meanwhile, bring water to a boil in a pot. Add ramen noodles and cook until soft, about 2 minutes. Drain and rinse and place a good handful into a serving bowl. Pour tonkotsu broth into the bowl using a ladle. Add the pulled meat from the bones atop the noodles; add the spinach.",
+            "Boiling the pork bones blanches them, removes sediment or impurities, and cleans the bones and meat.",
+            "Prepare ramen noodles as directed by the packaging -- they can be dried or fresh.",
+            "You can use kale instead of spinach, if preferred.",
+            "Suggested toppings: green veggies such as kale or spinach, halved soft-boiled egg, flavored Japanese ginger, shredded pork meat from bones, sliced green onions, Japanese mixed chile pepper spiced blend."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "2 hrs 25 mins",
+            "Servings": "2",
+            "Yield": "2 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "297",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "20g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/107586/teriyaki-rib-eye-steaks/",
+        "recipe_name": "Teriyaki Rib Eye Steaks",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/iAhFJxbuYV2hFmtY6xnNZl_S_T4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/249288-358725d8271d423aa280c50a7e145a9f.jpg",
+        "recipe_ingredients_formatted": [
+            "2 tablespoons soy sauce",
+            "2 tablespoons water",
+            "1 tablespoon white sugar",
+            "1 \u00bd teaspoons honey",
+            "1 \u00bd teaspoons Worcestershire sauce",
+            "1 \u00bc teaspoons distilled white vinegar",
+            "1 teaspoon olive oil",
+            "\u00bc teaspoon onion powder",
+            "\u00bc teaspoon garlic powder",
+            "\u215b teaspoon ground ginger",
+            "2 (6 ounce) lean beef rib eye steaks"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk together the soy sauce, water, sugar, honey, Worcestershire sauce, vinegar, olive oil, onion powder, garlic powder, and ground ginger in a large bowl. Pierce steaks several times with a fork. Marinate steaks in soy sauce mixture for at least 2 hours.",
+            "Cook the steaks in a hot skillet, wok, or hibachi over medium heat; 7 minutes per side for medium. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "15 mins",
+            "Total": "30 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "295",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "26g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/8628/yakisoba-chicken/",
+        "recipe_name": "Yakisoba Chicken",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/oXyHe3tqeRgUnCDIT5dmArF8-Os=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/4553680-yakisoba-chicken-lindsayjboyd-4x3-1-f1c0f8bb98444cd7b9b4376a73d7ae69.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd teaspoon sesame oil",
+            "1 tablespoon canola oil",
+            "2 tablespoons chile paste",
+            "2 cloves garlic, chopped",
+            "4  skinless, boneless chicken breast halves - cut into 1 inch cubes",
+            "\u00bd cup soy sauce",
+            "1  onion, sliced lengthwise into eighths",
+            "\u00bd medium head cabbage, coarsely chopped",
+            "2  carrots, coarsely chopped",
+            "8 ounces soba noodles, cooked and drained"
+        ],
+        "recipe_directions_formatted": [
+            "In a large skillet combine sesame oil, canola oil and chili paste; stir-fry 30 seconds. Add garlic and stir fry an additional 30 seconds. Add chicken and 1/4 cup of the soy sauce and stir fry until chicken is no longer pink, about 5 minutes. Remove mixture from pan, set aside, and keep warm.",
+            "In the emptied pan combine the onion, cabbage, and carrots. Stir-fry until cabbage begins to wilt, 2 to 3 minutes. Stir in the remaining soy sauce, cooked noodles, and the chicken mixture to pan and mix to blend. Serve and enjoy!"
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Appetizers and Snacks",
+            "Seafood"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "4 hrs 30 mins",
+            "Prep": "30 mins",
+            "Cook": "None",
+            "Total": "5 hrs",
+            "Servings": "6",
+            "Yield": "6 salmon rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "291",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "11g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "recipe_name": "Smoked Salmon Sushi Roll",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/B-KAxRjIP5R0Dey7lpMgfqeD7uQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2):format(webp)/19511smoked-salmon-sushi-rollfabeveryday4x3-159a22b4d3ac49fe9a146db94b53c930.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups Japanese sushi rice",
+            "6 tablespoons rice wine vinegar",
+            "6 sheets nori (dry seaweed)",
+            "2 tablespoons wasabi paste",
+            "8 ounces smoked salmon, cut into long strips",
+            "1  cucumber, peeled and sliced",
+            "1  avocado - peeled, pitted and sliced"
+        ],
+        "recipe_directions_formatted": [
+            "Salmon sushi rolls are surprisingly easy to make at home! You just need a good salmon sushi recipe \u2014 and that's where we come in.",
+            "These homemade salmon sushi rolls are surprisingly easy to make with sushi rice, rice wine vinegar, seaweed, wasabi paste, smoked salmon, a cucumber, and an avocado.",
+            "You'll find the full, step-by-step recipe below \u2014 but here's a brief overview of what you can expect when you make salmon sushi at home:",
+            "1. Soak and cook the rice, then mix in the vinegar and cool in an even layer on a plate.\n2. Assemble the sushi rolls based on the detailed recipe below.\n3. Roll the sushi tightly and cut into eight pieces.",
+            "Learn more: How to Make Homemade Sushi",
+            "Looking for serving inspiration for salmon sushi? Try one of these top-rated side dish ideas:",
+            "\u00b7 Miso Soup\n\u00b7 Simple Roasted Edamame\n\u00b7 Homemade Pickled Ginger\n\u00b7 Kombu Seaweed Salad",
+            "These salmon sushi rolls are best served right away, but you can refrigerate them in an airtight container for up to two days.",
+            "\"I've been making sushi from this recipe for about three years now,\" says Annette Self. \"I've tried many variations of ingredients. It is an art no doubt. Patience is indeed needed, but quickness is a necessity. I also make a teriyaki-honey sauce for dipping.\"",
+            "\"Making this was surprisingly easy,\" according to FRAMBUESA. \"I've never made sushi before and didn't have a mat to roll the sushi into, but making the rolls in wax paper was a fine sub for the sushi mats and the flavor was excellent.\"",
+            "\"Make sure you keep your fingers wet when rolling so the rice doesn't stick to your fingers,\" advises phibie. \"It helps to keep a small bowl of water by you to dip your fingers in.\"",
+            "Editorial contributions by Corey Williams",
+            "Soak rice for 4 hours. Drain rice and cook in a rice cooker with 2 cups of water. Rice must be slightly dry as vinegar will be added later.",
+            "Immediately after rice is cooked, mix in rice wine vinegar; spread rice on a plate until completely cool.",
+            "Place 1 sheet of seaweed on a bamboo mat; press a thin layer of cool rice on seaweed, leaving at least a 1/2 inch top and bottom edge of the seaweed uncovered. This is for easier sealing later. Dot some wasabi on rice; arrange smoked salmon, cucumber, and avocado on rice about 1 inch away from the bottom edge of seaweed.",
+            "Slightly wet the top edge of seaweed; roll up tightly from the bottom to the top edge with the help of the bamboo mat. Cut salmon roll into 8 equal pieces and serve. Repeat for other rolls."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "25 mins",
+            "Cook": "25 mins",
+            "Total": "50 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "258",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "7g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/260850/japanese-pan-noodles/",
+        "recipe_name": "Japanese Pan Noodles",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/l06tiXBB1s3I1qwVPovMr_a1rB8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1281067-japanese-pan-noodles-Kristen-Wolfinbarger-4x3-1-07caa1d2e1b74a5fb1971dd2cd192d38.jpg",
+        "recipe_ingredients_formatted": [
+            "1 (10 ounce) package fresh udon noodles",
+            "\u00bd teaspoon sesame oil, divided, or to taste",
+            "2 cups chopped broccoli",
+            "\u00bd  green bell pepper, cut into matchsticks",
+            "2 small carrots, cut into matchsticks, or to taste",
+            "\u00bd  zucchini, thinly sliced",
+            "2 tablespoons soy sauce",
+            "2 tablespoons mirin (Japanese sweet wine)",
+            "1 tablespoon chili-garlic sauce",
+            "\u00be teaspoon minced ginger"
+        ],
+        "recipe_directions_formatted": [
+            "Bring a large pot of lightly salted water to a boil. Cook udon in boiling water, stirring occasionally, until noodles are tender yet firm to the bite, 10 to 12 minutes. Drain and rinse with cold water. Stir in a few drops of sesame oil.",
+            "Heat the remaining sesame oil in a large skillet over medium heat. Cook broccoli until bright green and still crunchy, about 5 minutes. Add green bell pepper and carrots; cook and stir until slightly softened, about 2 minutes. Add zucchini; cook until slightly softened, about 2 minutes more. Add soy sauce, mirin, chili-garlic sauce, and ginger; stir to combine. Mix in the noodles; cook and stir until noodles absorb some of the sauce, 1 to 2 minutes more."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Dumpling Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "15 mins",
+            "Total": "45 mins",
+            "Servings": "10",
+            "Yield": "30 gyoza"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "184",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/27190/gyoza/",
+        "recipe_name": "Gyoza",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/lJ6VeFfGMwIDYhPbSltWpT2Hmu0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/8068034-586cdd412013498cb4059331863c512b.jpg",
+        "recipe_ingredients_formatted": [
+            "1 tablespoon sesame oil",
+            "2 cups chopped cabbage",
+            "\u00bc cup chopped onion",
+            "\u00bc cup chopped carrot",
+            "1 clove garlic, chopped",
+            "\u00bd pound ground pork",
+            "1 large egg",
+            "1 (10 ounce) package wonton wrappers",
+            "1 tablespoon vegetable oil",
+            "\u00bc cup water",
+            "\u00bc cup soy sauce",
+            "2 tablespoons rice vinegar"
+        ],
+        "recipe_directions_formatted": [
+            "Heat sesame oil in a large skillet over medium-high heat. Add cabbage, onion, carrot, and garlic; cook and stir until cabbage is limp, 3 to 4 minutes. Add ground pork and egg; cook and stir until pork is browned and crumbly, 5 to 7 minutes.",
+            "Make the gyoza: Place about 1 tablespoon pork mixture into the center of a wonton wrapper. Fold wrapper in half over filling, then seal the edges with moistened fingers. Repeat to make remaining gyoza.",
+            "Heat vegetable oil in a large skillet over medium-high heat. Cook gyoza in the hot skillet until lightly browned, about 1 minute per side. Add water to the skillet, reduce the heat, cover, and steam gyoza until water is gone. Remove from the heat.",
+            "Mix soy sauce and rice vinegar together in a small bowl. Serve as a dipping sauce with gyoza.",
+            "Any ground meat can be substituted for ground pork."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Meat and Poultry",
+            "Chicken",
+            "Fried Chicken Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr 15 mins",
+            "Prep": "20 mins",
+            "Cook": "10 mins",
+            "Total": "1 hr 45 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "2263",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "29g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/8325387/karaage-japanese-fried-chicken/",
+        "recipe_name": "Karaage (Japanese Fried Chicken)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/l1AhTgQLeVeCg4vUO-3eP-PCLGM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/Karaage-Japanese-Fried-Chicken-2000-016048d4f39b49e08e0c245ab57a7f8f.jpg",
+        "recipe_ingredients_formatted": [
+            "1 clove garlic, finely grated",
+            "1 tablespoon finely grated fresh ginger",
+            "3 tablespoons soy sauce",
+            "3 tablespoons sake",
+            "1 tablespoon mirin",
+            "\u215b teaspoon sesame oil",
+            "\u00bc teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "\u00bd teaspoon white sugar",
+            "\u00bc teaspoon kosher salt",
+            "1 \u00bc pounds boneless, skinless chicken thighs, cut into 2-inch pieces",
+            "1 cup potato starch",
+            "1 quart canola oil, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "When we talk about the greatest fried chicken recipes of all time, karaage has to be at or near the top of that list. This Japanese fried chicken is crispy, juicy, and intensely flavorful, which is even more impressive when you consider the fact that there is no skin or bones involved. However, not all karaage recipes are created equal, and the awesomeness is very much dependent on how and what you coat your chicken pieces in.",
+            "For me, the secret to impossibly crispy karaage is pure potato starch. While I'm not known for my extensive, and exhaustive, recipe testing, I did many, many tests and experiments, using pretty much every possible combination of starch options; wheat flour, rice flour, cornstarch, et al., and potato starch was the winner. By the way, do not accidentally buy potato flour, which is not the same thing, and will not work the same. If you can't find potato starch, which you can, I think cornstarch is the next best option.",
+            "Above and beyond the coating starch, the marinade also varies from recipe to recipe, but most contain what I've used here, give or take a splash of mirin, and you shouldn't hesitate to experiment with different ratios. No matter what you use, I think a 2-3 hours marinade is perfect, but like I said in the video, anywhere from 1 to 10 hours is considered appropriate. No matter how long your soak, I hope you find some potato starch, and give this incredible fried chicken a try soon. Enjoy!",
+            "Mix garlic, ginger, soy sauce, sake, mirin, sesame oil, black pepper, cayenne, sugar, and salt in a medium bowl.",
+            "Place chicken in the marinade and mix until thoroughly and evenly coated. Cover and refrigerate for 1 to 10 hours.",
+            "Set up your dredging station: Place a wire rack over a foil-lined baking sheet. Add potato starch to a wide, shallow bowl.",
+            "Remove chicken from the refrigerator. Stir to coat with marinade. Toss 2 or 3 pieces at a time in the potato starch until evenly coated. Shake off any excess starch and place chicken on the wire rack. Repeat to dredge remaining pieces.",
+            "Tap the rack on the baking sheet to remove any loose chunks of starch, then transfer the baking sheet and rack of chicken to the refrigerator for 15 to 30 minutes.",
+            "Heat oil in a deep fryer to 350 degrees F (175 degrees C).",
+            "Without crowding, lower chicken carefully into the hot oil in batches. Fry, tossing occasionally, until cooked through and the outside is crunchy and browned, 3 to 4 minutes. Transfer to a paper towel-lined plate to drain. Repeat with remaining chicken.",
+            "If you can't find mirin, you can use sake plus an extra teaspoon of white sugar. You can use cornstarch instead of potato starch, but don't use potato flour! It's not the same as potato starch.",
+            "For crispier, darker karaage that's made in two steps and great for a party, try the double-fry method! Follow instructions to Step 6. Fry chicken as directed in step 7, but only fry for 1 \u00bd to 2 minutes. Remove to a rack and let cool to room temperature. Finish by frying at 350 degrees F (175 degrees C) for 2 more minutes. Chicken can be refrigerated until the second fry.",
+            "We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "45 mins",
+            "Prep": "40 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 45 mins",
+            "Servings": "4",
+            "Yield": "24 pieces"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "346",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "14g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/190943/spicy-tuna-sushi-roll/",
+        "recipe_name": "Spicy Tuna Sushi Roll",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/fXK545jimhbLYVj5fYqaGm46cSc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1679x479:1681x481):format(webp)/6648154-spicy-tuna-sushi-roll-Judy-Kyser-4x3-1-0d66a33e48c748b2890bcadc597db050.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups uncooked glutinous white rice",
+            "2 \u00bd cups water",
+            "1 tablespoon rice vinegar",
+            "1 (5 ounce) can solid white tuna in water, drained",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon chili powder",
+            "1 teaspoon wasabi paste",
+            "4 sheets nori (dry seaweed)",
+            "\u00bd  cucumber, finely diced",
+            "1  carrot, finely diced",
+            "1  avocado - peeled, pitted and diced"
+        ],
+        "recipe_directions_formatted": [
+            "Bring the rice, water, and vinegar to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Let stand, covered, for about 10 minutes to absorb any excess water. Set rice aside to cool.",
+            "Lightly mix together the tuna, mayonnaise, chili powder, and wasabi paste in a bowl, breaking the tuna apart but not mashing it into a paste.",
+            "To roll the sushi, cover a bamboo sushi rolling mat with plastic wrap. Lay a sheet of nori, rough side up, on the plastic wrap. With wet fingers, firmly pat a thick, even layer of prepared rice over the nori, covering it completely. Place about 1 tablespoon each of diced cucumber, carrot, and avocado in a line along the bottom edge of the sheet, and spread a line of tuna mixture alongside the vegetables.",
+            "Pick up the edge of the bamboo rolling sheet, fold the bottom edge of the sheet up, enclosing the filling, and tightly roll the sushi into a thick cylinder. Once the sushi is rolled, wrap it in the mat and gently squeeze to compact it tightly. Cut each roll into 6 pieces, and refrigerate until served."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Rice",
+            "Dinner"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "15 mins",
+            "Total": "45 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "290",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "26g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212636/japanese-beef-stir-fry/",
+        "recipe_name": "Japanese Beef Stir-Fry",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/YH81JcA_I7sJoC6y5Dkkd_oamuQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/6948147-928401ea3fbe4933b92f412fe3b11843.jpg",
+        "recipe_ingredients_formatted": [
+            "2 pounds boneless beef sirloin or beef top round steaks (3/4\" thick)",
+            "3 tablespoons cornstarch",
+            "1 (10.5 ounce) can  Campbell's\u00ae Condensed Beef Broth",
+            "\u00bd cup soy sauce",
+            "2 tablespoons sugar",
+            "2 tablespoons vegetable oil",
+            "4 cups sliced shiitake mushrooms",
+            "1 head Chinese cabbage (bok choy), thinly sliced",
+            "2 medium red peppers, cut into 2\"-long strips",
+            "3 stalks celery, sliced",
+            "2 medium green onions, cut into 2\" pieces",
+            "Hot cooked regular long-grain white rice"
+        ],
+        "recipe_directions_formatted": [
+            "Slice beef into very thin strips.",
+            "Mix cornstarch, broth, soy and sugar until smooth. Set aside.",
+            "Heat 1 tablespoon oil in saucepot or wok over high heat. Add beef in 2 batches and stir-fry until browned. Set beef aside.",
+            "Add 1 tablespoon oil. Add the mushrooms, cabbage, peppers, celery and green onions in 2 batches and stir-fry over medium heat until tender-crisp. Set vegetables aside.",
+            "Stir cornstarch mixture and add. Cook until mixture boils and thickens, stirring constantly. Return beef and vegetables to saucepot and heat through. Serve over rice."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "8 hrs",
+            "Prep": "15 mins",
+            "Cook": "5 mins",
+            "Total": "8 hrs 20 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "681",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "22g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/258032/karaage-japanese-fried-chicken-with-honey-mayoster-sauce/",
+        "recipe_name": "Karaage (Japanese Fried Chicken) with Honey Mayoster Sauce",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/8lyVNHa-wcNfHc7VIZHuVYpSl44=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1823x0:1825x2):format(webp)/5004303-535f4fce5d0f42f898ea18b1d6165275.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd tablespoons low-sodium soy sauce",
+            "1 tablespoon honey",
+            "2 teaspoons minced garlic",
+            "2 teaspoons minced fresh ginger",
+            "1 pound skinless, boneless chicken thighs, cut into bite-sized pieces",
+            "1  egg",
+            "1 cup panko bread crumbs",
+            "vegetable oil for frying"
+        ],
+        "recipe_directions_formatted": [
+            "Mix 1 1/2 tablespoon soy sauce, 1 tablespoon honey, garlic, and ginger together in a bowl. Add chicken; turn to coat. Marinate in the refrigerator, 8 hours to overnight.",
+            "Whisk egg in a bowl until smooth.",
+            "Pour panko bread crumbs into a shallow bowl. Dip chicken pieces in whisked egg and roll in panko until coated.",
+            "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Cook chicken in batches in the hot oil until golden brown, about 5 minutes. Transfer to paper towels to drain excess oil.",
+            "Mix Japanese mayonnaise, 2 tablespoons honey, Dijon mustard, mirin, and 1 tablespoon soy sauce together to make sauce. Pour sauce over chicken.",
+            "Japanese-style mayonnaise is tangier than its American counterpart. Look for the Kewpie brand online or at specialty groceries.",
+            "We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "10 mins",
+            "Total": "30 mins",
+            "Servings": "2",
+            "Yield": "2 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "718",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "30g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/75981/ashleys-chicken-katsu-with-tonkatsu-sauce/",
+        "recipe_name": "Ashley's Chicken Katsu with Tonkatsu Sauce",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/eToc841w-qK4mVgfysA-Ycfy_yw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/9177969-b887ef951b2d4b67bf73fa17be4aaadd.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup Worcestershire sauce",
+            "\u00bc cup ketchup",
+            "2 tablespoons soy sauce",
+            "pepper to taste"
+        ],
+        "recipe_directions_formatted": [
+            "For the sauce, stir together the Worcestershire sauce, ketchup, and soy sauce, and a pinch of pepper to taste. Set aside.",
+            "Heat oil in deep-fryer to 350 degrees F (175 degrees C).",
+            "Place flour and panko bread crumbs onto separate plates and season with salt and pepper. Place the beaten egg in a medium bowl. Dip flattened chicken pieces first into flour, then egg, and lastly bread crumbs.",
+            "Fry breaded chicken breasts in preheated oil until golden brown and no longer pink in center, about 8 minutes. Transfer to a paper towel-lined plate to absorb excess oil. Slice chicken into thin strips and top with a drizzle of sauce and a sprinkling of sliced green onions. Serve remaining sauce on the side for dipping."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "None",
+            "Total": "30 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "344",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "17g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/279434/spicy-tuna-rolls/",
+        "recipe_name": "Spicy Tuna Rolls",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/UmG9Gpl2dysF16cDq-WNt1kL1tg=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(852x0:854x2):format(webp)/7867009-7707e4609461471aaf76cd8ba07bc653.jpg",
+        "recipe_ingredients_formatted": [
+            "4 sheets nori (dry seaweed)",
+            "\u00bd pound sashimi-grade tuna, finely chopped",
+            "4 tablespoons mayonnaise",
+            "2  green onions, chopped",
+            "1 tablespoon hot chile sauce",
+            "2 \u00bd cups prepared sushi rice",
+            "1 tablespoon sesame seeds"
+        ],
+        "recipe_directions_formatted": [
+            "Cut off the bottom quarter of each nori sheet; reserve for another use.",
+            "Combine chopped tuna, mayonnaise, green onions, and hot sauce in a bowl.",
+            "Center 1 sheet of nori on a bamboo sushi mat. Wet your hands. Spread a thin layer of rice on the nori using your hands; press into a thin layer, leaving a 1/2-inch space at the bottom edge. Sprinkle with sesame seeds. Arrange 1/4 of the tuna mixture in a line across the rice, about 1/3 of the way down from the top of the sheet.",
+            "Wet the uncovered edge of the nori. Lift the top end of the mat and firmly roll it over the ingredients. Roll it forward to make a complete roll. Repeat with remaining ingredients.",
+            "Slice the rolls into 3/4-inch pieces using a wet knife. Serve immediately or refrigerate until serving.",
+            "Consuming raw seafood may increase your risk of foodborne illness, especially if you have certain medical conditions."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "1 hr 20 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "289",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "19g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/87392/japanese-ginger-pork/",
+        "recipe_name": "Japanese Ginger Pork",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/FSRY4-jwWAJMgxtJP8fgvJDC25k=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/724335-fe0966b64f9d4763ba20721606f32de3.jpg",
+        "recipe_ingredients_formatted": [
+            "2 tablespoons soy sauce",
+            "2 tablespoons sake",
+            "2 tablespoons mirin",
+            "1 tablespoon grated fresh ginger root",
+            "1 pound thinly sliced pork loin",
+            "3 tablespoons vegetable oil"
+        ],
+        "recipe_directions_formatted": [
+            "Mix together soy sauce, sake, mirin, and ginger in a large bowl until combined. Add sliced pork; stir to coat. Cover the bowl and marinate for about 1 hour.",
+            "Heat oil in a large skillet or wok over high heat. Saut\u00e9 pork in hot oil until browned and cooked through; discard marinade. An instant-read thermometer inserted into pork should read at least 145 degrees F (63 degrees C)."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Appetizers and Snacks"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "5 mins",
+            "Prep": "35 mins",
+            "Cook": "25 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "6",
+            "Yield": "24 rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "171",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/99204/cucumber-and-avocado-sushi/",
+        "recipe_name": "Cucumber and Avocado Sushi",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/SMdS5CDDNCHvh2naUlB_z_EGLSM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/118948-256020d3a201434b99fd97fea6cab9a2.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bc cups water",
+            "1 cup uncooked glutinous white rice (sushi rice)",
+            "3 tablespoons rice vinegar",
+            "1 pinch salt",
+            "4 sheets nori (dry seaweed)",
+            "\u00bd medium cucumber, sliced into thin strips",
+            "1 medium avocado - peeled, pitted and sliced"
+        ],
+        "recipe_directions_formatted": [
+            "Combine water and rice in a saucepan and bring to a boil. Cover, reduce the heat to low, and simmer until rice is tender and water has been absorbed, about 20 minutes. Remove from the heat, stir in vinegar and salt, and set aside to cool for at least 5 minutes.",
+            "Cover a bamboo sushi mat with plastic wrap to keep rice from sticking. Place one nori sheet over the plastic. Spread rice evenly onto nori sheet, leaving about a 1/2 inch uncovered at the bottom. Arrange cucumber and avocado across the center of the rice. Lift the mat, roll over cucumber and avocado once, and press down. Unroll, then roll again towards the uncovered end of the nori to make a long roll. Seal roll with a little water if necessary. Repeat to make remaining rolls.",
+            "Use a sharp, wet knife to slice each roll into 6 pieces.",
+            "You can add either fake crab to keep the sushi rolls vegetarian or smoked salmon if you prefer."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Cuisine",
+            "Asian",
+            "Japanese",
+            "Main Dishes"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/udon-noodle-recipes/",
+        "recipe_name": "15 Unbeatable Udon Noodle Recipes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/vY7BISk46gWZ_-p86ndwBnUpH7I=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/8932095_kitsune-udon_allrecipes-2a19fb290a3144a6b86ea6d849637897.jpg",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": [
+            "Udon is the ultimate comfort noodle: pleasantly toothsome and plump. Slurp these thick, Japanese wheat-flour noodles in soups, add them to stir-fries, or toss in salads for a quick weeknight meals. Find them fresh, frozen, or dried in the Asian foods section of most supermarkets.",
+            "Boiled udon noodles combine with a delectable simple, sauce made of creamy peanut butter, sweet honey, salty soy sauce, fresh ginger, and chicken broth. \"Excellent, quick recipe! Added some chicken, carrots, bean sprouts, and green beans, and it reminded me of the Thai chicken from The Cheesecake Factory,\" says VIRGINIA ADDIS.",
+            "This one-pot meal is Japanese-style comfort food that stars udon noodles, chicken, tofu, and colorful vegetables. There's something for everyone. \"This is very close to the nabeyaki udon my grandma used to make,\" says MrsSalty. \"The dashi stock is important, but if unavailable, chicken stock can work. It is very important to use fresh udon noodles. If you use packaged dry noodles, they will get very soggy and the texture ruins the dish. I like to crack the eggs into the boiling broth and stir it a bit, then there are no big yolk balls.\"",
+            "Slices of grilled marinated flank steak are served with udon noodles and vegetables. \"A delicious combination of Asian flavors infused in lean meat, vegetables, and Japanese udon noodles,\" says Chrissy. \"So comforting, you won't even know this was low-fat!\"",
+            "This super-fast stir-fry features fresh udon noodles with bacon, kimchi, and garlic in a sweet-and-spicy Asian-inspired sauce. \"This is a sweet, nutty, and spicy kimchi udon stir-fry your whole family will love -- and it takes mere minutes to make from start to finish!\" says chpmnk42. \"Top with cooked eggs and shredded nori if you like.\"",
+            "Ready in 30 minutes! \"This delicious stir-fry is similar to yakisoba, but is made with thick, white udon noodles and tossed with a much simpler sauce,\" says Diana71. \"Often used in soups, udon noodles are also delicious fried--the texture is just awesome because they are chewy. Try to find frozen or fresh udon noodles. Dried udon noodles will work, too, but you'll lose some of the signature texture.\"",
+            "Udon noodles are stir-fried with broccoli, bell peppers, and zucchini and coated with a chili-garlic sauce. \"This is a great recipe to make any time,\" says Kristen Wolfinbarger. \"Lots of flavor. Top with cilantro and bean sprouts.\"",
+            "Tender prawns, brightly colored veggies, and a sweet and salty sauce are all layered on top of udon noodles. \"It's fast, easy, nutritious, and affordable,\" says recipe creator prochef@home. \"Great for dinner on a weeknight when everyone is busy. I will halve the recipe when I'm only cooking for myself or double it when I am cooking for my whole family because it converts easily.\"",
+            "The perfect stick-to-your ribs recipe for a cold day, this chicken soup is full of chewy udon noodles, bok choy, and shiitake mushrooms. Best part? It's ready is just over half an hour.",
+            "In this recipe, hearty udon noodles are swimming in a curry-spiced broth with carrots and onions. \"Honestly one of the best recipes I have found so far! Really easy and fast to make,\" says reviewer Kayla Mod.",
+            "This cool salad is super easy to make, just requiring the chopping of a few ingredients and stirring together a simple sauce. Let it sit for the suggested 4 hours or longer, the flavors will continue to develop.",
+            "\"The noodles are springy and work perfectly with this dish,\" says Jasmine. \"The broth for this dish is very umami and slightly fishy with subtle notes of seaweed. The aburaage is soft and easy to eat, and contributes a lot of the dish's overall flavor. This can be served with fish cakes as well.\"",
+            "Ultra comforting, creamy, and with a hint of spice, this egg drop soup is made better with the addition of broken up udon noodles. Garnish with flavorful toppings like green onions, red chili flakes, and an extra drizzle of sesame oil.",
+            "\"Sweet with a touch of heat and very light. With minimum cooking, this is perfect for a summer night,\" says recipe creator NumNum. \"Garnish with cilantro, sesame seeds, and lime wedges, if desired.\"",
+            "In this quick-and-easy noodle bowl, hot udon noodles and a simple stir-fry sauce combine with chopped chicken, green onions, ginger, garlic, and stir-fry vegetables. \"Who doesn't love a fast meal at home, that rivals your local fast food joint? This noodle bowl comes together in less than thirty minutes and is effortless!\" says thedailygourmet. Garnish with toasted sesame seeds and green onions.",
+            "These simple sesame noodles are ready in less than 30 minutes. You'll shake up a dressing of garlic, ginger, soy sauce, rice vinegar, peanut oil, sesame oil, and hot pepper sauce and toss it with cooked udon noodles and microwaved vegetables like colorful bell peppers, green onions, and snap peas."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "20 mins",
+            "Total": "35 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "1222",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "26g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/129467/crispy-shrimp-tempura/",
+        "recipe_name": "Crispy Shrimp Tempura",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Mi2uklrMpSo6xhamcAjBOE_mSIM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2):format(webp)/129467-crispy-shrimp-tempura-ddmfs-4x3-1279-0d2e8debf0e04481acb89f60366bd405.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups vegetable oil for frying",
+            "1 cup all-purpose flour",
+            "2 tablespoons cornstarch",
+            "1 pinch salt",
+            "1 cup water",
+            "1 large egg yolk",
+            "2 large egg whites, lightly beaten",
+            "1 pound medium shrimp, peeled and deveined, tails left on"
+        ],
+        "recipe_directions_formatted": [
+            "Gather all ingredients.",
+            "Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+            "Whisk flour, cornstarch, and salt together in a large bowl; make a well in the center.",
+            "Pour water and egg yolk into the well and mix just until moistened; batter will be lumpy. Stir in egg whites.",
+            "Dip one shrimp at a time into batter to coat; do not batter tails.",
+            "When three shrimp have been battered, carefully place them into the deep fryer and fry until golden brown, about 1 1/2 minutes.",
+            "Remove with a slotted spoon and drain on a paper towel-lined plate. Repeat with remaining shrimp, battering a few at a time while the previous batch is cooking.",
+            "Nutrition data for this recipe includes the full amount of tempura batter ingredients. The actual amount consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "30 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "319",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "23g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/278809/air-fryer-tonkatsu/",
+        "recipe_name": "Air Fryer Tonkatsu",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/SIvr8VfUQ6bX61iGzNUTUX32tOs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1823x0:1825x2):format(webp)/7724372-9432d0c0565e48b9b718be11147bf779.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup ketchup",
+            "2 tablespoons soy sauce",
+            "1 tablespoon brown sugar",
+            "1 tablespoon sherry",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon minced garlic"
+        ],
+        "recipe_directions_formatted": [
+            "Make sauce: Whisk together ketchup, soy sauce, brown sugar, sherry, Worcestershire sauce, and garlic in a medium bowl until sugar is dissolved. Set sauce aside.",
+            "Preheat an air fryer to 350 degrees F (175 degrees C).",
+            "Prepare pork chops: Lay pork chops on a clean work surface; season with salt and pepper.",
+            "Beat eggs in a flat dish. Place bread crumbs in a separate flat dish.",
+            "Dip a pork chop in beaten eggs, then dredge in bread crumbs. Dip again in eggs, then press in bread crumbs to thoroughly coat. Repeat with remaining pork chops.",
+            "Place pork chops in the basket of the preheated air fryer and spray the tops with nonstick cooking spray. Air-fry for 10 minutes. Flip chops over using a spatula and spray the tops with nonstick cooking spray again. Air-fry for 10 more minutes. An instant-read thermometer inserted into the center of pork chops should read 145 degrees F (63 degrees C).",
+            "Transfer pork chops to a cutting board and slice. Serve with sauce."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Appetizers and Snacks",
+            "Wraps and Rolls"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "40 mins",
+            "Servings": "2",
+            "Yield": "2 sushi rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "444",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "11g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/169856/cream-cheese-and-crab-sushi-rolls/",
+        "recipe_name": "Cream Cheese and Crab Sushi Rolls",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/_7GyMf9XE1WhnEiSt15F1WWQkOM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2461x2022:2463x2024):format(webp)/RM-169856-CreamCheeseandCrabSushiRolls-ddmfs-3x4-6421-8d233e210db3458f8574bafad1c69e70.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup uncooked white rice",
+            "2 cups water",
+            "2 tablespoons rice vinegar",
+            "1 teaspoon salt",
+            "2 sheets nori seaweed sheets",
+            "\u00bc  cucumber, peeled and sliced lengthwise",
+            "2 pieces imitation crab legs",
+            "\u00bd (3 ounce) package cream cheese, sliced",
+            "1 teaspoon minced fresh ginger root"
+        ],
+        "recipe_directions_formatted": [
+            "Gather all ingredients.",
+            "Bring rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Stir in rice vinegar and salt. Allow to cool completely.",
+            "Lay out seaweed sheets. Moisten hands with water, then spread cooled rice evenly on each sheet, leaving a 1/2-inch gap along one edge, lengthwise. Arrange strips of cucumber, imitation crabmeat, and cream cheese on top of the rice in a straight line along the side opposite the gap. Roll up sushi from the toppings to the seaweed sheet's exposed end.",
+            "Using a sharp wet knife, slice each roll into 5 or 6 pieces. Serve with minced ginger on the side."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Kitchen Tips",
+            "How To"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/article/how-to-make-sushi-rolls/",
+        "recipe_name": "How to Make Homemade Sushi",
+        "recipe_img_url-src": "None",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": [
+            "Make your own sushi! Making sushi at home is surprisingly simple. We'll start with how to make sushi for beginners, which means sushi rolls. With just a little practice, you can make sushi rolls at home that are as dazzling to look at as they are delicious to eat.",
+            "Today, we're making a variation on the California roll. Along with sushi rice and sheets of seaweed (nori), California rolls require only a few ingredients: crab meat (or imitation), avocado, and cucumber. If you like, mix the crab meat with a little mayo to create a creamy consistency.",
+            "To this basic list of ingredients, we've added sliced carrots and cooked shrimp...because that's how we (sushi) roll. Before we got further, a quick note on sushi rice. You can't use just any rice for sushi. Sushi rice is a special preparation of rice flavored with rice vinegar, sugar, and salt. It's made from short-grain rice (Japonica), typically made in Japan and parts of California and Italy. With homemade sushi rice, you're aiming for rice that's fluffy and a little sticky but not too sticky. Give it a try -- you'll get the hang of it. See how to make sushi rice.",
+            "To make sushi at home, you'll need a few essential tools for making sushi:",
+            "This is the traditional way to roll any type of rolled sushi, which is called maki sushi. There are actually two options for this method: rolling with the sushi rice on top of the sheet of nori, as we do here; or with the nori flipped over so the rice ends up on the outside of the finished roll (uramaki sushi).",
+            "1. Place the bamboo rolling mat (you can get one for as little as $7 on Amazon) on a cutting board so the bamboo strips are running horizontally to you. Spread a strip of plastic wrap over the bamboo mat. Then place a sheet (or a half sheet) of nori on the plastic wrap.",
+            "2. Spread a thin layer of sushi rice over the nori. (See below for more about making perfect sushi rice.)",
+            "Don't use too much rice. With a little practice, you'll get a feel for how much rice to use. We're spreading about 1 cup of rice per whole sheet of nori, leaving a small space at the top edge of the nori so you can seal up the roll.",
+            "PRO TIP: Wet your fingers as you spread the sticky sushi rice over the nori.",
+            "3. Add your ingredients toward the center of the rice-covered nori. Don't overpack it. If you're making a roll with the rice on the outside, simply turn the nori over, placing it rice-side down on the rolling mat. Then add your ingredients to the top of the nori.",
+            "4. Gently lift the bottom of the mat up and over the sushi. Press and shape the ingredients into a tube. Roll with pressure so you get a firm roll.",
+            "5. Roll until just an inch of nori shows at the top. Seal the edge of the nori with a little cold water. Firm it up by squeezing the mat around the roll until it feels uniformly snug. Be careful not to squeeze so hard that the ingredients are smashed or come oozing out the sides. It's a fine line; with practice you'll get the feel of it.",
+            "6. Slice the sushi roll in half with a sharp knife on a cutting board. Then cut each half into thirds -- so you have 6 pieces of sushi. To get a nice clean cut, wet the knife with water each time you make a slice.",
+            "7. Line the slices of sushi up on platters or sushi plates. Enjoy with soy sauce, wasabi paste, and pickled ginger, and a little chopped daikon if you like.",
+            "OK, now let's watch sushi chef Hitoshi make a California roll. You'll notice he rolled his in the inside-out style, with the rice on the outside of the nori -- and he garnished the rice with a sprinkling of roe. Because he's a pro.",
+            "Once you can make a California roll, you're ready to roll spicy tuna, tiger, Philadelphia, or Seattle rolls, too. Here are some of the most popular sushi rolls with their common ingredients -- plus dipping sauce and condiment suggestions.",
+            "OK, now that you know how to make your own sushi at home, let's roll on with some choice sushi roll recipes:",
+            "Make It a Sushi Party!",
+            "Here's how to make sushi at home for a group. \"This recipe includes everything you need for a sushi dinner party for about 10 people,\" says the recipe submitter, Marcia. \"It includes California rolls, Boston rolls, lobster rolls, tempura eggplant and avocado rolls, pesto and egg rolls, and shrimp and asparagus rolls. We did not include any raw ingredients, since our people are a bit squeamish. Mix and match the fillings, as desired. Serve with pickled ginger, wasabi paste, and soy sauce.\"",
+            "VIDEO: How to Make Nigiri Sushi",
+            "Are you ready for the advanced course in sushi making? Nigiri sushi is made with thin slices of fresh raw fish (also cooked shrimp and egg omelet) on top of molded sushi rice, held in place with a light dab of wasabi paste. See how it's done:",
+            "Check out our collection of Sushi Recipes.",
+            "Related:"
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Appetizers and Snacks",
+            "Spicy"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "40 mins",
+            "Cook": "25 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "8",
+            "Yield": "4 cut rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "152",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/24228/sushi-roll/",
+        "recipe_name": "Homemade Sushi",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/yx0DbdU2vZ0rX2HqkmR66IwR3SY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u2153 cups water",
+            "\u2154 cup uncooked short-grain white rice",
+            "3 tablespoons rice vinegar",
+            "3 tablespoons white sugar",
+            "1 \u00bd teaspoons salt",
+            "4 sheets nori seaweed sheets",
+            "\u00bd pound imitation crabmeat, flaked",
+            "1  avocado - peeled, pitted, and sliced",
+            "\u00bd  cucumber, peeled, cut into small strips",
+            "2 tablespoons pickled ginger"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat the oven to 300 degrees F (150 degrees C).",
+            "Bring water to a boil in a medium pot; stir in rice. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes.",
+            "Mix rice vinegar, sugar, and salt in a small bowl. Gently stir into cooked rice in the pot and set aside.",
+            "Lay nori sheets on a baking sheet.",
+            "Heat nori in the preheated oven until warm, 1 to 2 minutes.",
+            "Center 1 nori sheet on a bamboo sushi mat. Use wet hands to spread a thin layer of rice on top. Arrange 1/4 of the crabmeat, avocado, cucumber, and pickled ginger over rice in a line down the center. Lift one end of the mat and roll it tightly over filling to make a complete roll. Repeat with remaining ingredients.",
+            "Use a wet, sharp knife to cut each roll into 4 to 6 slices.",
+            "If you do not have a bamboo sushi mat, the easiest way to roll sushi is with a clean dish towel."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "1 hr",
+            "Cook": "20 mins",
+            "Total": "1 hr 50 mins",
+            "Servings": "5",
+            "Yield": "5 rolls"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "445",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/228953/california-roll/",
+        "recipe_name": "California Roll",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/RjbfDsrhjtLgyshgXSOUpocD1vs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2):format(webp)/RM-228953-CaliforniaRoll-ddmfs-3x4-7242-00f66632c593466ab42d6c4a26eb6588.jpg",
+        "recipe_ingredients_formatted": [
+            "4 cups water",
+            "2 cups uncooked white rice",
+            "\u00bd cup seasoned rice vinegar",
+            "1 teaspoon white sugar, or to taste",
+            "1 teaspoon salt, or to taste",
+            "\u00bc pound cooked crab meat, drained of excess liquid and shredded",
+            "1 tablespoon mayonnaise",
+            "5 sheets nori (dry seaweed)",
+            "1  avocado, sliced",
+            "\u00bc cup red caviar, such as tobiko",
+            "1  English cucumber, seeded and sliced into strips",
+            "2 tablespoons drained pickled ginger, for garnish",
+            "2 tablespoons soy sauce, or to taste",
+            "1 tablespoon wasabi paste"
+        ],
+        "recipe_directions_formatted": [
+            "Gather all ingredients.",
+            "Wrap a sushi rolling mat completely in plastic wrap and set aside.",
+            "Bring water and rice to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes. Transfer rice to a bowl and cut in vinegar using a rice paddle or wooden spoon. Season with sugar and salt. Allow to cool to room temperature, about 30 minutes.",
+            "Combine crab meat with mayonnaise in a small bowl.",
+            "Place nori sheet on a flat work surface. Spread a thin layer of rice on top of nori.",
+            "Place nori, rice side down, on the prepared rolling mat. Place 2 to 3 avocado slices on top of the nori in one layer.",
+            "Top with 2 to 3 tablespoons of the crab mixture.",
+            "Spoon 1 to 2 teaspoons tobiko lengthwise on one side of the avocado-crab mixture, and 2 cucumber strips on the other side.",
+            "Using the mat as a guide, carefully roll the California roll into a tight log. Remove the rolling mat. Top roll with more tobiko, cover with plastic wrap, and gently press the tobiko into the top of the roll.",
+            "Remove the plastic and cut into 6 even pieces using a wet knife. Repeat with remaining sheets of nori and filling. Serve garnished with pickled ginger, soy sauce, and wasabi paste."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Meat and Seafood",
+            "Chicken"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "30 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "688",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "35g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/128589/oyakodon-japanese-chicken-and-egg-rice-bowl/",
+        "recipe_name": "Oyakodon (Japanese Chicken and Egg Rice Bowl)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/EK2w_1kd8WvOYBTvytNi6mbW-0Q=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3963616-oyakodon-japanese-chicken-and-egg-rice-bowl-iYing-4x3-1-60750fbc4fd94b5b9fa0eb3902d13bee.jpg",
+        "recipe_ingredients_formatted": [
+            "1 tablespoon olive oil",
+            "4  skinless, boneless chicken thighs, cut into small pieces",
+            "1  onion, cut in half and sliced",
+            "2 cups dashi stock, made with dashi powder",
+            "\u00bc cup soy sauce",
+            "3 tablespoons mirin (Japanese rice wine)",
+            "3 tablespoons brown sugar",
+            "4 large eggs",
+            "4 cups hot cooked white rice"
+        ],
+        "recipe_directions_formatted": [
+            "Heat oil in a large skillet over medium heat. Add chicken and cook until beginning to brown, about 5 minutes. Add onion; cook and stir until onion is translucent, about 5 minutes.",
+            "Pour in stock, then whisk in soy sauce, mirin, and brown sugar; stir until sugar dissolves. Bring to a boil, then lower heat and simmer until slightly reduced, about 10 minutes.",
+            "Whisk eggs in a bowl until well-beaten, then pour into the hot stock mixture. Cover the skillet, reduce the heat, and steam until egg is cooked, about 5 minutes. Remove from the heat.",
+            "Divide rice among 4 deep soup bowls and top with equal amounts of the soup mixture."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Seafood",
+            "Fish"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "3 hrs",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "3 hrs 20 mins",
+            "Servings": "4",
+            "Yield": "4 fillets"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "287",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "25g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/190094/miso-and-soy-chilean-sea-bass/",
+        "recipe_name": "Miso and Soy Chilean Sea Bass",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/KnWkRHgNXZkWpN27-Z6uZPOaQxs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/9120299-3c772609cada488481a8daaa94678bde.jpg",
+        "recipe_ingredients_formatted": [
+            "\u2153 cup sake",
+            "\u2153 cup mirin (Japanese sweet rice wine)",
+            "\u2153 cup miso paste",
+            "\u00bc cup packed brown sugar",
+            "3 tablespoons soy sauce",
+            "4 (4 ounce) fillets fresh sea bass, about 1 inch thick",
+            "2 tablespoons chopped green onion"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk together sake, mirin, miso paste, brown sugar, and soy sauce in a bowl. Place sea bass fillets in a large resealable plastic bag; pour marinade over fillets. Chill in the refrigerator for 3 to 6 hours.",
+            "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Prop the oven door to remain slightly ajar.",
+            "Arrange fillets on a baking sheet; discard marinade.",
+            "Broil sea bass in the preheated oven until fish flakes easily with a fork, 7 to 9 minutes.",
+            "Sprinkle with chopped green onions to serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Cuisine",
+            "Asian",
+            "Japanese"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "318",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "32g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/278708/air-fryer-chicken-katsu-with-homemade-katsu-sauce/",
+        "recipe_name": "Air Fryer Chicken Katsu with Homemade Katsu Sauce",
+        "recipe_img_url-src": "None",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup ketchup",
+            "2 tablespoons soy sauce",
+            "1 tablespoon brown sugar",
+            "1 tablespoon sherry",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon minced garlic"
+        ],
+        "recipe_directions_formatted": [
+            "Prepare sauce: Whisk ketchup, soy sauce, brown sugar, sherry, Worcestershire sauce, and garlic together in a bowl until sugar has dissolved. Set katsu sauce aside.",
+            "Preheat an air fryer to 350 degrees F (175 degrees C).",
+            "Meanwhile, lay chicken pieces on a clean work surface. Season with salt and pepper.",
+            "Place beaten eggs in a flat dish or shallow bowl. Pour bread crumbs into a second flat dish. Dredge chicken pieces in egg and then in bread crumbs. Repeat by dredging chicken in egg and then bread crumbs again, pressing down so the bread crumbs stick to the chicken.",
+            "Place chicken pieces in the basket of the preheated air fryer. Spray the tops with nonstick cooking spray.",
+            "Air fry for 10 minutes. Flip chicken pieces over using a spatula and spray the tops with nonstick cooking spray. Cook for 8 minutes more. Transfer chicken to a cutting board and slice. Serve with katsu sauce.",
+            "Nutrition data for this recipe includes the full amount of breading ingredients. The actual amount of breading consumed will vary."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Seafood Main Dishes",
+            "Shrimp"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "630",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "28g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/127500/japanese-style-deep-fried-shrimp/",
+        "recipe_name": "Japanese-Style Deep-Fried Shrimp",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/E-k8opv6hd5R-fxIIlINQCKxrUw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/599150-68fb2d1226834303b5223f315ee45ca6.jpg",
+        "recipe_ingredients_formatted": [
+            "1 pound medium shrimp, peeled (tails left on) and deveined",
+            "\u00bd teaspoon salt",
+            "\u00bd teaspoon ground black pepper",
+            "\u00bd teaspoon garlic powder",
+            "1 cup all-purpose flour",
+            "1 teaspoon paprika",
+            "2 large eggs, beaten",
+            "1 cup panko crumbs",
+            "1 quart vegetable oil for frying"
+        ],
+        "recipe_directions_formatted": [
+            "Place shrimp in a bowl and season with salt, pepper, and garlic powder. Mix flour and paprika together in a shallow bowl. Place eggs in a second bowl and panko in a third bowl.",
+            "Heat oil in a deep fryer or deep skillet to 375 degrees F (190 degrees C).",
+            "Dip each shrimp into flour mixture, then into egg, and finally into panko crumbs to coat.",
+            "Fry a few shrimp at a time in the hot oil until golden brown, about 5 minutes. Remove with a slotted spoon and drain on paper towels before serving.",
+            "Nutrition data for this recipe includes the full amount of breading ingredients. The actual amount of breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Main Dishes",
+            "Seafood Main Dishes",
+            "Tuna"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "1 mins",
+            "Total": "11 mins",
+            "Servings": "4",
+            "Yield": "4 steaks"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "422",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "44g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/71698/sesame-seared-tuna/",
+        "recipe_name": "Sesame-Seared Tuna",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/OqjwcmF4L3MsrKlVHsLEhDri2gI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/71698-Sesame-Seared-Tuna-OMAHAKATE_3496846_original-1x1-1-6bf81c53cead4bd8a564a2f27e83e9fa.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bc cup soy sauce",
+            "2 tablespoons sesame oil",
+            "1 tablespoon mirin (Japanese sweet wine)",
+            "1 tablespoon honey",
+            "1 tablespoon rice wine vinegar",
+            "\u00bd cup sesame seeds",
+            "4 (6 ounce) tuna steaks",
+            "1 tablespoon olive oil",
+            "wasabi paste"
+        ],
+        "recipe_directions_formatted": [
+            "Stir together soy sauce, sesame oil, mirin, and honey in a small bowl. Pour half into a separate small bowl, stir in rice wine vinegar, and set it aside as a dipping sauce.",
+            "Spread sesame seeds out on a plate. Coat tuna steaks with remaining soy sauce mixture, then press into sesame seeds to coat.",
+            "Heat olive oil in a cast iron skillet over high heat until very hot. Place steaks in the pan; sear for about 30 seconds on each side. Serve with dipping sauce and wasabi paste."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Meat and Poultry",
+            "Chicken",
+            "Chicken Breast",
+            "Breaded Chicken"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "10 mins",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "297",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "31g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/72068/chicken-katsu/",
+        "recipe_name": "Chicken Katsu",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/vfHICkmfQGEvOzRDupRudZmb1RQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1329x1375:1331x1377):format(webp)/5816671_ChickenKatsu4x3-e164943b1c804c358f97f1119f75fbe0.jpg",
+        "recipe_ingredients_formatted": [
+            "4  skinless, boneless chicken breast halves - pounded to 1/2 inch thickness",
+            "salt and pepper to taste",
+            "2 tablespoons all-purpose flour",
+            "1  egg, beaten",
+            "1 cup panko bread crumbs",
+            "1 cup oil for frying, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Make restaurant-worthy chicken katsu at home with this top-rated recipe. You won't believe how quickly it comes together with simple ingredients!",
+            "Katsu is a Japanese dish of crispy fried cutlets coated with Panko bread crumbs. Popular varieties are chicken katsu (like this recipe) and tonkatsu (which is made with pork).",
+            "You'll find a detailed ingredient list and step-by-step instructions in the recipe below, but let's go over the basics:",
+            "These are the ingredients you'll need to make this chicken katsu recipe at home:",
+            "\u00b7 Chicken: You'll need four skinless, boneless chicken breast halves.\n\u00b7 Seasonings: This chicken katsu recipe is simply seasoned with salt and pepper.\n\u00b7 Flour: All-purpose flour helps seal in the moisture, adds flavor, and promotes browning.\n\u00b7 Egg: An egg adds moisture and gives the Panko something to stick to.\n\u00b7 Panko: Panko bread crumbs are responsible for katsu's signature crunch.\n\u00b7 Oil: Opt for a neutral oil with a high smoke point, such as canola or vegetable oil.",
+            "Here's a brief overview of what you can expect when you make homemade chicken katsu:",
+            "1. Season the chicken, then dredge in flour.\n2. Coat each breast in egg, then press into the Panko.\n3. Fry the chicken katsu until golden brown.",
+            "In need of some serving inspiration? Try pairing your chicken katsu with tonkatsu sauce and one of these irresistible side dishes:",
+            "\u00b7 Kombu Seaweed Salad\n\u00b7 Japanese-Style Cabbage Salad\n\u00b7 Miso Soup",
+            "Allow the chicken katsu to cool completely, then store your leftovers in an airtight container in the refrigerator for up to three days. Reheat in the oven or in the microwave.",
+            "\"This was so easy and so yummy,\" raves Sarah. \"The whole family loved every bite. I served it with white rice and sweet and sour sauce.\"",
+            "\"Made exactly as instructed with one exception \u2014 I didn't have Panko, so I pulsed some herb-seasoned breadcrumbs in the food processor,\" says Melnal.",
+            "\"Delicious, inexpensive, and easy to make,\" according to EmptyRecipe. \"It will make you think twice why you would ever order this at a restaurant.\"",
+            "Editorial contributions by Corey Williams",
+            "Season chicken breasts on both sides with salt and pepper. Place flour, beaten egg, and panko crumbs into separate shallow dishes. Coat chicken breasts in flour, shaking off any excess; dip into egg, and then press into panko crumbs until well coated on both sides.",
+            "Heat oil in a large skillet over medium-high heat. Place chicken in the hot oil, and fry until golden brown, 3 or 4 minutes per side. Transfer to a paper towel-lined plate to drain.",
+            "Nutrition data for this recipe includes the full amount of breading ingredients. The actual amount of breading consumed will vary.",
+            "We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+        ]
+    }
+]

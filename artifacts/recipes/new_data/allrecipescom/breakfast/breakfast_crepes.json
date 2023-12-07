@@ -1,0 +1,2441 @@
+[
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "25 mins",
+            "Cook": "15 mins",
+            "Total": "40 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "573",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/257970/chocolate-raspberry-blintzes/",
+        "recipe_name": "Chocolate Raspberry Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/BZ7RiVeiXd5YZhr9it1NxAj58Wc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1621x0:1623x2):format(webp)/6400939-cc4f57aaa6884606a19ab1d1b37703ff.jpg",
+        "recipe_ingredients_formatted": [
+            "1 (8 ounce) package cream cheese, softened",
+            "\u2153 (13 ounce) jar chocolate-hazelnut spread (such as Nutella\u00ae)",
+            "\u00bd (8 ounce) package mixed berry cream cheese, softened",
+            "1 tablespoon milk",
+            "2 teaspoons vanilla extract",
+            "\u00bd cup butter, melted",
+            "1 cup white sugar",
+            "2 tablespoons ground cinnamon",
+            "1 loaf sliced white bread, crusts removed"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Mix cream cheese, chocolate-hazelnut spread, berry cream cheese, milk, and vanilla extract together in a bowl.",
+            "Pour melted butter into a shallow bowl.",
+            "Combine sugar and cinnamon in a separate shallow bowl.",
+            "Flatten bread slices out on a work surface. Spread cream cheese mixture over each slice. Roll up each slice. Dip rolls in melted butter; coat with cinnamon sugar. Arrange seam-side down in a baking dish.",
+            "Bake in the preheated oven until lightly golden, 15 to 20 minutes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "10 mins",
+            "Prep": "15 mins",
+            "Cook": "50 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "422",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "16g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/37341/blenty-of-blintzes/",
+        "recipe_name": "Blenty of Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/KS2rDmuT7JYTCzXeEhR95WQYSaA=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/8280879-90d0338d1a214378b7ee2d7fbbfa6dd4.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bc cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "\u00bd cup butter, softened",
+            "3 tablespoons white sugar",
+            "2  eggs",
+            "\u00be cup milk",
+            "1 (16 ounce) container cottage cheese, creamed",
+            "2 tablespoons butter, softened",
+            "1  egg",
+            "1 tablespoon sour cream",
+            "\u00bd teaspoon salt"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x9 inch baking dish.",
+            "In a medium bowl, mix flour, baking powder, butter and sugar. Stir in eggs and milk. In a separate medium bowl, mix cottage cheese, butter, egg, sour cream and salt.",
+            "Place 1/2 the flour mixture in the baking dish. Cover with the cottage cheese mixture, and top with remaining flour mixture.",
+            "Bake 50 minutes in the preheated oven, until puffed and golden brown. Allow to cool slightly, and cut into squares to serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "20 mins",
+            "Prep": "20 mins",
+            "Cook": "35 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "4",
+            "Yield": "8 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "392",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "24g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212780/cheese-blintzes-ii/",
+        "recipe_name": "Cheese Blintzes II",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/uX2dR8sgM7eiV4RFi0xp63VsAto=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1631x0:1633x2):format(webp)/5286799-412a0ed034de44e780709cd7481cb33e.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "3  eggs",
+            "\u00bd teaspoon salt",
+            "\u00be cup all-purpose flour",
+            "2 cups cottage cheese",
+            "1  egg yolk",
+            "1 teaspoon melted butter",
+            "2 teaspoons white sugar",
+            "1 teaspoon lemon juice",
+            "\u00bd teaspoon vanilla extract",
+            "2 tablespoons butter, or as needed",
+            "2 tablespoons cinnamon sugar, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Place the milk, whole eggs, salt, and flour into a blender. Blend until smooth. Refrigerate at least 20 minutes. Meanwhile, make the filling by beating together the cottage cheese, egg yolk, melted butter, sugar, lemon juice, and vanilla extract in a bowl with an electric mixer until smooth.",
+            "Preheat an oven to 425 degrees F (220 degrees C). Lightly grease a baking sheet.",
+            "Melt some of the 2 tablespoons of butter in a skillet over medium-high heat. Pour in about 2 tablespoons of the batter and tilt the pan to completely coat with the batter. Cook until golden on the bottom, and no longer wet on the top, about 2 minutes per crepe. Repeat with remaining batter.",
+            "Place 1 to 2 tablespoons of the filling near one edge of a crepe. Fold this side up towards the center, then fold the sides in. Fold the top over the filling, and place seam-side-down onto the prepared baking sheet. Repeat with the remaining crepes and filling.",
+            "Bake in the preheated oven 10 minutes, then sprinkle with cinnamon sugar, and continue baking until lightly golden, about 5 minutes more."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "35 mins",
+            "Cook": "40 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "10",
+            "Yield": "10 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "264",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "14g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212779/baby-blintz-stacks/",
+        "recipe_name": "Baby Blintz Stacks",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/HDKUatwXSg2PbHop-yfvNw0huAM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/635288-9b69c51b431c4531b15172e66d2db574.jpg",
+        "recipe_ingredients_formatted": [
+            "1 (24 ounce) carton cottage cheese",
+            "2  fresh peaches - peeled, pitted and chopped",
+            "3 tablespoons white sugar",
+            "\u00bd teaspoon ground nutmeg",
+            "\u00bc teaspoon salt",
+            "\u00bc teaspoon almond extract",
+            "\u00bd cup sour cream",
+            "2 tablespoons brown sugar",
+            "1 \u00bd cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "\u00bd teaspoon baking powder",
+            "\u00bd teaspoon salt",
+            "\u00bd teaspoon ground nutmeg",
+            "2 cups milk",
+            "2  eggs",
+            "2 tablespoons melted butter",
+            "\u00bd teaspoon vanilla extract",
+            "2  fresh peaches, pitted and sliced"
+        ],
+        "recipe_directions_formatted": [
+            "Stir together the cottage cheese, chopped peaches, 3 tablespoons white sugar, 1/4 teaspoon salt, and the almond extract in a bowl until evenly combined. Stir together the sour cream and brown sugar in a separate bowl. Refrigerate both fillings until ready to use.",
+            "Whisk together the flour, 1 tablespoon of white sugar, the baking powder, 1/2 teaspoon salt, and the nutmeg in a bowl. Beat the eggs, milk, butter, and vanilla extract in a separate bowl until smooth. Stir in the flour mixture until no lumps remain.",
+            "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle to form silver dollar-sized blintzes. Cook until bubbles form and the edges are dry, about 2 minutes. Flip, and cook until browned on the other side. Repeat with remaining batter.",
+            "To assemble, spread 1 tablespoon of peach filling on top of each blintz. Stack together 5 blintzes to make a serving portion, and spoon the sweetened sour cream overtop. Garnish with peach slices."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "4 mins",
+            "Total": "34 mins",
+            "Servings": "12",
+            "Yield": "12 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "237",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "6g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/260548/cheese-and-lemon-blintzes/",
+        "recipe_name": "Cheese and Lemon Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/AFPQkosoe8bb4sKwULrD-m2TvWc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1015x0:1017x2):format(webp)/6814227-c5212658d6424b5f9db2d07817cdebfc.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "3  eggs",
+            "\u00bd teaspoon salt",
+            "cooking spray"
+        ],
+        "recipe_directions_formatted": [
+            "Mix flour, eggs, and salt together in a bowl until smooth and creamy.",
+            "Lightly coat a small skillet with cooking spray. Pour 2 to 3 tablespoons of batter into the skillet. Swirl around until even and then place skillet over medium heat. Cook until sides begin to curl away, about 2 minutes. Turn and cook other side until lightly browned, about 1 minute more. Put onto a plate.",
+            "Mix cream cheese, raisins, sugar, egg yolks, lemon peel, vanilla extract, and cinnamon together in a bowl to make the filling. Place 2 to 3 teaspoons of filling on each blintz and roll up like a small burrito.",
+            "Melt 1 tablespoon butter in a skillet over medium heat. Cook the filled blintzes, turning carefully, until lightly browned, about 30 seconds each."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "15 mins",
+            "Cook": "45 mins",
+            "Total": "2 hrs",
+            "Servings": "4",
+            "Yield": "12 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "611",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "28g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/199579/orange-blintzes/",
+        "recipe_name": "Orange Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/cTsSbhRG0aeCJ71E6or1aVsG2kk=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1444887-13e8a4b782234a73a0044bfa7c43d385.jpg",
+        "recipe_ingredients_formatted": [
+            "2 tablespoons white sugar",
+            "1 teaspoon grated orange zest",
+            "\u00be teaspoon salt",
+            "1 cup all-purpose flour",
+            "\u00bc cup milk",
+            "\u00bc cup vanilla yogurt",
+            "2 tablespoons extra-virgin olive oil",
+            "4  eggs",
+            "\u00bd cup orange juice",
+            "1  egg",
+            "3 tablespoons white sugar",
+            "2 tablespoons unsalted butter, melted",
+            "1 (16 ounce) package small curd cottage cheese",
+            "5 tablespoons dry bread crumbs",
+            "1 tablespoon grated orange zest",
+            "2 tablespoons unsalted butter"
+        ],
+        "recipe_directions_formatted": [
+            "Mix 2 tablespoons of sugar, 1 teaspoon of orange zest, salt, and flour in a small bowl. Combine milk and yogurt in a separate bowl. Stir in olive oil and mix until smooth. Beat 4 eggs in a large bowl, then add orange juice. Stir in the yogurt mixture followed by the flour mixture. Beat until smooth. Allow batter to rest at room temperature for 1 hour.",
+            "Beat 1 egg with 3 tablespoons of sugar, then add butter and cottage cheese, mixing until smooth. Stir in the bread crumbs and 1 tablespoon of orange zest. Refrigerate until the batter is ready.",
+            "Lightly butter a 6 inch skillet, and heat over medium heat. For each crepe, pour 1/4 cup of the batter into the skillet, and immediately rotate the skillet until the batter evenly coats the bottom in a thin layer. Cook until the top of the crepe is no longer wet and the bottom has turned light brown. Run a spatula around the edge of the skillet to loosen; flip the crepe, and cook until the other side has turned light brown. Stack the crepes in a clean kitchen towel, placing waxed paper between each.",
+            "Place 2 to 3 tablespoons of the filling onto the golden side of the crepe. Roll the crepe up and repeat until all the blintzes are made. Heat 2 tablespoons of butter in a large skillet and fry 4 to 5 blintzes at a time until golden brown, about 2 minutes on each side."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "10 mins",
+            "Cook": "25 mins",
+            "Total": "1 hr 35 mins",
+            "Servings": "10",
+            "Yield": "20 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "321",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212819/marylyns-cheese-blintzes/",
+        "recipe_name": "Marylyn's Cheese Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/2MmPJUTVODEsNYYNWpvYI4YR-xs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1187x0:1189x2):format(webp)/6979316-96e54923a7604e978350574a98c2f155.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup water",
+            "\u00be cup milk",
+            "3  eggs",
+            "5 tablespoons melted butter",
+            "\u00bd teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 \u00bd cups all-purpose flour",
+            "1 (16 ounce) package cottage cheese",
+            "1 (8 ounce) package farmers cheese",
+            "\u00bc cup sour cream",
+            "2 tablespoons white sugar",
+            "1 teaspoon vanilla extract",
+            "1 pinch salt",
+            "2 tablespoons butter, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Place the water, milk, eggs, melted butter, 1/2 teaspoon of salt, 1 teaspoon of vanilla extract, and flour in the container of a blender, and blend until the mixture forms a smooth batter, about 1 minute. Pour into a bowl, and refrigerate at least 1 hour.",
+            "Clean the blender container, then add the cottage cheese, farmers cheese, sour cream, sugar, 1 teaspoon of vanilla extract, and 1 pinch of salt. Pulse the filling mixture a few times to combine, then blend until the filling is smooth, about 2 minutes.",
+            "Melt 1 teaspoon of butter in an 8-inch skillet over medium heat until the foam disappears from the skillet. Pour about 2 tablespoons of batter into the heated skillet, and swirl the pan to coat the bottom completely. Cook until the crepe is opaque and set, 1 to 2 minutes, and set aside, uncooked side down, on a plate lined with wax paper. Repeat with the rest of the batter, buttering the pan every few crepes if needed.",
+            "To fill, place a crepe in front of you on a work surface with the cooked side up, and place about 1 1/2 tablespoons of cheese filling about 1 1/2 inches from the top of the crepe. Fold the top edge of the crepe over the filling, and fold the two sides inward to completely enclose the cheese. Roll the crepe over to seal the filling in, making a compact filled roll.",
+            "Melt 1 teaspoon of butter, or as needed, in a skillet over medium-low heat. Pan fry the blintzes on both sides until the filling is hot and brown spots appear on the crepe, 1 to 2 minutes per side."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "15 mins",
+            "Cook": "1 mins",
+            "Total": "2 hrs 16 mins",
+            "Servings": "10",
+            "Yield": "10 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "201",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/246832/strawberry-blintzes/",
+        "recipe_name": "Strawberry Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/8cq2H9jLXyixL3ddRltB19x3-o0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4561866-5edfd49d342f4b97bbee5b270796b18a.jpg",
+        "recipe_ingredients_formatted": [
+            "3  eggs",
+            "\u2154 cup all-purpose flour",
+            "\u00bd teaspoon salt",
+            "1 \u00bd cups milk",
+            "1 \u00bd tablespoons butter, melted"
+        ],
+        "recipe_directions_formatted": [
+            "Beat eggs, flour, and salt together in a large bowl until smooth. Mix in milk and 1 1/2 tablespoon butter gradually. Cover with plastic wrap and let batter rest in the refrigerator, at least 2 hours.",
+            "Combine cottage cheese, cream cheese, sugar, and vanilla extract in a blender; blend until filling is smooth.",
+            "Melt a bit of butter in a large skillet or crepe pan over medium heat. Ladle in a small amount of batter and swirl skillet to spread batter in a thin layer. Cook until set, about 30 seconds. Flip and continue cooking until second side is cooked, about 10 seconds. Transfer to a plate to cool. Repeat with remaining butter and batter.",
+            "Spoon filling onto blintzes and fold. Top with strawberries."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "15 mins",
+            "Prep": "25 mins",
+            "Cook": "19 mins",
+            "Total": "59 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "253",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/260547/traditional-cheese-blintzes/",
+        "recipe_name": "Traditional Cheese Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/XKoPGOy68YhkcYn2L2IaAzppvnM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4564399-b911d5509bf845159e1567688f348fe5.jpg",
+        "recipe_ingredients_formatted": [
+            "3  eggs",
+            "1 cup milk",
+            "2 tablespoons vegetable oil",
+            "1 \u00bd teaspoons salt, divided",
+            "\u00be cup all-purpose flour, sifted",
+            "1 (16 ounce) package dry small curd cottage cheese",
+            "3 \u00bd tablespoons white sugar",
+            "3 tablespoons sour cream",
+            "1  egg yolk",
+            "\u00bc teaspoon ground cinnamon",
+            "\u00bc cup butter, or as needed, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Beat eggs in a bowl. Add milk, oil, and 1/2 teaspoon salt. Beat in flour using an electric mixer until well blended. Let batter stand for 15 to 30 minutes.",
+            "Mix the remaining 1 teaspoon salt, cottage cheese, sugar, sour cream, egg yolk, and cinnamon together in a bowl to make the filling.",
+            "Melt butter in a 6- to 7-inch skillet. Spoon a portion of the batter onto the skillet; cook until lightly browned on the bottom, about 3 minutes. Turn out onto a tea towel. Repeat with the remaining batter, thinning with small amounts of water if necessary and greasing the pan after every 2 to 3 blintzes.",
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a baking sheet.",
+            "Melt the remaining butter in the skillet over low heat, about 1 minute.",
+            "Place a blintz on a clean work surface with the uncooked side up. Add 1 tablespoon filling and roll up, completely covering the filling. Place on the prepared baking sheet. Repeat with the remaining blintzes. Brush filled blintzes with melted butter.",
+            "Bake in the preheated oven until brown, 15 to 20 minutes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "40 mins",
+            "Total": "1 hr",
+            "Servings": "10",
+            "Yield": "10 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "316",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "24g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/286298/easy-chicken-stuffed-crepes/",
+        "recipe_name": "Easy Chicken-Stuffed Crepes",
+        "recipe_img_url-src": "None",
+        "recipe_ingredients_formatted": [
+            "1 \u2153 cups milk",
+            "1 cup all-purpose flour",
+            "4 large eggs",
+            "2 tablespoons oil",
+            "\u00bc teaspoon salt"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+            "Whisk milk, flour, eggs, 2 tablespoons oil, and salt together in a bowl until well combined.",
+            "Heat a nonstick 10-inch skillet or crepe pan over medium-high heat until hot. Pour about 1/4 to 1/3 cup batter into the hot pan and immediately tilt the pan so the batter covers the bottom. Cook until the edges start to dry and the center is just about set, 1 to 3 minutes. Flip and repeat to brown the other side. Transfer to a sheet of waxed paper and repeat to make remaining crepes. Stack crepes between layers of waxed paper while you make the filling.",
+            "Stir condensed soup, chicken, Cheddar cheese, milk, and mushrooms together in a large bowl until blended. Spoon about 1/3 to 1/2 cup chicken mixture down the side of one crepe. Roll the crepe, tucking in the sides as you roll. Repeat to stuff remaining crepes.",
+            "Place crepes with seams facing down in the prepared baking dish. Pour remaining soup mixture over top and sprinkle with sliced almonds.",
+            "Bake in the preheated oven until hot and bubbly, 20 to 30 minutes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "1 hr 25 mins",
+            "Servings": "10",
+            "Yield": "10 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "88",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/41219/beer-batter-crepes-ii/",
+        "recipe_name": "Beer Batter Crepes II",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Uv5uiztxw9yyiKzRrRm41AzS_TQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1040556-e0a8d90b012f453bb781daac66f1c6b1.jpg",
+        "recipe_ingredients_formatted": [
+            "3  eggs, lightly beaten",
+            "1 cup beer",
+            "1 cup all-purpose flour",
+            "\u00bd teaspoon salt",
+            "2 \u00bd teaspoons vegetable oil",
+            "cooking spray"
+        ],
+        "recipe_directions_formatted": [
+            "In a large bowl, beat together the eggs and beer. Sift together the flour and salt, and mix in. Beat in oil. Allow to stand for 1 hour. If batter is too thick, stir in a little milk.",
+            "Heat a crepe pan over medium heat, and lightly coat with cooking spray. Pour on 2 tablespoons batter, and quickly spread to the edges of pan. Cook until top appears dry, then turn, and cook for 15 seconds. Set aside on paper towels and repeat cooking method until all batter is used."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "15 mins",
+            "Prep": "15 mins",
+            "Cook": "20 mins",
+            "Total": "50 mins",
+            "Servings": "5",
+            "Yield": "5 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "240",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "16g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274412/chicken-street-crepes/",
+        "recipe_name": "Chicken Street Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/lMlmPxJEvZncJlxPF7aMzTMqtrU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/6789133-20aa3b63443d499eab0cd7af07cf3e31.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00be cup milk",
+            "\u00bd cup all-purpose flour",
+            "2  eggs",
+            "1 tablespoon melted butter",
+            "1 pinch salt",
+            "cooking spray"
+        ],
+        "recipe_directions_formatted": [
+            "Mix milk, flour, eggs, melted butter, and salt together in a blender until combined. Let mixture rest for 15 minutes.",
+            "Heat a 12-inch nonstick skillet over medium heat; lightly coat with cooking spray. Add 1/2 cup of batter and swirl the skillet so the batter completely covers the bottom. Cook until bottom is golden brown, 2 to 3 minutes. Loosen the edges with a rubber spatula and use your fingers to quickly flip the crepe. Cook 1 minute more.",
+            "Slide crepe out of the skillet. Repeat with remaining batter, spraying skillet in between crepes. Stack cooked crepes directly on top of each other to maintain temperature.",
+            "Melt butter in a separate skillet over medium-high heat. Saute spinach and shallots until softened, about 3 minutes. Add chicken and mix to combine and heat through, 3 to 4 minutes. Set aside.",
+            "Spread 2 tablespoons Brie cheese onto each crepe; add chicken mixture. Fold crepe in half, return to the skillet, and heat until cheese is melted. Remove from skillet and roll into a cone shape."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "20 mins",
+            "Cook": "45 mins",
+            "Total": "1 hr 35 mins",
+            "Servings": "5",
+            "Yield": "10 packets"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "365",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "33g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274384/mushroom-and-chicken-crepe-packets/",
+        "recipe_name": "Mushroom and Chicken Crepe Packets",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/BFT5NXUdisu0dMIgnVBNG2q2zN8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(494x0:496x2):format(webp)/7657094-e451d7c8131647b9a69f395ee633a570.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "\u2154 cup all-purpose flour",
+            "3  eggs",
+            "\u00bd teaspoon salt",
+            "1 teaspoon butter, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, eggs, and salt in an electric blender; blend until smooth. Set crepe batter aside for at least 30 minutes.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking pan.",
+            "Melt butter in a medium-sized skillet over medium heat. Pour 2 tablespoons of batter into the skillet and immediately rotate the skillet to spread batter out in a thin layer. Cook until the top of the crepe is no longer wet and the bottom has turned light brown, 1 to 2 minutes. Run a spatula around the edge of the skillet to loosen crepe; flip crepe and cook until the other side has turned light brown, about 1 minute more. Transfer crepe to a plate and continue with remaining batter.",
+            "Heat another skillet over medium-high heat. Add mushrooms and onion and saute until tender, about 5 minutes. Add garlic and saute until flavor releases, about 30 seconds. Stir in ricotta cheese and cream cheese until melted and well blended, 2 to 3 minutes. Stir in chicken and season with salt and pepper.",
+            "Spread a heaping tablespoon of Parmesan cheese in the middle of each crepe. Spoon 1/4 cup of the chicken-mushroom mixture onto each crepe. Fold sides in to make a packet. Place the crepes folded-side-down in the prepared baking pan.",
+            "Bake in the preheated oven until golden and bubbling, about 15 minutes.",
+            "Meanwhile, melt butter in a saucepan over medium heat. Stir in flour and cook for 1 minute. Pour in chicken broth and cook until slightly thickened, 5 to 7 minutes. Stir in parsley. Remove crepe packets from the oven; spoon gravy on top."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "20 mins",
+            "Prep": "20 mins",
+            "Cook": "25 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "478",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "32g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274292/chicken-crepe-riviera/",
+        "recipe_name": "Chicken Crepe Riviera",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/xaJsbxRSgZZQK3oh6L4opL6jT_4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/6730758-0266cad97a7e428897f443f22708b4f5.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "\u00bd cup all-purpose flour",
+            "2  eggs",
+            "1 tablespoon butter, at room temperature",
+            "6 leaves fresh basil leaves, minced",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, and eggs in a blender. Blend until smooth, about 1 minute.",
+            "Heat a nonstick pan over medium-high heat. Brush hot pan with a small amount of butter. Ladle about 3 tablespoons of batter into the center of the pan. Tilt pan from left to right to cover entire surface. Sprinkle top of the crepe with 1 or 2 teaspoons of basil.",
+            "Cook until edges begin to brown, 2 to 3 minutes. Flip crepe over and cook until set, about 2 minutes more. Remove to a plate. Cook remaining batter, re-brushing pan with butter and stacking crepes with parchment paper in between.",
+            "Mix chicken, grapeseed oil, balsamic vinegar, and salt together in a resealable zip-top bag; marinate for 20 to 30 minutes.",
+            "Drain and discard marinade. Heat a skillet over medium-high heat. Add chicken; cook and stir until juices run clear, about 5 minutes.",
+            "Place broccoli in a microwave-safe bowl with 2 tablespoons water. Microwave until crisp-tender, 3 to 4 minutes.",
+            "Combine butter and garlic in the same skillet over medium heat. Cook until fragrant, about 1 minute. Add the broccoli; stir to coat with the garlic butter. Stir in tomatoes and mushrooms and heat through.",
+            "Stir cream, cheese, and pesto together in a separate saucepan over medium heat. Cook and stir until sauce comes together, 3 to 5 minutes.",
+            "Lay a crepe on a plate, line chicken filling down the middle, and drizzle sauce on top. Fold crepe over burrito-style; spoon more chicken and sauce over top. Repeat with remaining crepes, filling, and sauce."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr 15 mins",
+            "Prep": "25 mins",
+            "Cook": "30 mins",
+            "Total": "2 hrs 10 mins",
+            "Servings": "4",
+            "Yield": "4 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "342",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "13g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/276900/pumpkin-crepes-with-fontina-cheese-sauce/",
+        "recipe_name": "Pumpkin Crepes with Fontina Cheese Sauce",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/IAxM6Tr7ggCajH8CC73RZueWl1M=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/7188353-f507aeab7cb949cfa9f875e7ecba4e5d.jpg",
+        "recipe_ingredients_formatted": [
+            "1  egg",
+            "2 \u00bd ounces all-purpose flour",
+            "\u00bd teaspoon salt",
+            "\u00bd cup milk",
+            "\u00bd tablespoon butter, melted",
+            "2 teaspoons oil, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Beat egg with a hand mixer in a bowl. Slowly add flour and salt, alternating with milk, mixing well between additions. Add melted butter and mix until smooth. Cover and refrigerate batter for 1 hour.",
+            "Heat a small, 6- to 7-inch nonstick skillet over medium-high heat and brush with oil. Pour 1/4 cup of the crepe batter into pan, tilting to coat surface completely. Cook until crepes are dry on the surface, 1 to 2 minutes per side. Repeat with remaining batter, brushing pan with oil between crepes as needed, to make 4 to 5 crepes total.",
+            "Heat butter and olive oil in a medium skillet over medium heat. Add pumpkin and leek; season with salt and pepper. Cook, stirring frequently, until leek is translucent and pumpkin is tender, 7 to 8 minutes. Remove from heat, cover, and let cool for about 15 minutes.",
+            "Meanwhile, combine fontina cheese and half-and-half in a small saucepan over medium-low heat. Stir frequently until cheese has melted and sauce is smooth, about 5 minutes.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Spray a casserole dish with cooking spray.",
+            "Divide the leek and pumpkin filling down the center of the crepes and fold the sides over the filling. Place filled crepes into the prepared casserole dish. Pour cheese sauce on top and add a few rosemary leaves.",
+            "Bake in the preheated oven for 15 minutes. Serve immediately."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "4 hrs",
+            "Prep": "10 mins",
+            "Cook": "5 mins",
+            "Total": "4 hrs 15 mins",
+            "Servings": "2",
+            "Yield": "6 large crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "283",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/220141/wholesome-buckwheat-crepes/",
+        "recipe_name": "Wholesome Buckwheat Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/jAgURtCBUSpSzog3PHgkjhaRgFw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/805627-56a440d2726644129bba5244296da68a.jpg",
+        "recipe_ingredients_formatted": [
+            "\u2154 cup raw buckwheat groats",
+            "1 \u2153 cups water, to cover",
+            "1  egg",
+            "2 tablespoons brown sugar",
+            "\u00bc teaspoon ground cinnamon",
+            "\u00bc teaspoon salt",
+            "\u00bd cup water, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Combine buckwheat groats with about 1 1/3 cup water in a bowl; allow to soak, draining and rinsing once or twice during soaking, 4 hours to overnight.",
+            "Rinse and drain groats one final time. Transfer drained groats to a blender with egg, brown sugar, cinnamon, salt, and 1/2 cup water; blend into a smooth batter. Blend more water into the mixture as needed to reach a smooth, spreadable texture.",
+            "Lightly grease a skillet and place over medium heat.",
+            "Pour about 1/3 cup batter into the skillet; lift and tilt the skillet to swirl the batter evenly over the skillet; return to heat.",
+            "Cook for about 2 minutes. Gently flip the crepe and cook the other side until the crepe is firm in the middle, about 2 minutes more; flip again and cook about 12 seconds. Plate and serve immediately."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/brunch-crepe-recipes/",
+        "recipe_name": "12 Crepe Recipes That Make Brunch a Big Deal",
+        "recipe_img_url-src": "None",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": []
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "25 mins",
+            "Cook": "30 mins",
+            "Total": "1 hr 25 mins",
+            "Servings": "4",
+            "Yield": "8 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "528",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "29g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274293/savory-western-crepes/",
+        "recipe_name": "Savory Western Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Aeow4ZjJ4S6CjJ8jCg5QXqdZeao=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1656x0:1658x2):format(webp)/6732798-ce3a5d55219f4cc6b84be86cc9279997.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd cups milk",
+            "1 cup all-purpose flour",
+            "2 large eggs",
+            "2 tablespoons chopped fresh cilantro",
+            "1 tablespoon melted butter",
+            "2 teaspoons chile-garlic sauce (such as Sriracha\u00ae)"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, eggs, cilantro, melted butter, and chile-garlic sauce in a blender. Blend until smooth and very thin, about 1 minute. Set batter aside to rest for at least 30 minutes.",
+            "Heat a crepe pan or small skillet over medium heat. Brush 1 tablespoon melted butter into the pan using a pastry brush and add 1/2 cup of crepe batter. Pick up the pan, tipping and rotating so batter forms a round shape and evenly coats the entire bottom of the pan. Return the pan to the burner and cook until small brown spots appear on the bottom of the crepe, 1 to 2 minutes.",
+            "Loosen crepe carefully using a spatula and gently flip it to brown the other side; cook for 30 to 60 seconds. Slide cooked crepe onto a plate. Repeat to cook additional crepes, adding more butter if needed, and stacking crepes on top of the first.",
+            "Whisk eggs and milk in a large bowl until well blended. Stir in Cheddar cheese, salt, and pepper.",
+            "Heat oil in a skillet over medium heat. Add onion, bell pepper, and jalapeno pepper and cook until tender, about 3 minutes. Stir in ham and continue cooking for another 2 minutes. Reduce heat to low and stir 1 tablespoon melted butter into the skillet. Add egg mixture and cook, stirring until eggs are scrambled and wet, but no longer runny, 3 to 5 minutes. Remove from heat.",
+            "Spoon about 1/4 cup of the egg mixture across the lower 1/3 of a crepe and roll up like a jelly roll. Repeat with remaining crepes and filling."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "25 mins",
+            "Cook": "15 mins",
+            "Total": "1 hr 10 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "499",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "29g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274177/cajun-shrimp-crepes/",
+        "recipe_name": "Cajun Shrimp Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/5EPTKpB6glIOLkkvzxXe5kViRYY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/6711654-faa62339cd6c4e8c8e0665356c638d22.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "\u2154 cup all-purpose flour",
+            "3  eggs",
+            "\u00bd teaspoon granulated garlic",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, and eggs in a blender. Blend on high speed until well mixed, about 1 minute. Let batter rest for 30 minutes.",
+            "Heat an 8-inch nonstick skillet over medium heat. Lift pan and pour about 3 tablespoons batter into the center; tilt skillet so batter evenly coats bottom. Cook until top appears dry, 45 to 60 seconds. Flip and cook 15 to 20 seconds more. Remove crepe and stack onto a plate. Repeat with remaining batter; you will have leftover crepes for another use.",
+            "Melt 2 tablespoons butter for filling in a skillet over medium heat. Add bell peppers and onion; stir-fry until tender, about 5 minutes. Stir in garlic and cook until fragrant. Add remaining butter, shrimp, and Cajun seasoning.",
+            "Mix cream, flour, and Cajun seasoning together; slowly pour into the shrimp mixture. Cook and stir until slightly thickened, about 2 minutes. Pour in white wine and cook until heated through and thickened as desired, 2 to 5 minutes more.",
+            "Spoon some of the shrimp filling into the middle of each crepe and roll crepe around filling, or fold in halves or quarters."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "30 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "125",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/222804/indian-crepes/",
+        "recipe_name": "Indian Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/8YfvYyiV_9VxHUf7VZh6VWymY1c=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/5974480-006354bd270c4f2f8b9f2b690bc02c66.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "1 cup water",
+            "1  egg",
+            "2 tablespoons butter, melted",
+            "1 pinch salt",
+            "1 tablespoon caraway seeds"
+        ],
+        "recipe_directions_formatted": [
+            "Heat a non-stick crepe pan over medium-high heat.",
+            "Whisk flour and water together in a bowl. Add egg and mix well. Whisk butter, salt, and caraway seeds into flour mixture to form a smooth batter.",
+            "Pour about 1/4 cup batter into heated pan. Tilt the pan around so the batter forms a nice round shape. Cook until bubbles form throughout the batter, 2 to 4 minutes. Flip the crepe by using spatula to loosen it from the pan. Flick your wrist upwards to give the crepe a toss, flipping it, and landing it back in the pan. Cook the second side until lightly browned, about 30 seconds. Repeat with remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "4 mins",
+            "Total": "14 mins",
+            "Servings": "8",
+            "Yield": "8 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "78",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/254533/chestnut-flour-crepes-gluten-and-wheat-free/",
+        "recipe_name": "Chestnut Flour Crepes (Gluten- and Wheat-Free)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/t5icmksWPmg0pBoood9zl6J28cg=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3776805-ade77713140a4cc8839c712f671d3a0a.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "2  eggs",
+            "1 tablespoon vegetable oil",
+            "1 cup chestnut flour",
+            "vegetable oil, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk milk, eggs, and 1 tablespoon vegetable oil together in a bowl until thoroughly combined. Sprinkle in the chestnut flour 1/4 cup at a time, mixing well to avoid lumps, until batter is a liquid consistency. Whisk vigorously; pour through a fine strainer to remove any lumps.",
+            "Heat cooking oil in an 8-inch crepe pan over medium-high heat. Pour in 1/4 cup of batter; swirl batter around to cover the entire surface. Cook until the edges have browned and are easily loosened with a spatula, 2 to 3 minutes per side. Transfer to a serving plate. Repeat with remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "10 mins",
+            "Prep": "35 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "445",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "16g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/24569/crepes-with-spinach-bacon-and-mushroom-filling/",
+        "recipe_name": "Crepes with Spinach, Bacon and Mushroom Filling",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/na_zVEHxS4MIYXMKIjWw3nOHxwM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/7912080-f3771d4c8ef648188e50e63dfc3a2894.jpg",
+        "recipe_ingredients_formatted": [
+            "1 recipe Basic Crepes",
+            "6 slices bacon",
+            "1 tablespoon unsalted butter",
+            "\u00bd pound fresh mushrooms, sliced",
+            "3 tablespoons unsalted butter",
+            "\u00bc cup all-purpose flour",
+            "1 cup milk",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 tablespoon chopped fresh parsley",
+            "2 tablespoons grated Parmesan cheese",
+            "salt and pepper to taste",
+            "\u2154 cup chicken broth",
+            "2  eggs",
+            "\u00bd cup lemon juice",
+            "salt and pepper to taste"
+        ],
+        "recipe_directions_formatted": [
+            "Prepare Basic Crepes recipe according to recipe directions. Separate with wax paper and keep warm until ready to serve.",
+            "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble and set aside. Reserve about 1 tablespoon drippings, add 1 tablespoon butter, and saute mushrooms.",
+            "In a separate saucepan, melt 3 tablespoons butter over medium heat. Whisk in 1/4 cup flour, stirring constantly, until a smooth paste is formed. Gradually stir in 1 cup milk, stirring constantly until a smooth thick gravy is formed. Add bacon, mushrooms, spinach, parsley, Parmesan cheese, salt and pepper. Let cook until somewhat thick, about 10 minutes.",
+            "In saucepan bring broth to a boil. In a small bowl, whisk together eggs and lemon juice. Temper eggs and broth together whisking constantly so as to cook, but not to scramble the eggs. (Cooking eggs to 170 degrees F). Again, salt and pepper to taste.",
+            "Fill each crepe with spinach and meat filling, roll up, and top with warm egg sauce."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "15 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "8",
+            "Yield": "8 pancakes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "119",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/147210/dosas-indian-style-pancakes/",
+        "recipe_name": "Dosas (Indian-style Pancakes)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/ad8Cx939hAB2f6apvGXg2ioWYFY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2616940-ab957bb6c5164eb7832b9b887080eacb.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup brown rice flour",
+            "\u00bd cup whole wheat flour",
+            "1 \u00bd cups water",
+            "1  red onion, finely chopped",
+            "1 clove garlic, minced",
+            "\u00bc cup fresh cilantro, chopped",
+            "\u00bc teaspoon white sugar",
+            "\u00bd teaspoon ground turmeric",
+            "1 teaspoon ground cumin",
+            "2 teaspoons whole mustard seeds",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon ground coriander",
+            "1 teaspoon ground ginger",
+            "1 pinch cayenne pepper",
+            "3 tablespoons rice vinegar",
+            "1 tablespoon vegetable oil"
+        ],
+        "recipe_directions_formatted": [
+            "Stir the brown rice and whole wheat flours together in a mixing bowl. Stir in the water to make a thin batter. Add the onion, garlic, cilantro, sugar, turmeric, cumin, mustard seeds, cumin seeds, coriander, ginger, cayenne pepper and rice vinegar until evenly blended. Cover, and refrigerate for at least 1/2 hour, or overnight.",
+            "To cook the dosas, heat the oil in a skillet over medium heat. Pour 1/4 cup of batter into the skillet, spreading it over the bottom in a thin layer. Cook 1 minute, turn, and cook 1 minute more. Remove from the pan. Repeat with remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "20 mins",
+            "Cook": "30 mins",
+            "Total": "2 hrs 50 mins",
+            "Servings": "8",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "542",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "21g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/233544/crab-crepes/",
+        "recipe_name": "Crab Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/TzQgTR-hF_zhHsF2j0oooNqygk8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1151x0:1153x2):format(webp)/6325222-90121534091c4297a51637e445e02fe7.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups flour",
+            "1 cup cold water",
+            "4 large eggs",
+            "2 tablespoons melted butter",
+            "\u00bd teaspoon salt"
+        ],
+        "recipe_directions_formatted": [
+            "Make the cr\u00eapes: Place flour, water, eggs, melted butter, and salt into a blender. Cover and blend for 2 minutes. Chill batter in the refrigerator for two hours.",
+            "Heat an oiled, non-stick skillet over medium heat. Pour in enough of the chilled batter to cover half of the skillet. Tip and rotate the skillet until the batter covers the entire area. Cook until the batter turns from wet to moist, and the edges begin to curl away from the sides of the skillet. Turn the cr\u00eape over, and continue cooking until lightly golden on the other side. Place the cr\u00eape onto a plate, and cover with a kitchen towel to keep moist. Repeat with the remaining batter, lightly oiling the skillet as needed to keep the cr\u00eapes from sticking.",
+            "Prepare the filling: Heat butter in a skillet over medium-high heat and cook and stir green onions until tender, 3 to 5 minutes. Add sherry, salt, and pepper; stir to combine. Mix in crab.",
+            "Make the sauce: Melt butter in a saucepan over medium-high heat. Whisk in flour. Add milk, salt, and pepper; bring to a boil for 1 minute. Remove from heat.",
+            "Beat heavy cream and egg yolks together in a small bowl. Gradually add egg mixture to butter-flour mixture, stirring constantly. Fold in grated cheese to form a thick sauce.",
+            "Pour sauce into crab meat mixture, reserving 1 cup of the sauce; stir to combine.",
+            "Lay out one cr\u00eape on a flat surface. Spoon 2 heaping spoonfuls of crab mixture at one end of the cr\u00eape, then roll cr\u00eape up around the filling. Repeat with remaining cr\u00eapes. Top each with reserved cheese sauce and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "8 hrs",
+            "Prep": "25 mins",
+            "Cook": "15 mins",
+            "Total": "8 hrs 40 mins",
+            "Servings": "4",
+            "Yield": "4 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "507",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "21g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/223531/savory-french-crepes/",
+        "recipe_name": "Savory French Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/F_PoVxrQkbCqMKmcf1Pl8dB9BXQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1980918-5acffa7425e346f69c20987e0a6e2d5b.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs",
+            "1 \u00bd cups milk",
+            "2 tablespoons butter",
+            "\u00bc cup buckwheat flour",
+            "\u00be cup all-purpose flour",
+            "1 pinch salt",
+            "3 tablespoons butter",
+            "\u00bd cup cremini mushrooms, sliced",
+            "\u00bd cup oyster mushrooms, sliced",
+            "1 cup diced tomatoes",
+            "2 cups baby spinach leaves",
+            "4 teaspoons butter, divided",
+            "1 cup shredded Gruy\u00e8re cheese, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Make the cr\u00eape batter: Combine eggs, milk, and 2 tablespoons butter in a blender. Add buckwheat flour, all-purpose flour, and a pinch of salt; pur\u00e9e until smooth. Cover and refrigerate for 8 hours or overnight.",
+            "Make the filling: Melt 3 tablespoons butter in a large skillet over medium-high heat. Add cremini and oyster mushrooms; cook and stir until golden brown, about 10 minutes. Add tomatoes and spinach; cook and stir until spinach is wilted, 3 to 4 minutes. Remove from the heat.",
+            "Melt 1 teaspoon butter in another large skillet over medium heat. Pour about 1/4 cup batter (depending on the size of your pan) into the hot skillet' immediately tilt and swirl the pan to evenly distribute batter along the bottom. Cook until the center is set and the edges begin to brown, 3 to 4 minutes. Sprinkle 1/4 of the filling in the middle of each cr\u00eape, then sprinkle with 3 tablespoons Gruy\u00e8re cheese. Fold the cr\u00eape in thirds over the filling, forming a triangle shape. Sprinkle 1 tablespoon Gruy\u00e8re over top. Repeat to make remaining cr\u00eapes, adding 1 teaspoon butter for each one."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "1 hr",
+            "Total": "1 hr 30 mins",
+            "Servings": "10",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "291",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "30g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/236387/shrimp-crepes/",
+        "recipe_name": "Shrimp Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/ZLyiYjQhM0LF3taeF7IRIS_By1o=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/5315208-7caed9eafb59409bae923ed8f646c8f6.jpg",
+        "recipe_ingredients_formatted": [
+            "cooking spray"
+        ],
+        "recipe_directions_formatted": [
+            "Spray a 9x12-inch baking dish with cooking spray.",
+            "Make the cr\u00eapes: Beat milk and eggs together in a large bowl using an electric mixer until frothy, about 2 minutes. Add flour and salt to milk mixture; beat until incorporated, about 2 more minutes.",
+            "Heat a nonstick skillet over medium heat. Pour 1/4 cup batter into the skillet and immediately rotate the skillet until the batter evenly coats the bottom in a thin layer. Cook until the top of the cr\u00eape is no longer wet and the bottom has turned light brown, about 4 minutes. Run a spatula around the edge of the skillet to loosen; flip cr\u00eape and cook until the other side has turned light brown, about 2 more minutes.",
+            "Prepare the filling: Whisk water, flour, and salt together in a bowl.",
+            "Place butter and garlic in a nonstick skillet over low heat. Cover skillet and cook until garlic is golden brown, about 7 minutes. Add shrimp and lobster meat; stir, cover skillet, and cook until shrimp are bright pink and cooked through, about 5 minutes. Add lemon juice and cayenne pepper; stir, cover skillet, and cook for 5 more minutes.",
+            "Whisk water-flour mixture and stir into shrimp mixture. Sprinkle Parmesan cheese over shrimp mixture; cook and stir over medium heat until thickened, about 1 minute. Remove skillet from heat and spoon shrimp filling onto each cr\u00eape. Roll each cr\u00eape around filling and place in the prepared baking dish.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Make the sauce: Combine milk, mayonnaise, and flour in a small saucepan; cook and stir over medium heat until bubbling, 2 to 3 minutes. Drizzle sauce over filled cr\u00eapes.",
+            "Bake in the preheated oven until cr\u00eapes are cooked through and sauce is bubbling, 25 to 30 minutes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "15 mins",
+            "Total": "20 mins",
+            "Servings": "6",
+            "Yield": "6 cr\u00eapes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "157",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/272380/sourdough-crepes/",
+        "recipe_name": "Sourdough Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/UoUDRjPJ1t3Naqv0Hw7fiz-0A-8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1511x0:1513x2):format(webp)/7993942-21e937a772bc4f32b9638581e8615ebd.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup fed or unfed sourdough starter",
+            "2 large eggs",
+            "2 tablespoons butter, melted",
+            "\u00bc teaspoon salt",
+            "\u00bc cup milk, or more as needed",
+            "6 teaspoons cold butter"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk together sourdough starter, eggs, melted butter, and salt in a large bowl. Pour in milk and stir until batter reaches a thin, smooth consistency.",
+            "Heat a nonstick pan over medium-high heat.",
+            "Melt about 1 teaspoon cold butter in the preheated pan. Pour in 1/4 cup batter and tilt the pan in a circular motion to spread batter over the bottom. Cook until the bottom is light brown, about 2 minutes. Carefully loosen cr\u00eape from the pan, flip, and cook for about 30 seconds more. Transfer to a plate. Repeat with remaining butter and batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "30 mins",
+            "Total": "40 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "357",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "12g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/222368/melt-in-your-mouth-crepes/",
+        "recipe_name": "Melt in Your Mouth Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/tG4hMluInIKgBrO6AvaqWmFDvyQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/870850-melt-in-your-mouth-crepes-LatinaCook-4x3-1-7ffff4db53d8411cb6d3d4a543dada8a.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd cups all-purpose flour",
+            "1 cup milk",
+            "2  eggs",
+            "3 tablespoons butter, melted",
+            "1 tablespoon white sugar",
+            "1 dash vanilla extract (Optional)",
+            "1 cup milk",
+            "cooking spray (such as Pam\u00ae)"
+        ],
+        "recipe_directions_formatted": [
+            "Mix flour, 1 cup milk, and eggs together in a large bowl. Stir butter, sugar, and vanilla extract into flour mixture until smooth. Add remaining 1 cup milk; mix until just blended.",
+            "Heat a cast iron crepe pan over medium heat; spray surface with cooking spray. Pour a thin and even layer of batter onto the heated pan; fry for 30 to 60 seconds on each side. Repeat with remaining batter, spraying the pan between each batch."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "30 mins",
+            "Servings": "3",
+            "Yield": "6 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "216",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "9g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/16216/breakfast-crepes/",
+        "recipe_name": "Breakfast Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/ivfhwNbtuQxhfExTOcDcOn7EooQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4023162-5f41744a6ee3457cbc29a4e8be5c0138.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "1 cup milk",
+            "1  egg",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "In a medium-size mixing bowl, whisk together the flour, milk, egg and salt.",
+            "Heat a large frying pan or wok over medium high heat. When the pan is hot add a teaspoon of butter and lightly coat the surface of the pan with the melted butter.",
+            "Pour one quarter cup of the batter into the pan and tilt the pan with a circular motion so that the batter coats the surface in a smooth and even layer.",
+            "After two minutes, lift up an edge of the crepe with a spatula to see if it is browning. When the underside has begun to brown, flip the crepe and cook the other side until it is also brown; about 2 minutes.",
+            "Repeat steps 3 and 4 to cook the remaining crepes. Serve hot."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr 10 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "450",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "24g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/274300/shrimp-and-scallop-crepes/",
+        "recipe_name": "Shrimp and Scallop Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/yDjWCY2wgvFu3eLYOKDs4vgCLyo=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1599x839:1601x841):format(webp)/6755615-shrimp-and-scallop-crepes-lutzflcat-4x3-1-1a0cb550095b49d2bed47e4e96f8526f.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups milk",
+            "1 cup all-purpose flour",
+            "3 large eggs",
+            "4 tablespoons melted butter, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, eggs, and melted butter in a blender. Process until smooth, for at least 1 minute. Set aside and let rest for 30 minutes.",
+            "Coat a crepe pan or nonstick small skillet with melted butter. Pour in 1/4 cup crepe batter and swirl the pan until entire bottom is covered in a thin layer of batter. Cook until small brown spots appear on the bottom of the crepe, 1 to 2 minutes.",
+            "Loosen crepe carefully from the pan using a spatula and gently flip to brown the other side, 1 to 2 minutes more. Slide crepe onto a plate. Repeat with remaining batter, re-buttering the pan as needed and stacking crepes onto the plate.",
+            "Melt 1 tablespoon butter in a skillet over medium heat. Add shrimp and scallops and cook until shrimp are bright pink on the outside and scallops are golden, 2 to 3 minutes. Remove from skillet.",
+            "Melt 1 teaspoon butter in the same skillet and increase heat to medium-high. Add mushrooms and green onions; saute until mushrooms are tender, 3 to 4 minutes. Remove from heat.",
+            "Melt 4 tablespoons butter in a saucepan over medium heat until bubbling. Whisk in flour until mixture becomes paste-like and lightly golden, about 2 minutes. Add milk and chicken broth and whisk until sauce is smooth and thickened. Thin out with more milk if needed.",
+            "Add Swiss cheese, wine, and sherry to the sauce; stir until cheese melts. Season with salt and pepper. Reserve 2/3 cup sauce. Add shrimp, scallops, mushrooms, and onions to the remaining 1/3 of the sauce and stir until heated through.",
+            "Spoon about 1/4 cup of the filling across the lower third of each crepe. Roll crepes up jellyroll-style and serve at the table with the reserved sauce."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Savory"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "5 mins",
+            "Total": "20 mins",
+            "Servings": "1",
+            "Yield": "1 cr\u00eape"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "220",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/186731/jian-bing-chinese-crepes/",
+        "recipe_name": "Jian Bing (Chinese Cr\u00eapes)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/3jJNo-smpesdc_3nlIrq5szjOBo=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2079x0:2081x2):format(webp)/5169864-13234cb24496483bab6c0263b8b64411.jpg",
+        "recipe_ingredients_formatted": [
+            "2 tablespoons millet flour",
+            "2 tablespoons soy milk",
+            "\u00bd teaspoon vegetable oil",
+            "1 teaspoon water, if needed",
+            "1 tablespoon Chinese black bean sauce",
+            "1 teaspoon water",
+            "\u00bd teaspoon Asian chile pepper sauce, or to taste",
+            "1 teaspoon water",
+            "cooking spray",
+            "1  egg, beaten",
+            "\u00bd  green onion, sliced",
+            "1 tablespoon torn fresh cilantro leaves",
+            "2  whole crackers"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk millet flour, soy milk, and vegetable oil together in a bowl to make a batter with the consistency of heavy cream. Add a teaspoon of water to thin the batter, if necessary.",
+            "Mash black bean sauce in a small bowl with 1 teaspoon water to make it easy to spread. Mix hot chili sauce with 1 teaspoon of water in a separate small bowl. Set both sauces aside.",
+            "Spray a large skillet generously with cooking spray, and heat over medium-low heat. Pour batter into the skillet, and spread evenly to make a thin cr\u00eape; cook until firm, about 1 to 2 minutes. Pour egg evenly over cr\u00eape; cook an additional 1 to 2 minutes, until egg is set. Sprinkle cr\u00eape with green onion slices and cilantro leaves, pressing them firmly into cooked egg.",
+            "Flip cr\u00eape and spread with bean sauce and chili sauce. Place crackers in the center of cr\u00eape, leaving about 1/4 inch of space between the two crackers. Flip top third of cr\u00eape down over crackers; flip the bottom third up, and then fold the cr\u00eape in half so the crackers are stacked on top of each other in a tidy package. Serve hot."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Pancake Recipes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "20 mins",
+            "Prep": "15 mins",
+            "Cook": "30 mins",
+            "Total": "1 hr 5 mins",
+            "Servings": "6",
+            "Yield": "20 blinis"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "525",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "14g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/215962/blini-russian-pancakes/",
+        "recipe_name": "Blini (Russian Pancakes)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/tkjPObbcqpJZaaqwIeVgynmO6f0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1223x0:1225x2):format(webp)/4511554-b5ead5bda2cd4ccda86206c102f4e307.jpg",
+        "recipe_ingredients_formatted": [
+            "4 \u00bc cups milk",
+            "5 large eggs",
+            "2 tablespoons white sugar",
+            "\u2153 teaspoon salt",
+            "\u00bd teaspoon baking soda",
+            "\u215b teaspoon citric acid powder",
+            "4 cups all-purpose flour",
+            "3 tablespoons vegetable oil",
+            "1 cup boiling water",
+            "\u2154 cup butter, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Beat together milk and eggs in a large bowl until combined. Beat in sugar and salt. Mix in baking soda and citric acid until incorporated. Blend in flour, a little at a time, until combined. Beat in oil. Pour in boiling water, stirring constantly, until batter is thin and watery. Let rest for about 20 minutes.",
+            "Melt 1 tablespoon butter in a small frying pan over medium-high heat. Pick the pan up off the heat. Pour in a ladleful of batter while you rotate your wrist, tilting the pan, so batter forms a circle and coats the bottom. The blini should be very thin.",
+            "Return the pan to the heat. Cook blini for 90 seconds. Carefully lift up edge of blini to see if it's fully cooked: edges will be golden and bottom surface should have brown spots. Flip blini over and cook for 1 minute more.",
+            "Transfer blini to a plate lined with a clean kitchen towel. Continue cooking remaining batter, adding 1 tablespoon butter to the pan for every 4 blinis. Stack blinis and cover with another kitchen towel to keep warm.",
+            "Spread desired filling in the center of each blini. Fold 3 times to make a triangle shape or fold up all 4 sides, like a small burrito."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "25 mins",
+            "Servings": "3",
+            "Yield": "6 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "525",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/286297/grandma-knobels-crepes/",
+        "recipe_name": "Grandma Knobel's Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/e2B52Q2YBvkxbKxm1Hve0z69cOc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4485495-4702e892661e46ca8c0f371e493d232f.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "\u00bd cup white sugar",
+            "\u00bc teaspoon salt",
+            "1 \u00bd cups milk",
+            "3 large eggs",
+            "\u00bd teaspoon vanilla extract",
+            "1 tablespoon avocado oil, divided, or as needed",
+            "1 tablespoon unsalted butter, or to taste",
+            "2 tablespoons maple syrup, or to taste",
+            "1 tablespoon powdered sugar, or to taste (Optional)"
+        ],
+        "recipe_directions_formatted": [
+            "Sift flour, sugar, and salt into a large bowl. Add milk, eggs, and vanilla and whisk until smooth and slightly thinner than a regular pancake batter; do not overmix the batter or it will result in tougher crepes.",
+            "Heat an 8- to 10-inch skillet over medium heat. Add 1 teaspoon oil to the center of the pan.",
+            "Pour about 1/2 cup batter into the dot of oil. Hold the skillet by the handle and tilt the pan around so the batter evenly coats the entire skillet; the crepe should be about 1/8-inch thick. Cook until the bottom is medium brown, the top is dry, and the edges are starting to curl, about 1 minute. Flip the crepe and cook until golden brown on the other side, about 30 seconds. If each crepe takes longer than 2 minutes to cook, the batter may need to be thinner or you may need to use a higher heat.",
+            "Place crepe on a plate with a dab of butter on top. Drizzle with maple syrup, roll up, dust with powdered sugar, and serve.",
+            "Repeat Steps 3 and 4, adding more avocado oil to the skillet as needed."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "8 hrs",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "8 hrs 20 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "213",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/52841/orange-anise-crepes/",
+        "recipe_name": "Orange-Anise Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/NyhrdPUEfQHEKOsRA7h8CBkyIlQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/61549-568e4e50e81c4a9cb76b8ffacc339f75.jpg",
+        "recipe_ingredients_formatted": [
+            "4  large eggs",
+            "1 cup milk",
+            "\u00be cup orange juice",
+            "1 tablespoon anise extract",
+            "1 cup all-purpose flour",
+            "2 tablespoons butter, divided",
+            "Sugar, for dusting"
+        ],
+        "recipe_directions_formatted": [
+            "Beat together the eggs, milk, orange juice, anise, and flour until smooth. Refrigerate overnight.",
+            "To cook the crepes, melt a little butter in a heavy skillet over medium heat; brush the butter evenly over the pan. Pour in 1/4 cup of the batter, tilt the pan to distribute the batter evenly. Cook until the batter begins to firm up and bubble, when lightly browned, flip over, and continue cooking until browned on the other side, about 4 minutes total. Repeat with remaining batter. To serve, sprinkle crepes with sugar."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs 40 mins",
+            "Prep": "30 mins",
+            "Cook": "8 mins",
+            "Total": "3 hrs 18 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "223",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "6g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/260514/dessert-crepes-with-raspberry-sorbet/",
+        "recipe_name": "Dessert Crepes with Raspberry Sorbet",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/j36szIC5USt5BH-kG0nFrYsUvmE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(649x0:651x2):format(webp)/4562696-ad7b29a6323b434da022cf08b1976e7b.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bc cup water",
+            "3 tablespoons white sugar",
+            "1 \u00bd cups fresh raspberries"
+        ],
+        "recipe_directions_formatted": [
+            "Heat 1/4 water and 3 tablespoons sugar in a saucepan over medium heat until mixture is simmering and sugar is dissolved. Remove from heat and allow syrup to cool to room temperature.",
+            "Place raspberries in the bowl of a food processor; pulse until pureed. Pour cooled syrup into raspberry puree and mix well. Strain through a fine-meshed sieve into a container. Cover with plastic wrap and freeze until firm, at least 2 1/2 hours. Break up with a fork and place back in the freezer.",
+            "Combine eggs, milk, 1/2 cup water, and 3 tablespoons melted butter in a bowl; beat with an electric mixer until smooth and creamy. Add flour and salt and mix until batter is smooth.",
+            "Grease a 9-inch nonstick skillet with 1 teaspoon butter over medium heat. Pour a small ladleful of batter into the skillet. Immediately rotate the skillet until batter coats the cooking surface in a thin layer. Cook until the top of the crepe is no longer wet and the bottom has turned light brown, 1 to 2 minutes. Run a spatula around the edge of the skillet to loosen crepe; flip crepe and cook until the other side has turned light brown, about 1 minute more. Slide ready crepe onto a warmed plate and keep warm. Repeat with remaining batter.",
+            "Arrange crepes on plates and dust with confectioners' sugar. Place a scoop of raspberry sorbet on the side and garnish with apple slices, fresh mint leaves, and red currants."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "20 mins",
+            "Prep": "20 mins",
+            "Cook": "20 mins",
+            "Total": "1 hr",
+            "Servings": "6",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "328",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/8457631/crepes-suzette/",
+        "recipe_name": "Cr\u00eapes Suzette",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/dQVPv-aymKpquJsRhHhc5VFSwhE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/1Crepes-Suzette-2000-0cf5f48c9ec64c6e993048e13b2aa8c3.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup whole milk",
+            "\u2153 cup water",
+            "2 large eggs",
+            "1 teaspoon white sugar",
+            "\u00bc teaspoon kosher salt",
+            "\u00be cup all-purpose flour",
+            "\u00bc cup unsalted butter, melted, divided",
+            "1 teaspoon freshly grated orange zest"
+        ],
+        "recipe_directions_formatted": [
+            "To make the cr\u00eapes, combine milk, water, eggs, sugar, and salt in a blender; blend on medium speed until smooth, about 10 seconds. Add flour and blend until smooth, about 5 more seconds. Add 2 tablespoons of the melted butter and orange zest; pulse until incorporated, about 3 (1-second) pulses. Cover blender and place in refrigerator; let rest for 20 minutes.",
+            "Remove cr\u00eape batter from fridge. Heat a small (6-inch) nonstick skillet or cr\u00eape pan over medium. Add 1/2 teaspoon of the melted butter and swirl to coat skillet. Add 2 tablespoons batter and swirl to coat bottom of skillet. Cook, undisturbed, until the bottom is lightly golden, and the top is still a little moist, about 1 minute. Swirl skillet to loosen cr\u00eape and gently flip with a spatula and your fingers. Cook until golden, about 30 seconds. Transfer to a plate. Repeat with remaining butter and batter.",
+            "To make orange sauce, combine orange juice, white sugar, and orange zest in a small skillet over medium. Cook, stirring often, until sugar is dissolved and the liquid starts to bubble, 3 to 4 minutes. Gradually add the butter, piece by piece, stirring constantly, until it is melted and fully incorporated, about 2 minutes. Let sauce come back up to a simmer and let simmer until slightly syrupy, stirring occasionally, about 2 to 3 minutes. Stir in orange liqueur and salt. Remove from the heat.",
+            "Fold each cr\u00eape in half, then half again to make a triangle. Dip the folded cr\u00eapes into the hot orange sauce. Place on a serving platter. Repeat with remaining cr\u00eapes, overlapping each cr\u00eape so they are facing the same direction.",
+            "To serve, pour orange liqueur into the skillet with the remaining orange sauce and place over medium-high. If it does not ignite automatically, use a long-stemmed lighter and carefully set the liqueur on fire. Let it burn for about 30 seconds. Pour the flaming liqueur over the cr\u00eapes on the platter and serve immediately with ice cream."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "1 hr",
+            "Cook": "30 mins",
+            "Total": "1 hr 30 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "516",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/222369/beer-batter-crepes-with-banana-cream-cheese-filling/",
+        "recipe_name": "Beer Batter Crepes with Banana Cream Cheese Filling",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/pnafKIVugVMmmQq_e9P1KYt6bak=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2574907-0270a67868244eb0ba45ecef0e7ae4fb.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "1 cup stale beer, room temperature",
+            "4  eggs, room temperature",
+            "2 tablespoons vegetable oil",
+            "\u00bc teaspoon ground nutmeg",
+            "\u00bc teaspoon salt",
+            "4  bananas, sliced 1/4-inch thick",
+            "1  lemon, juiced, or as needed",
+            "1 (8 ounce) package cream cheese",
+            "\u00bc cup brown sugar",
+            "1 cup whipped topping",
+            "1 cup white sugar",
+            "\u00bd cup boiling water",
+            "3 tablespoons cornstarch",
+            "\u00bd cup water",
+            "3 tablespoons butter",
+            "8 teaspoons vegetable oil, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk flour, beer, eggs, 2 tablespoons vegetable oil, nutmeg, and salt in a large bowl to form a smooth batter.",
+            "Toss bananas with enough lemon juice to coat in a separate bowl.",
+            "Beat the cream cheese and brown sugar together in a separate bowl until light and fluffy; fold whipped topping into cream cheese mixture to form the cheese filling. Set aside.",
+            "Heat white sugar in a saucepan over medium heat, stirring constantly, until melted and brown, 2 to 4 minutes. Remove sauce pan from heat and stir boiling water into melted sugar. Return to heat and stir until it forms a smooth and clear syrup.",
+            "Whisk cornstarch and 1/2 cup water together in a small bowl; add to syrup in saucepan. Simmer over low heat, stirring constantly, until thick and clear, 5 to 7 minutes. Whisk butter into syrup to form a caramel sauce.",
+            "Heat 1 teaspoon vegetable oil in an 8-inch crepe pan over medium heat. Pour about 1/4 cup crepe batter into heated oil. Tip and rotate the skillet until batter covers the entire area. Cook until the batter turns from wet to moist, and the edges begin to curl away from the sides of the skillet. Flip crepe and continue cooking until lightly golden on the other side. Place crepe onto a plate, and cover with a kitchen towel to keep moist. Repeat with remaining batter, lightly oiling the skillet as needed with 1 teaspoon vegetable oil each time to keep the crepes from sticking.",
+            "Assemble crepes by spreading about 2 tablespoons caramel sauce over each crepe. Spread 1/8 the cream cheese filling onto the caramel layer; top with 1/8 the bananas. Roll the crepe around the bananas and place seam-side down on a serving platter. Repeat with remaining crepes and ingredients. Drizzle remaining caramel sauce over crepes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "20 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "639",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/85808/chocolate-hazelnut-fruit-crepes/",
+        "recipe_name": "Chocolate Hazelnut Fruit Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/vM8eBu1QrL92xvrH_WAYCpFsdnk=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/829140-708a2ac0c87e4601874eecffa879ea34.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup chocolate hazelnut spread",
+            "4 (7 inch) pre-made crepes",
+            "4  bananas, sliced",
+            "1 (7 ounce) can pressurized whipped cream"
+        ],
+        "recipe_directions_formatted": [
+            "Spread 1/4 cup of chocolate hazelnut spread onto each crepe. Arrange 1 sliced banana down the center of each one. Roll up, and place in a warm skillet over medium heat. Let them warm up for about 90 seconds. Transfer to plates, and serve topped with whipped cream."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "15 mins",
+            "Total": "25 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "204",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "6g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/223167/love-letter-crepes/",
+        "recipe_name": "Love Letter - Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/QK6KiZCgdTtRWIiBze15fHipXWc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3437519-676947e2f4f9441ca0f06690dda7aee6.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "\u00bd teaspoon baking powder",
+            "\u00bd teaspoon salt",
+            "2 cups milk",
+            "2 tablespoons butter, melted",
+            "2  eggs",
+            "\u00bd teaspoon vanilla extract",
+            "2 teaspoons vegetable oil, or as needed",
+            "\u00bd cup flaked coconut",
+            "1 tablespoon white sugar, or more to taste",
+            "\u00bc teaspoon ground cardamom"
+        ],
+        "recipe_directions_formatted": [
+            "Sift flour, 1 tablespoon sugar, baking powder, and salt together in a large bowl. Whisk milk, butter, eggs, and vanilla extract into flour mixture until smooth.",
+            "Heat vegetable oil in a skillet over medium-high heat. Scoop about 1/4 cup batter and pour onto hot skillet. Tilt the pan in a circular motion to evenly distribute the batter. Cook crepe until bottom is lightly browned, about 2 minutes. Loosen with a spatula, flip, and cook the other side, about 2 more minutes. Transfer to a plate. Add more oil to the pan and repeat with remaining batter.",
+            "Mix coconut, 1 tablespoon white sugar, and cardamom together in a small bowl. Spread 1 to 2 tablespoons of coconut mixture into the center of each crepe; fold crepe over the filling like an envelope or in half."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "10 mins",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "279",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/27161/strawberry-crepes/",
+        "recipe_name": "Strawberry Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/D5CY3iq3s0pi39g58iVNKGLLcoU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/6763456-51f24326959e45a2919415ce82f88043.jpg",
+        "recipe_ingredients_formatted": [
+            "1  egg, beaten",
+            "\u00bc cup skim milk",
+            "\u2153 cup water",
+            "1 tablespoon vegetable oil",
+            "\u2154 cup all-purpose flour",
+            "\u00bc teaspoon white sugar",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "In a large bowl, beat together egg, milk, water and oil. Beat in flour, sugar and salt until smooth.",
+            "Heat a medium, nonstick skillet over medium-high heat. Place a ladleful of crepe batter into center of pan, tilting to coat the bottom. Cook until golden brown on one side, turning once, 2 to 5 minutes. Continue with remaining batter.",
+            "In a small saucepan over low heat, melt chocolate chips, stirring constantly. Remove from heat.",
+            "To assemble, spread some melted chocolate on the lighter side of one crepe. Place a line of overlapping strawberries down the center of the crepe and roll it up. Top with whipped topping and drizzle with a bit more chocolate. Repeat with remaining crepes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "20 mins",
+            "Cook": "10 mins",
+            "Total": "30 mins",
+            "Servings": "4",
+            "Yield": "4 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "234",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/85419/chocolate-banana-crepes/",
+        "recipe_name": "Chocolate Banana Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/hXkn-YCeGEhmUolc8o_MDxjYpfs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/822533-64bedfd2d03a49d48c75e06a5faad4ca.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup whole or 2% milk",
+            "1 \u00bd tablespoons melted butter",
+            "1  egg yolk",
+            "1 teaspoon vanilla",
+            "2 teaspoons hazelnut liqueur",
+            "1 tablespoon cocoa",
+            "2 tablespoons confectioners' sugar",
+            "\u2153 cup white flour"
+        ],
+        "recipe_directions_formatted": [
+            "In a medium bowl, stir together 1/2 cup milk, 1 1/2 tablespoons melted butter, egg yolk, vanilla, and 2 teaspoons hazelnut liqueur. Whisk 1 tablespoon cocoa into liquid until completely incorporated. Next, whisk in 2 tablespoons confectioners' sugar until completely incorporated. Then gradually whisk in flour until completely incorporated. Set aside.",
+            "Melt 1/2 tablespoon butter in a saucepan over low heat. Stir 1 tablespoon milk and 2 teaspoons hazelnut liqueur into melted butter. Stir in 1 tablespoon cocoa and 2 tablespoons confectioners' sugar. Set over very low heat to keep warm.",
+            "Spray a non-stick frying pan or crepe pan with cooking spray, and heat over medium heat. Pour about 1/4 cup of batter onto the pan, and swirl to form a very thin disk; cook for about 2 minutes. Flip, and cook about 1 minute more.",
+            "Place crepe on a plate. Add 1/4 sliced bananas to crepe, and spoon 1/4 of the chocolate sauce over the bananas. Roll or fold crepe, and sprinkle with confectioners' sugar. Repeat steps 3 and 4. Serve crepes warm."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": "None",
+        "recipe_nutrition_details_formatted": {
+            "Calories": "None",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "None"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/gallery/dessert-crepe-recipes/",
+        "recipe_name": "17 Dessert Crepe Recipes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/vavdzzxRFB8uAgA2awPkPnqKEUE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x999:1001x1001):format(webp)/6372725_original-2000-93e5c255b7ca4953b88451815678553a.jpg",
+        "recipe_ingredients_formatted": "None",
+        "recipe_directions_formatted": []
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "5 mins",
+            "Total": "10 mins",
+            "Servings": "3",
+            "Yield": "6 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "219",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "9g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/20743/claires-yummy-crepes/",
+        "recipe_name": "Claire's Yummy Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/Ki-j-4G2OEnXvf9cX01r6fmKxk0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/115458-32da1f3941e548099ab2117eabfce6f2.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "\u00bd teaspoon white sugar",
+            "\u00bc teaspoon salt",
+            "1 cup milk",
+            "1  egg"
+        ],
+        "recipe_directions_formatted": [
+            "Combine flour, sugar and salt in a bowl. Make a well in the center of the flour and add the milk and egg. Beat well to combine.",
+            "Heat a lightly oiled griddle or frying pan over medium high heat. Pour the batter onto the griddle, using approximately 1/4 cup for each crepe. Tilt the pan with a circular motion so that the batter coats the surface evenly.",
+            "Cook the crepe for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side. Serve hot."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "30 mins",
+            "Cook": "30 mins",
+            "Total": "2 hrs",
+            "Servings": "8",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "361",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/222367/yummy-apple-cinnamon-crepes/",
+        "recipe_name": "Yummy Apple Cinnamon Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/GP5xi_LKMKTj8PJs-QB3n-H3ca8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/862190-c82b504d86174204a454ceec890b5c84.jpg",
+        "recipe_ingredients_formatted": [
+            "3  eggs",
+            "\u00bc teaspoon salt",
+            "2 cups all-purpose flour",
+            "2 cups milk",
+            "\u00bc cup vegetable oil",
+            "\u00bd teaspoon ground cinnamon",
+            "4  Granny Smith apples, peeled and diced",
+            "\u00bd cup white sugar",
+            "2 teaspoons cinnamon",
+            "2 tablespoons water",
+            "2 tablespoons cornstarch",
+            "1 tablespoon water",
+            "1 \u00bd tablespoons milk",
+            "8 teaspoons vegetable oil, divided"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk eggs and salt together in a bowl. Gradually stir flour into eggs, alternately with 2 cups milk, until fully incorporated. Beat 1/4 cup vegetable oil and 1/2 teaspoon cinnamon into flour mixture. Refrigerate batter for at least 1 hour.",
+            "Mix apples, sugar, 2 teaspoons cinnamon, and 2 tablespoons water in a pot.",
+            "Whisk cornstarch and 1 tablespoon water in a small bowl; pour into apple mixture.",
+            "Simmer apple mixture over medium heat, stirring often, until thickened, 8 to 10 minutes. Keep warm.",
+            "Whisk 1 1/2 tablespoons milk into chilled batter.",
+            "Heat about 1 teaspoon vegetable oil in a crepe or frying pan over medium heat. Pour about 1/3 cup batter into hot oil; tip and rotate the crepe pan until batter covers the entire area. Cook until edges begin curling away from the pan's sides, about 30 seconds; flip crepe and continue cooking until bottom is lightly golden, about 30 more seconds. Remove crepe from the pan, add more oil, and repeat with remaining batter.",
+            "Spoon apple filling into each crepe; fold crepe over filling and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "8 hrs",
+            "Prep": "40 mins",
+            "Cook": "30 mins",
+            "Total": "9 hrs 10 mins",
+            "Servings": "5",
+            "Yield": "12 rolled pancakes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "873",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "15g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212825/grandma-irenas-palacsinta-hungarian-crepes/",
+        "recipe_name": "Grandma Irena's Palacsinta (Hungarian Crepes)",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/6h_c_EFBrYrIS-KY_9jSEjSaLkw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2):format(webp)/430161-cab3f11c3c444b9395821e3345c1175a.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups all-purpose flour",
+            "2  eggs",
+            "1 cup milk",
+            "1 cup soda water",
+            "\u00bd cup vegetable oil",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "Combine the flour and eggs and mix until smooth. Add the milk, soda water, vegetable oil, and salt and mix to combine; refrigerate the batter overnight.",
+            "To make the pancakes, heat a lightly greased frying pan over medium heat. Remove the batter from the refrigerator and mix well. Pour 1/4 cup of the batter into the pan and cook the pancake for about one minute. Flip it over and cook for another minute, or until golden brown. Remove the pancake from the pan and place it on waxed paper. Repeat with the remaining batter, stacking the pancakes while keeping them separate with waxed paper.",
+            "To make the filling, combine the chopped almonds, 1/2 cup sugar, milk, vanilla extract, and rum (if desired) in a saucepan. Cook and stir over low heat until the sugar is dissolved and the mixture is creamy. Allow it to cool slightly before filling the pancakes.",
+            "For the chocolate topping, combine the water, 1/2 cup sugar, and chocolate in a saucepan and cook over low heat just until the chocolate melts. Remove the pan from the heat and add the margarine, stirring until melted and combined.",
+            "Spread 1 heaping tablespoon of almond filling onto each pancake, rolling them up and placing them on a platter. (You will have 10 to 15 total, depending on their size.) Pour the chocolate topping over the platter of rolled pancakes. If desired, warm the platter in a microwave for about 30 seconds before serving."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "30 mins",
+            "Prep": "5 mins",
+            "Cook": "20 mins",
+            "Total": "55 mins",
+            "Servings": "15",
+            "Yield": "15 blintzes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "149",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212387/cottage-cheese-blintzes/",
+        "recipe_name": "Cottage Cheese Blintzes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/IuZS4NljxfB9tv-jQ8_aKdBHNrE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1005390-fb82c2a949db4d739f5b09c5ac3a9e4d.jpg",
+        "recipe_ingredients_formatted": [
+            "3  eggs",
+            "1 cup milk",
+            "2 tablespoons vegetable oil",
+            "\u00be cup all-purpose flour",
+            "1 teaspoon vegetable oil, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk together the eggs, milk, and 2 tablespoons of vegetable oil in a bowl; gradually add in the flour, whisking to remove all lumps.",
+            "Brush a small skillet with 1 teaspoon vegetable oil, and heat over medium-high heat. Pour about 2 tablespoons of batter per crepe into the heated skillet, and tilt the pan to completely cover the surface with batter. Crepes should be about 5 inches in diameter. Cook the crepes until golden on the bottom, and set but not wet on top, 1 to 2 minutes per crepe. Don't flip the crepes. Set the cooked crepes aside.",
+            "Mix the cottage cheese, egg yolks, sugar, and lemon juice in a bowl until very well combined. To fill, place a crepe in front of you on a work surface with the cooked side up, and place about 1/4 cup of cheese filling in the center of the crepe. Fold the right and left edges of the crepe over the filling, and roll the crepe over to seal the filling in, making a compact little roll filled with cheese. Set the blintzes aside.",
+            "Heat 1 teaspoon of vegetable oil in a large skillet over medium-low heat, and place the filled blintzes into the hot skillet. Pan-fry the blintzes until golden brown on each side, about 2 minutes per side. Eat hot or cold."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "20 mins",
+            "Total": "25 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "331",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "7g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/236965/palacinky/",
+        "recipe_name": "Palacinky",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/TXsTDYeLhNoqVnlW_SGuyk53ROk=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(219x474:221x476):format(webp)/1993443-palacinky-Baking-Nana-4x3-1-edcb63649f404796861725d9c38133a0.jpg",
+        "recipe_ingredients_formatted": [
+            "2 cups skim milk",
+            "6  eggs, beaten",
+            "1 cup all-purpose flour",
+            "\u00bc cup white sugar",
+            "1 teaspoon vanilla extract",
+            "\u00bc cup canola oil, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Beat milk, eggs, flour, sugar, and vanilla extract together in a large mixing bowl until the batter is thin and without lumps.",
+            "Heat a large skillet over medium heat and grease with 1 tablespoon canola oil. Ladle enough batter into the skillet to cover the cooking surface in a thin layer. Cook until bubbles appear on the surface, 2 to 3 minutes. Flip with a large turner and cook until browned on the other side, about 2 minutes more.",
+            "Remove cooked pancake to a plate and roll into a log. Repeat to cook remaining pancakes, greasing the skillet as needed."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "5 mins",
+            "Total": "15 mins",
+            "Servings": "2",
+            "Yield": "4 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "228",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/141970/egg-white-crepes/",
+        "recipe_name": "Egg-White Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/l1XMoirq_aJSHDe4AOnV05dAbD8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1118972-e6683cc557294093b69d16842a1ac4f5.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00bd cup whole wheat flour",
+            "2  egg whites",
+            "\u00bd cup skim milk",
+            "1 pinch salt",
+            "1 tablespoon vegetable oil",
+            "\u00bd cup mixed frozen berries, thawed and drained",
+            "1 tablespoon confectioners' sugar for dusting"
+        ],
+        "recipe_directions_formatted": [
+            "Whisk together the wheat flour, egg whites, milk, salt, and oil in a large bowl until smooth.",
+            "Lightly coat a skillet with cooking spray and place over medium heat. Pour 1/4 cup of the batter into the skillet. Tilt the pan in a circular motion to allow the batter to spread to the edges. Cook until the bottom is light brown, about 2 minutes. Flip the crepe and place 2 tablespoons of the mixed berries in the center of the crepe; cook another 2 minutes. Fold the crepe in half and remove with a spatula to a serving plate. Dust with confectioners' sugar and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "15 mins",
+            "Cook": "15 mins",
+            "Total": "30 mins",
+            "Servings": "12",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "111",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/16203/regular-crepes/",
+        "recipe_name": "Regular Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/TxuSCvXhFMHR7qPrBZ1OGAcmSes=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/9173-c34ffaa748d64b5c81b66e121d65f758.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "\u00bd teaspoon baking powder",
+            "\u00bd teaspoon salt",
+            "2 cups milk",
+            "2 tablespoons butter, melted",
+            "\u00bd teaspoon vanilla extract",
+            "2 large eggs"
+        ],
+        "recipe_directions_formatted": [
+            "Sift together flour, sugar, baking powder, and salt in a large bowl. Stir in milk, butter, and vanilla. Add in eggs and mix until smooth.",
+            "Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each cr\u00eape. Tilt the pan with a circular motion so that the batter coats the surface evenly.",
+            "Cook the cr\u00eape for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side.",
+            "Stack the finished cr\u00eapes by putting wax paper between each one. Keep covered with a dry cloth until ready to eat."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "1 mins",
+            "Cook": "None",
+            "Total": "1 mins",
+            "Servings": "15",
+            "Yield": "15 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "434",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/16054/chocolate-crepes/",
+        "recipe_name": "Chocolate Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/PuE9yE8iWG7DKu13sU8mMv0KX6M=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2140729-7eb24114e28c4a3084d123177f025a3a.jpg",
+        "recipe_ingredients_formatted": [
+            "2  eggs",
+            "\u00bd cup milk",
+            "\u00bd cup water",
+            "\u00be cup all-purpose flour",
+            "6 teaspoons white sugar",
+            "\u2153 tablespoon butter or margarine",
+            "1 fluid ounce cognac",
+            "1 (3.9 ounce) package instant chocolate pudding mix",
+            "1 teaspoon instant coffee granules",
+            "3 cups heavy cream",
+            "4 (1 ounce) squares bittersweet chocolate",
+            "\u00bd cup butter or margarine",
+            "1 \u00bc cups nonfat evaporated milk",
+            "2 \u00bd cups confectioners' sugar"
+        ],
+        "recipe_directions_formatted": [
+            "Crepe batter: in a large bowl, mix together eggs, milk, water, flour, sugar, 1 teaspoon butter, and cognac.",
+            "Filling: beat pudding mix, instant coffee and whipping cream together with an electric mixer until the mixture is thick.",
+            "Sauce: in a small saucepan, melt the chocolate, butter, evaporated milk, and confectioners' sugar together until the mixture is a little thick.",
+            "Crepes: heat a small skillet (or crepe pan) to a high temperature. Place a small amount of batter into the skillet and swirl it around until the batter covers the bottom of the pan. When the crepe is slightly browned flip the crepe over and let the other side brown for a few seconds. The first crepe will most likely not turn out well, but the rest will. Stack the crepes on top of each other to let tem cool before filling.",
+            "Spoon the filling into the center of each crepe and roll the crepe up around it. Spoon the sauce over the crepes and serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "5 mins",
+            "Total": "15 mins",
+            "Servings": "4",
+            "Yield": "8 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "481",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "12g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/220142/fluffy-swedish-pancakes/",
+        "recipe_name": "Fluffy Swedish Pancakes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/8REZbZR7b4o12mHv9pPcjVdN3io=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(515x539:517x541):format(webp)/6634962-fluffy-swedish-pancakes-Smitty21-4x3-1-1624fbf1ff5943129ff34f9ddd1720fd.jpg",
+        "recipe_ingredients_formatted": [
+            "4  eggs",
+            "1 cup milk",
+            "\u00bd cup warm water",
+            "3 tablespoons white sugar",
+            "1 cup all-purpose flour",
+            "\u00bd teaspoon salt",
+            "\u00bd cup butter, melted",
+            "1 tablespoon butter, melted, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Blend eggs, milk, warm water, white sugar, flour, and salt together in a large mixing bowl with an electric mixer until well combined into a smooth batter.",
+            "Stream the melted butter into the batter while continuing to beat.",
+            "Heat a skillet or crepe pan over medium heat. Coat the cooking surface with a thin layer of butter.",
+            "Pour a thin layer of batter onto the prepared cooking surface; swirl the pan to assure even coverage.",
+            "Cook the crepe until browned on the bottom, 1 to 2 minutes; flip the crepe and continue cooking until the other side is browned. Serve immediately."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "5 mins",
+            "Cook": "15 mins",
+            "Total": "20 mins",
+            "Servings": "6",
+            "Yield": "6 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "519",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "8g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/25216/banana-crepes/",
+        "recipe_name": "Banana Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/ekO6L_xp0xTxEL6Sj2zMPV9q55c=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/5441-68015bddec6b442fbc108560e4839559.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "\u00bc cup confectioners' sugar",
+            "2  eggs",
+            "1 cup milk",
+            "3 tablespoons butter, melted",
+            "1 teaspoon vanilla extract",
+            "\u00bc teaspoon salt",
+            "\u00bc cup butter",
+            "\u00bc cup packed brown sugar",
+            "\u00bc teaspoon ground cinnamon",
+            "\u00bc teaspoon ground nutmeg",
+            "\u00bc cup half-and-half cream",
+            "6  bananas, halved lengthwise",
+            "1 \u00bd cups whipped heavy cream",
+            "1 pinch ground cinnamon"
+        ],
+        "recipe_directions_formatted": [
+            "Sift flour and powdered sugar into a mixing bowl. Add eggs, milk, butter, vanilla, and salt; beat until smooth.",
+            "Heat a lightly greased 6 inch skillet. Add about 3 tablespoons batter. Tilt skillet so that batter spreads to almost cover the bottom of skillet. Cook until lightly browned; turn and brown the other side. Repeat process with remaining batter, grease skillet as needed.",
+            "Melt 1/4 cup butter in a large skillet. Stir in brown sugar, 1/4 teaspoon cinnamon and nutmeg. Stir in cream and cook until slightly thickened. Add half the bananas at a time to skillet; cook for 2 to 3 minutes, spooning sauce over them. Remove from heat.",
+            "Roll a crepe around each banana half and place on serving platter. Spoon sauce over crepes. Top with whipped cream and a pinch of cinnamon."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "45 mins",
+            "Prep": "30 mins",
+            "Cook": "1 hr",
+            "Total": "2 hrs 15 mins",
+            "Servings": "12",
+            "Yield": "1 20-layer crepe cake"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "466",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "9g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/273285/chef-johns-strawberry-crepe-cake/",
+        "recipe_name": "Chef John's Strawberry Crepe Cake",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/0WqWLM8APmOTfN_jjxsOYXcxvBs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2208x0:2210x2):format(webp)/7725296-769b709502654d0c803bc2a1d6718fc0.jpg",
+        "recipe_ingredients_formatted": [
+            "5 large eggs",
+            "2 \u00bd cups all-purpose flour",
+            "2 tablespoons white sugar",
+            "\u00bd teaspoon kosher salt",
+            "2 \u00bd tablespoons vegetable oil",
+            "3 \u00bc cups whole milk",
+            "\u00bd teaspoon vanilla extract",
+            "4 tablespoons butter, or as needed"
+        ],
+        "recipe_directions_formatted": [
+            "Pour eggs, flour, sugar, salt, oil, milk, and vanilla extract into a blender. Blend, starting on low speed and finishing on high, until combined. Refrigerate batter for at least 30 minutes.",
+            "Scoop strawberry jam into a saucepan. Rinse out jar with water and pour into the saucepan. Bring to a simmer over medium heat and stir. Simmer for 1 minute, remove from heat, and stir. Let cool to room temperature.",
+            "Brush some butter over a nonstick skillet over medium heat. Pour in 1/4 cup batter; tilt pan to coat evenly. Cook until crepes bubble and brown, about 1 1/2 minutes per side. Transfer to a baking sheet. Repeat with remaining batter, buttering the pan between crepes. Let cool completely before stacking, at least 15 minutes.",
+            "Combine mascarpone cheese, cream, sugar, and vanilla extract in a bowl. Whisk together until stiff peaks form.",
+            "Lay a crepe onto a large plate. Spoon on 2 or 3 tablespoons of the cream mixture, spreading it almost to the edge. Swirl in some strawberry jam. Transfer finished crepe onto a flat serving plate. Repeat with remaining crepes, cream, and jam. Center each crepe over the previous one in a stack. Gently press on a final plain crepe to finish.",
+            "Refrigerate until completely chilled before cutting and serving."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "10 mins",
+            "Cook": "10 mins",
+            "Total": "2 hrs 20 mins",
+            "Servings": "4",
+            "Yield": "16 6-inch cr\u00eapes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "287",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/18100/eggless-crepes/",
+        "recipe_name": "Eggless Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/AfI3ghlQWgBh8uGjKdNQWhjZuP0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/3565437-25199dad8ab5414097a41a1131202504.jpg",
+        "recipe_ingredients_formatted": [
+            "\u2154 cup water",
+            "\u00bd cup skim milk",
+            "\u00bc cup butter, melted",
+            "2 tablespoons vanilla extract",
+            "1 cup all-purpose flour",
+            "1 tablespoon white sugar",
+            "\u00bc teaspoon salt",
+            "1 tablespoon vegetable oil"
+        ],
+        "recipe_directions_formatted": [
+            "Mix water, milk, melted butter, and vanilla together in a medium bowl. Mix flour, sugar, and salt together in a small bowl until thoroughly combined. Whisk flour mixture into milk mixture until smooth. Cover batter and refrigerate for 2 hours.",
+            "Warm a medium skillet over medium-high heat. Coat the pan with vegetable oil, then pour in about 2 tablespoons batter. Swirl the pan to allow batter to spread out thinly. Cook until the edges are crispy and golden, then flip to cook the other side until lightly browned. Remove to a plate and repeat with remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "20 mins",
+            "Total": "30 mins",
+            "Servings": "12",
+            "Yield": "12 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "142",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "3g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/95817/vanilla-crepes/",
+        "recipe_name": "Vanilla Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/5nVGoMU7Tgrh-vsbMhhQWnSGtdI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/667046-197363bc6a2141dba6dd9e3fcc6a687e.jpg",
+        "recipe_ingredients_formatted": [
+            "1 \u00bd cups milk",
+            "3  egg yolks",
+            "2 tablespoons vanilla extract",
+            "1 \u00bd cups all-purpose flour",
+            "2 tablespoons sugar",
+            "\u00bd teaspoon salt",
+            "5 tablespoons melted butter"
+        ],
+        "recipe_directions_formatted": [
+            "In a large bowl, mix together the milk, egg yolks and vanilla. Stir in the flour, sugar, salt and melted butter until well blended.",
+            "Heat a crepe pan over medium heat until hot. Coat with vegetable oil or cooking spray. Pour about 1/4 cup of batter into the pan and tip to spread the batter to the edges. When bubbles form on the top and the edges are dry, flip over and cook until lightly browned on the other side and edges are golden. Repeat with remaining batter.",
+            "Fill crepes with your favorite fruit, cream, caramel or even ice cream or cheese to serve."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "10 mins",
+            "Cook": "45 mins",
+            "Total": "55 mins",
+            "Servings": "8",
+            "Yield": "8 servings"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "410",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "14g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/212822/blintz-souffle-ii/",
+        "recipe_name": "Blintz Souffle II",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/usjyhOqAN1VIKcdMV_KwIjEEd9o=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/4023492-blintz-souffle-ii-Kari-4x3-1-025b835492bc40a583057b32b87f4d16.jpg",
+        "recipe_ingredients_formatted": [
+            "3 tablespoons butter",
+            "2 (13 ounce) packages frozen cheese-filled blintzes",
+            "4  eggs, beaten",
+            "1 \u00bd cups sour cream",
+            "1 \u00bc cups white sugar",
+            "\u00bd teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 tablespoon orange juice"
+        ],
+        "recipe_directions_formatted": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Melt the butter in a 2-quart casserole, and place the frozen blintzes on top of the butter in a single layer. Mix the eggs, sour cream, sugar, salt, vanilla extract, and orange juice in a bowl until thoroughly combined, and pour the mixture over the blintzes.",
+            "Bake in the preheated oven until the top is lightly browned, and a toothpick inserted into the center of the casserole comes out clean, about 45 minutes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "2 hrs",
+            "Prep": "5 mins",
+            "Cook": "20 mins",
+            "Total": "2 hrs 25 mins",
+            "Servings": "4",
+            "Yield": "None"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "268",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/15417/vegan-crepes/",
+        "recipe_name": "Vegan Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/80zv32RDOMd44mopFz1yvRhIirU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2243167-18cdd4c8013d4356ad4ee7f104bb8871.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup unbleached all-purpose flour",
+            "\u00bd cup soy milk",
+            "\u00bd cup water",
+            "\u00bc cup melted soy margarine",
+            "2 tablespoons maple syrup",
+            "1 tablespoon turbinado sugar",
+            "\u00bc teaspoon salt"
+        ],
+        "recipe_directions_formatted": [
+            "Mix flour, soy milk, water, 1/4 cup soy margarine, maple syrup, sugar, and salt together in a large mixing bowl until combined; cover and chill for 2 hours.",
+            "Lightly grease a 6-inch skillet with some soy margarine. Heat the skillet over medium heat.",
+            "Pour 2 to 3 tablespoons of batter into the skillet and immediately rotate the skillet to spread batter out in a thin layer. Cook until the top of the cr\u00eape is no longer wet and the bottom has turned light brown, 1 to 2 minutes. Run a spatula around the edge of the skillet to loosen cr\u00eape; flip and cook until the other side has turned light brown, about 1 minute more. Repeat with remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "2 mins",
+            "Cook": "13 mins",
+            "Total": "15 mins",
+            "Servings": "7",
+            "Yield": "7 crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "110",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "5g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/17571/real-french-crepes/",
+        "recipe_name": "Real French Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/c0kCsEQA5nne0zx47OcWfWlOKyQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/2354304-f94790a732be4666b38bd6c048eeb226.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup all-purpose flour",
+            "1  egg",
+            "2 cups milk"
+        ],
+        "recipe_directions_formatted": [
+            "In a mixing bowl, combine flour, egg, and milk.",
+            "Heat a large skillet or crepe pan over a medium-high heat. Spray the pan with non-stick cooking spray. Pour about 1/3 cup of batter into the pan, lift the pan and turn it by rotating your wrist, spreading a PAPER THIN amount in the pan. Flip the crepe when it starts to bubble. When it is finished cooking, remove it and repeat this process with the remaining batter."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "1 hr",
+            "Prep": "5 mins",
+            "Cook": "10 mins",
+            "Total": "1 hr 15 mins",
+            "Servings": "8",
+            "Yield": "8 cr\u00eapes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "79",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "4g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/27188/crepes/",
+        "recipe_name": "Cr\u00eapes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/ydOyOUCP8O4sIvZrnaiYloc7wqI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/8909901-crepes-Ana-P-1x1-1-4b76780e393548baa72d98254b851aed.jpg",
+        "recipe_ingredients_formatted": [
+            "1 cup milk",
+            "\u2154 cup all-purpose flour",
+            "2 large eggs",
+            "2 \u00bd teaspoons vegetable oil, divided",
+            "1 pinch salt"
+        ],
+        "recipe_directions_formatted": [
+            "Combine milk, flour, eggs, 1 1/2 teaspoons oil, and salt in a blender; process until smooth. Cover and refrigerate for 1 hour.",
+            "Heat a skillet over medium-high heat and brush with remaining oil. Pour 1/8 of the cr\u00eape batter (about 1/4 cup) into the pan; tilt the pan until batter coats the entire surface. Cook until golden brown, 1 to 2 minutes per side, then remove to a plate. Repeat to cook remaining cr\u00eapes."
+        ]
+    },
+    {
+        "recipe_tags_formatted": [
+            "Recipes",
+            "Breakfast and Brunch",
+            "Crepes",
+            "Sweet"
+        ],
+        "recipe_details_formatted": {
+            "Additional Time": "None",
+            "Prep": "30 mins",
+            "Cook": "30 mins",
+            "Total": "1 hr",
+            "Servings": "6",
+            "Yield": "12 filled crepes"
+        },
+        "recipe_nutrition_details_formatted": {
+            "Calories": "557",
+            "Total Fat": "None",
+            "Carbohydrates": "None",
+            "Protein": "10g"
+        },
+        "recipe_card-href": "https://www.allrecipes.com/recipe/143886/creamy-strawberry-crepes/",
+        "recipe_name": "Creamy Strawberry Crepes",
+        "recipe_img_url-src": "https://www.allrecipes.com/thmb/zbgJcxjC342zokHb2ENaSYlaZpM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/7725389-creamy-strawberry-crepes-Christine-Johanson-1x1-1-775b425615bd408698fc3688b35ddf12.jpg",
+        "recipe_ingredients_formatted": [
+            "\u00be cup all-purpose flour",
+            "\u00bd cup milk",
+            "\u00bd cup water",
+            "3  eggs",
+            "3 tablespoons butter, melted",
+            "\u00bd teaspoon salt",
+            "1 \u00bc cups sifted confectioners' sugar",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 tablespoon lemon juice",
+            "1 teaspoon lemon zest",
+            "\u00bd teaspoon vanilla extract",
+            "1 cup heavy cream, whipped",
+            "4 cups sliced strawberries"
+        ],
+        "recipe_directions_formatted": [
+            "Place flour, milk, water, eggs, melted butter, and salt into a blender; blend until smooth and set aside.",
+            "Beat confectioners' sugar, cream cheese, lemon juice, lemon zest, and vanilla with an electric mixer in a large bowl until smooth. Gently fold in whipped cream.",
+            "Heat a lightly oiled griddle or non-stick skillet over medium heat.",
+            "Pour or scoop batter onto the griddle, using approximately 2 tablespoons for each crepe. Tip and rotate the pan to spread batter as thinly as possible. Flip over when batter is set and edges begin to brown. Continue cooking until bottom begins to brown. Stack finished crepes on a plate; cover with a damp towel.",
+            "Fill each crepe with 1/4 cup sliced strawberries and 1/3 cup cream cheese filling. Roll up and top with a dollop of cream cheese filling and more sliced strawberries."
+        ]
+    }
+]

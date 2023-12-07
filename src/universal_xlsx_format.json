@@ -1,0 +1,10 @@
+{
+    "recipe_tags_formatted": "List[str]",
+    "recipe_details_formatted": "Dict[str,str]",
+    "recipe_nutrition_details_formatted": "Dict[str,str]",
+    "recipe_card-href": "str",
+    "recipe_name": "str",
+    "recipe_img_url-src": "str",
+    "recipe_ingredients_formatted": "List[str]",
+    "recipe_directions_formatted": "List[str]"
+}

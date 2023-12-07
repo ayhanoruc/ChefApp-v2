@@ -1,0 +1,7427 @@
+[
+  {
+    "sitemap": {
+      "_id": "italian_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_spaghetti",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/505/main-dish/pasta/spaghetti/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_pizza",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/250/main-dish/pizza/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_drinks",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17551/world-cuisine/european/italian/drinks/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_authentic",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1789/world-cuisine/european/italian/authentic/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_soups-and-stews",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1790/world-cuisine/european/italian/soups-and-stews/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1791/world-cuisine/european/italian/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1793/world-cuisine/european/italian/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "italian_salads",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1800/world-cuisine/european/italian/salads/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1214/world-cuisine/latin-american/mexican/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_soups-and-stews",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1215/world-cuisine/latin-american/mexican/soups-and-stews/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1217/world-cuisine/latin-american/mexican/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_authentic",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1470/world-cuisine/latin-american/mexican/authentic/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_salads",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17513/world-cuisine/latin-american/mexican/salads/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "mexican_burritos",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1216/world-cuisine/latin-american/mexican/main-dishes/burritos/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17135/world-cuisine/asian/chinese/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1899/world-cuisine/asian/chinese/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_soups-and-stews",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1900/world-cuisine/asian/chinese/soups-and-stews/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_beef",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/22838/world-cuisine/asian/chinese/main-dishes/beef/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_chicken",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1902/world-cuisine/asian/chinese/main-dishes/chicken/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_pork",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1901/world-cuisine/asian/chinese/main-dishes/pork/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "chineese_seafood",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1903/world-cuisine/asian/chinese/main-dishes/seafood/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "middle_persian",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/15937/world-cuisine/middle-eastern/persian/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "middle_lebanese",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1824/world-cuisine/middle-eastern/lebanese/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "middle_turkish",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1825/world-cuisine/middle-eastern/turkish/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "middle_israeli",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1826/world-cuisine/middle-eastern/israeli/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "middle_mediterranean-diet",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/16704/healthy-recipes/mediterranean-diet/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "japanese_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17490/world-cuisine/asian/japanese/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "japanese_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17491/world-cuisine/asian/japanese/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "japanese_soups-and-stews",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17492/world-cuisine/asian/japanese/soups-and-stews/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "low_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1591/healthy-recipes/low-carb/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "low_side-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1594/healthy-recipes/low-carb/side-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "low_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1595/healthy-recipes/low-carb/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "low_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1596/healthy-recipes/low-carb/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_drinks",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/143/breakfast-and-brunch/drinks/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_breakfast-casseroles",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/144/breakfast-and-brunch/breakfast-casseroles/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_cereals",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_crepes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_eggs",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_french-toast",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/149/breakfast-and-brunch/french-toast/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_pancakes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_potatoes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/152/breakfast-and-brunch/potatoes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_waffles",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "breakfast_breakfast-cookies",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17766/breakfast-and-brunch/breakfast-cookies/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "drinks_coffee",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/134/drinks/coffee/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "drinks_punch",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/136/drinks/punch/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "drinks_shakes-and-floats",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/137/drinks/shakes-and-floats/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "drinks_smoothies",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/138/drinks/smoothies/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "vegan_soups-and-stews",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/16570/everyday-cooking/vegan/soups-and-stews/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "vegan_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1661/everyday-cooking/vegan/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "vegan_side-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1663/everyday-cooking/vegan/side-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "vegan_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1664/everyday-cooking/vegan/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "vegan_breakfast-and-brunch",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17093/everyday-cooking/vegan/breakfast-and-brunch/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1696/healthy-recipes/gluten-free/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1697/healthy-recipes/gluten-free/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_side-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1698/healthy-recipes/gluten-free/side-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_bread",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1755/healthy-recipes/gluten-free/bread/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_breakfast-and-brunch",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17685/healthy-recipes/gluten-free/breakfast-and-brunch/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "gluten_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1695/healthy-recipes/gluten-free/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_snacks",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/12155/healthy-recipes/snacks/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_salads",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1346/healthy-recipes/salads/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_appetizers",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1319/healthy-recipes/appetizers/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_side-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1321/healthy-recipes/side-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_low-glycemic-impact",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/15587/healthy-recipes/low-glycemic-impact/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/16375/healthy-recipes/desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_low-fat",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1231/healthy-recipes/low-fat/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_low-calorie",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1232/healthy-recipes/low-calorie/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_dairy-free",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/738/healthy-recipes/dairy-free/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_keto-diet",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/22959/healthy-recipes/keto-diet/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_main-dishes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1320/healthy-recipes/main-dishes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "healthy_breakfast-and-brunch",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/15334/healthy-recipes/breakfast-and-brunch/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "dinner_steaks",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "dinner_cooking-for-two",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/476/everyday-cooking/cooking-for-two/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "dinner_quick-and-easy",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/15054/everyday-cooking/cooking-for-one/quick-and-easy/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "dinner_sheet-pan-dinners",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/22992/everyday-cooking/sheet-pan-dinners/"
+      ],
+      "selectors": [
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "_root"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "p.mntl-sc-block",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "table.mntl-nutrition-facts-summary__table",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_chocolate",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/1557/desserts/chocolate/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_crisps-and-crumbles",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/15840/desserts/crisps-and-crumbles/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_frostings-and-icings",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_fruit-desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_specialty-desserts",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/17203/desserts/specialty-desserts/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_cakes",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/276/desserts/cakes/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  },
+  {
+    "sitemap": {
+      "_id": "desserts_custards-and-puddings",
+      "startUrl": [
+        "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/"
+      ],
+      "selectors": [
+        {
+          "id": "sublink",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "_root"
+          ],
+          "selector": "a.taxonomy-nodes__link",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "sub_category",
+          "multiple": "false",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "id": "card",
+          "linkType": "linkFromHref",
+          "multiple": "true",
+          "parentSelectors": [
+            "sublink"
+          ],
+          "selector": ".tax-sc__recirc-list a",
+          "type": "SelectorLink"
+        },
+        {
+          "id": "recipe_name",
+          "multiple": "false",
+          "parentSelectors": [
+            "card"
+          ],
+          "regex": "",
+          "selector": "h1",
+          "type": "SelectorText"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_details_table",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "div.mntl-recipe-details__content",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "ingredients",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "ul.mntl-structured-ingredients__list",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_directions",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-sc-block-group--LI p",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_tags",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": ".mntl-breadcrumbs__link span",
+          "type": "SelectorGroup"
+        },
+        {
+          "extractAttribute": "",
+          "id": "recipe_nutrition_details",
+          "parentSelectors": [
+            "card"
+          ],
+          "selector": "tbody.mntl-nutrition-facts-summary__table-body",
+          "type": "SelectorGroup"
+        }
+      ]
+    }
+  }
+]
