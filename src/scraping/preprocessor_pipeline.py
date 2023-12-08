@@ -38,7 +38,7 @@ class PreprocessorPipeline:
         
         self.file_path = file_path
         
-
+    @handle_exceptions
     def validate_file(self):
         """
         checks if the file is valid according to universal_recipe_format 

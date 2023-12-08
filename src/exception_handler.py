@@ -1,7 +1,7 @@
 import sys 
 from src.logger import AppLogger
 import logging
-
+import traceback
 
 class CustomException(Exception):
 
@@ -16,14 +16,14 @@ class CustomException(Exception):
 
 
     def get_error_message(self,):
-        _, _, exc_tb = self.error_detail.exc_info() # execution traceback
-        file_name = exc_tb.tb_frame.f_code.co_filename # extract relevant information
-        error_line = exc_tb.tb_lineno
-        #construct custom error_message
-        error_message = f"Error occured at [{file_name}] at line number [{error_line}]  error message: [{self.error}] "  # customized error message
-
+        #get the complete traceback
+        tb_list = traceback.extract_tb(self.error_detail.exc_info()[2])#list of traceback frame objects    
+        target_frame = tb_list[1]#target frame is the second last frame, the actual error frame we want, not the exception_handler frame.
+        file_name = target_frame.filename
+        error_line = target_frame.lineno
+        error_message = f"Error occurred at [{file_name}] at line number [{error_line}] error message: [{self.error}]"
         return error_message
-
+        
 def handle_exceptions(func):
     """
     our custom exception logic is implemented here, and should be called in any file.

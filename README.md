@@ -3,15 +3,18 @@ this is the future of COOKING-COPILOT APPS
 
 ## TASK LIST:
 --------------
--[ ] clean the code, copy & save the source code in 2 places first, then do the changes.
+-[X] clean the code, copy & save the source code in 2 places first, then do the changes.
 
--[ ] clean-intended recipe format for all recipes that will be added from now on.
+-[X] clean-intended recipe format for all recipes that will be added from now on.
+
+-[ ] solve exception handler bug: incorrect file_name.
 
 -[ ] xlsx -> jsonDocumentGenerator -> VectorCreator-Adder pipeline. 
 	- takes xlsx in corrext format, runs the pipeline, adds new recipes correctly.
 	 or rejects the file, logs the error.
 
-- [ ] adding GPT-3.5/4 to the loop:
+
+- [ ] adding GPT-3.5/4 into the loop:
 	- the recipe json will be passed to GPT3.5
 	- gpt3.5 will check the relevance of the recipe regarding the user ingredients.
 	- gpt will calculate the missing ingredients and generate a shopping list.

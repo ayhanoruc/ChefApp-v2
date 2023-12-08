@@ -76,15 +76,6 @@ class JsonToDocument:
         print("Metadata is extracted successfully!")
         return metadata, tags
 
-    """def extract_metadata(self, recipe: Dict) -> Dict:
-        #Extract the metadata from a recipe.
-        # the fields to be included in the metadata
-        metadata_fields = ['recipe_card','recipe_card-href', 'recipe_tags','recipe_name','recipe_servings', 
-                            'recipe_prep_time', 'recipe_cook_time', 'recipe_total_time','recipe_nutrition','recipe_directions']
-        
-        # we may handle edge cases here, e.g. if a field is missing: replace with NULL| raise exception ???
-        print("metadata is extracted successfully!")
-        return {field: recipe[field] for field in metadata_fields if field in recipe} """
 
     def extract_ingredients_text(self, recipe: Dict) -> List:
         """Extract ingredients text: list of strings from a recipe."""
@@ -92,29 +83,5 @@ class JsonToDocument:
         return recipe.get('recipe_ingredients_formatted', [])
 
 
-    """ def extract_ingredients_text(self, recipe: Dict) -> List:
-        #Extract and concatenate ingredients text: list of dicts from a recipe.
-        # Concatenate ingredients into a single text string
-        ingredients: List[dict] = recipe.get('recipe_ingredients', [])
-
-        ingredients = json.loads(ingredients)
-
-        # Initialize an empty list to store only the values.
-        final_ingredients_list = []
-        #print(ingredients, type(ingredients))
-        for ingredient in ingredients: # here ingredient is a dictionary, bad naming...
-
-            # This assumes that each ingredient dictionary has a 'recipe_ingredients' key.
-            #print(ingredient)
-            ingredient_text = ingredient['recipe_ingredients']
-
-            # Decode the Unicode escape sequences in the ingredient string.
-            # The 'unicode-escape' codec decodes the string with escape sequences into the actual characters.
-            decoded_ingredient_text = bytes(ingredient_text, 'utf-8').decode('unicode-escape')
-            final_ingredients_list.append(decoded_ingredient_text)
-
-        #print(final_ingredients_list)
-
-        return final_ingredients_list """
 
 
