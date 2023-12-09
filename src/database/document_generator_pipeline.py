@@ -109,3 +109,4 @@ if __name__ == "__main__":
     docs = pipeline.run_document_generator_pipeline(json_path)
     run_documents_to_pinecone_pipeline(docs)
     #print(docs[0].page_content)
+

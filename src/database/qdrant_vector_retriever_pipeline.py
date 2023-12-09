@@ -1,5 +1,4 @@
 from src.database.document_to_vectorstore_pipeline import DocumentToVectorStorePipeline
-from src.database.document_to_qdrant_pipeline import DocumentToQdrantPipeline
 from src.logger import AppLogger
 from src.exception_handler import handle_exceptions
 from typing import List, Dict, Union, Tuple

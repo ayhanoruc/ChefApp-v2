@@ -152,7 +152,7 @@ class VectorRetriever:
         # we need to ensure that the documents are unique by their specific metadata(e.g. href)
 
         ids = self.vector_store.add_documents(documents)
-        self.vector_store.persist()# make sure the changes to database are persisted -> inherent behaviour from sqlite3
+        #self.vector_store.persist()# make sure the changes to database are persisted -> inherent behaviour from sqlite3
         print("new documents added to the vector store ids:", ids)
         return ids
 
