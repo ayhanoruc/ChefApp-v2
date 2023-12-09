@@ -17,7 +17,7 @@ class VectorRetrieverPipeline(DocumentToVectorStorePipeline):
         return list(set(raw_text_list))
     
     @handle_exceptions
-    def post_process_results(self, search_results: List) -> List[Dict]:
+    async def post_process_results(self, search_results: List) -> List[Dict]:
             if search_results is None:
                 return "No results found."
             #print("search results:\n", search_results )
@@ -36,14 +36,15 @@ class VectorRetrieverPipeline(DocumentToVectorStorePipeline):
                     }
                     formatted_results.append(recipe)
                 except AttributeError:
+                    return None
                     # Handle the case where the document does not have the expected attributes
-                    print("Missing attribute in document")
+                    #print("Missing attribute in document")
             
 
             return formatted_results
 
     @handle_exceptions
-    def similarity_search(self, query: Union[str, List[str]], k:int = 3, filter:Dict[str,str]=None, where:Dict[str,str]=None , where_document:Dict[str,str]=None)->List[Tuple[str, float]]:
+    async def similarity_search(self, query: Union[str, List[str]], k:int = 3, filter:Dict[str,str]=None, where:Dict[str,str]=None , where_document:Dict[str,str]=None)->List[Tuple[str, float]]:
 
         """
         Performs a similarity search on the given query and filters the results by metadata.
@@ -62,21 +63,21 @@ class VectorRetrieverPipeline(DocumentToVectorStorePipeline):
         if isinstance(query, str):
             try:
                 #print(f"query: {query} \n k: {k} \n filter: {filter} \n where: {where} \n where_document: {where_document}")
-                results = self.vector_store.max_marginal_relevance_search(query, k=k, fetch=k, lambda_mult= 0.7, where= where, filter=filter, where_document=where_document)
+                results = await self.vector_store.amax_marginal_relevance_search(query, k=k, fetch=k, lambda_mult= 0.7, where= where, filter=filter, where_document=where_document)
                 #print("similarity search is performed successfully!")
                 #print(results)
                 #return results
                 #print(type(results))
-                return self.post_process_results(results)
+                return await self.post_process_results(results)
             except Exception as e:
-                print("similarity search failed with error: ", e)
+                #print("similarity search failed with error: ", e)
                 return None 
 
         else: 
             raise ValueError("query must be a string or a list of strings")
 
 
-def run_vector_retriever_pipeline(query: Union[str, List[str]], k:int = 3, filter:Dict[str,str]=None, where:Dict[str,str]=None , where_document:Dict[str,str]=None)->List[Tuple[str, float]]:
+def initialize_vector_retriver():
     #MODEL PARAMETERS
     model_name = "sentence-transformers/all-MiniLM-L6-v2"
     model_kwargs = {'device': 'cpu'}
@@ -84,15 +85,49 @@ def run_vector_retriever_pipeline(query: Union[str, List[str]], k:int = 3, filte
 
     pipeline = VectorRetrieverPipeline(model_name, model_kwargs, encode_kwargs)
     pipeline.initalize_pinecone_store(index_name="chef-app")
+    pipeline.log_writer.handle_logging("vector retriever pipeline initialized successfully!")
+    return pipeline
 
-    results = pipeline.similarity_search(query, k=k, filter=filter, where=where, where_document=where_document)
-    pipeline.log_writer.handle_logging("results fetched for given query successfully!")
+
+async def run_vector_retriever_pipeline(vector_retriever:None,query: Union[str, List[str]], k:int = 3, filter:Dict[str,str]=None, where:Dict[str,str]=None , where_document:Dict[str,str]=None)->List[Tuple[str, float]]:
+    
+    results = await vector_retriever.similarity_search(query, k=k, filter=filter, where=where, where_document=where_document)
+    vector_retriever.log_writer.handle_logging("results fetched for given query successfully!")
     return results
 
 
 
+#https://docs.pinecone.io/docs/metadata-filtering
+#https://www.mongodb.com/docs/manual/reference/operator/query/
+#https://pypi.org/project/qdrant-client/
+#https://github.com/qdrant/qdrant-client/blob/master/qdrant_client/http/models/models.py
+""" 
+"filter": {
+    "must": [
+      {
+        "key": "time_id",
+        "range": {
+          "lt": 1701770169349,
+          "gt": 1693907769000
+        }
+      }]
+  },
+
+"""
+#https://github.com/qdrant/qdrant-client/blob/master/qdrant_client/http/models/models.py#L553
+"""
+class Filter(BaseModel, extra="forbid"):
+    should: Optional[List["Condition"]] = Field(
+        default=None, description="At least one of those conditions should match"
+    )
+    must: Optional[List["Condition"]] = Field(default=None, description="All conditions must match")
+    must_not: Optional[List["Condition"]] = Field(default=None, description="All conditions must NOT match")
+
+"""
+#https://qdrant.tech/documentation/concepts/filtering/
 
 
+#https://cloud.zilliz.com/signup
 if __name__ == "__main__":
     query = [
         "chicken",
@@ -105,6 +140,7 @@ if __name__ == "__main__":
             {"$contains": "Healthy"}
         ]
     }
+    vector_retriever = initialize_vector_retriver()
     
-    results = run_vector_retriever_pipeline(query, where_document=where_document_condition_2)
+    results = run_vector_retriever_pipeline(vector_retriever,query, where_document=where_document_condition_2)
     print(results)

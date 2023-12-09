@@ -1,11 +1,12 @@
 fastapi
 uvicorn
+mangum
 python-dotenv
 openai
-pandas 
+#pandas 
 sentence-transformers
 langchain
-chromadb
+#chromadb
 torch
 openpyxl
 pinecone-client
