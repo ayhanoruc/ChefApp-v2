@@ -5,7 +5,6 @@ from src.exception_handler import handle_exceptions
 from dotenv import load_dotenv
 from langchain.schema.document import Document
 import json 
-from langchain.schema.document import Document
 from langchain.embeddings import HuggingFaceEmbeddings, SentenceTransformerEmbeddings
 from typing import List,Tuple ,Union, Any, Dict
 import os 
@@ -15,11 +14,6 @@ from qdrant_client.http.models import Distance, VectorParams,OptimizersConfig
 
 
 
-#STEPS:
-# 1. prepare environment keys
-# 2. initialize qdrant client with keys
-# 3. build vectorstore from documents 
-# 4. add new documents
 
 class DocumentToQdrantPipeline(VectorRetriever):
     """
@@ -59,21 +53,21 @@ class DocumentToQdrantPipeline(VectorRetriever):
                 "vacuum_min_vector_number": 1000,
                 "default_segment_number": 0,
                 "max_segment_size": None,
-                "memmap_threshold": None,
+                "memmap_threshold": 200,
                 "indexing_threshold": 200,  # Set the indexing threshold 
                 "flush_interval_sec": 5,
                 "max_optimization_threads": 1
             }
 
-            # Create or update the collection with the new configuration
-            """self.client.create_collection(
-                collection_name="chef-app",
-                vectors_config=VectorParams(size=384, distance=Distance.COSINE),
+            """# Create or update the collection with the new configuration
+            self.client.create_collection(
+                collection_name="chef-app-2",
+                vectors_config=VectorParams(size=384, distance=Distance.COSINE, on_disk=True),
                 optimizers_config=optimizers_config
             )"""
             self.vector_store = Qdrant(
                 client=self.client,
-                collection_name=QDRANT_COLLECTION_NAME,
+                collection_name="chef-app-2",
                 embeddings=self.embedder
             )
 
@@ -162,8 +156,9 @@ ingredients_list = [
 #can add allergic ingredients to filter inside mustn_not list.
 #include all of your tags, filtering values inside the page_content, otherwise you have to define a payload schema
 #its too-practical with page_content
+#test inserting documents with memp
 
-
+#https://qdrant.tech/articles/memory-consumption/
 
 
 filter_1 = {
@@ -176,4 +171,4 @@ filter_1 = {
 }
 
 
-#un_retriever_pipeline(ingredients_list, filter=filter_1)
+run_retriever_pipeline(ingredients_list, filter=filter_1)

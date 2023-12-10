@@ -9,4 +9,5 @@ langchain
 #chromadb
 torch
 openpyxl
-pinecone-client
+#pinecone-client
+qdrant-client
