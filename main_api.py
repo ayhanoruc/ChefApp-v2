@@ -18,21 +18,27 @@ retriever = initialize_qdrant_vector_retriever()
 app_logger = AppLogger("UserEndpoint")
 
 
-load_dotenv()
+load_dotenv(override=True)
 openai_api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = openai_api_key
+print(openai_api_key)
 
 instruction_prompt = """
 you are an helpful assistant that will format and translate the recipes provided to you. given the recipes, your strict- final format should be:
  "{'recipe_name':str
     'recipe_ingredients':List[str],
+    'recipe_directions':List[str],
     'recipe_details':{'Prep_time':str, 'CookTime':str, 'TotalTime':str, 'Servings':str}
-    'recipe_nutrition_details':{'Calories':str,'Total Fat':str,'Carbohydrates':str,'Protein':str},}'
+    'recipe_nutrition_details':{'Calories':str,'Total Fat':str,'Carbohydrates':str,'Protein':str},}
+    'shopping_list':List[str]}"
   1- you can 'process'/'do calculation' etc on the data to achieve this final format. If you can not calculate, just 'make up' a reasonable value.
   2- you 'have to' satisfy the datatypes specified for each key-value pair!
-  3- then you will translate this recipe to 'target' language."
+  3- then you will translate this recipe to 'target' language." Translate 'all the keys' and 'values', use a natural kitchen language.
   4- provide only the translated recipe. dont add any additional text since it will be used in production.
+  5- Lastly you will generate a shopping list substracting user ingredients list from the recipe_ingredients_list, append "shopping_list":List[str] to the end of your response.
+  YOU HAVE TO SATISFY ALL 5 CONDITION. STEP BACK AND EVALUATE YOUR RESULT, ITS CRUCIAL.
 """
-openai.api_key = openai_api_key
+
 
 url = "https://api.openai.com/v1/chat/completions"
 
@@ -57,6 +63,8 @@ async def call_gpt_2(instruction: str, prompt: str, model_name: str = "gpt-3.5-t
             response = await client.post(url, headers=headers, json=payload, timeout=timeout_duration)
             print(response)
             data = response.json()
+            metrics = data["usage"]
+            print("metrics: " , metrics)
             text = data["choices"][0]["message"]["content"]
             return text
         except Exception as e:
@@ -68,6 +76,7 @@ async def call_gpt_2(instruction: str, prompt: str, model_name: str = "gpt-3.5-t
 
 async def call_gpt(instruction: str, prompt: str, model_name: str = "gpt-3.5-turbo", timeout_duration: int = 70) -> str:
     app_logger.handle_logging("Calling GPT for final processing.")
+    print(openai.api_key)
     payload = {
         "model": model_name,
         "messages": [
@@ -77,13 +86,13 @@ async def call_gpt(instruction: str, prompt: str, model_name: str = "gpt-3.5-tur
             }
 
     try:
-        response = await requests.post(url, headers=headers, data=json.dumps(payload), timeout=timeout_duration)
-        print(response)
+        response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=timeout_duration)
+        print("response:  ",response)
         data = response.json()
-        #print(data)
+    
         
         text = data["choices"][0]["message"]["content"]
-        #metrics = data["usage"]
+        print("usage", data["usage"])
         return text
     
     except requests.exceptions.Timeout:
@@ -133,9 +142,16 @@ async def get_recipe(request:UserRequest):
         filter=filter_1,
         k=1,
         )
-
-    final_response = await call_gpt_2(instruction_prompt, response)
-    
+    response = str(response[0])
+    print("response : ",response)
+    #print("type : ",type(response))
+    final_response = await call_gpt_2(instruction=instruction_prompt+"\nTRANSLATION LANGUAGE: "+country+"\n",prompt=response)
+    #print(type(final_response))# string
+    #print(eval(final_response)) # turn it into a dictionary
+    final_response = eval(final_response)
+    final_response["recipe_image_url"]=str(eval(response)["recipe_image_url"])
+    final_response["recipe_url"]=str(eval(response)["recipe_url"])
+    print(final_response)    
     return JSONResponse(content=final_response)
         
 

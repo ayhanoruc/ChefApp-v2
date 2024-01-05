@@ -15,24 +15,24 @@ pipeline = DocumentGeneratorPipeline()
 documents = []
 
 #iterate thru recipes_dir_1
-for i in range(2):#testing purposes
-    
-    for filename in os.listdir(recipes_dir_1):
-        if filename.endswith(".json"):
-            json_path = os.path.join(recipes_dir_1, filename)
-            docs = pipeline.run_document_generator_pipeline(json_path)
-            documents.extend(docs)
 
-    #iterate thru recipes_dir_2, this includes recipe folders
-    # Iterate through recipes_dir_2
-    for folder in os.listdir(recipes_dir_2):
-        folder_path = os.path.join(recipes_dir_2, folder)
-        if os.path.isdir(folder_path):
-            for filename in os.listdir(folder_path):
-                if filename.endswith(".json"):
-                    json_path = os.path.join(folder_path, filename)
-                    docs = pipeline.run_document_generator_pipeline(json_path)
-                    documents.extend(docs)
+
+for filename in os.listdir(recipes_dir_1):
+    if filename.endswith(".json"):
+        json_path = os.path.join(recipes_dir_1, filename)
+        docs = pipeline.run_document_generator_pipeline(json_path)
+        documents.extend(docs)
+
+#iterate thru recipes_dir_2, this includes recipe folders
+# Iterate through recipes_dir_2
+for folder in os.listdir(recipes_dir_2):
+    folder_path = os.path.join(recipes_dir_2, folder)
+    if os.path.isdir(folder_path):
+        for filename in os.listdir(folder_path):
+            if filename.endswith(".json"):
+                json_path = os.path.join(folder_path, filename)
+                docs = pipeline.run_document_generator_pipeline(json_path)
+                documents.extend(docs)
 
 #then pass these documents to the run_documents_to_qdrant_pipeline
 run_documents_to_qdrant_pipeline(documents)

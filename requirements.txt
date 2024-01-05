@@ -3,11 +3,12 @@ uvicorn
 mangum
 python-dotenv
 openai
-#pandas 
-sentence-transformers
+pandas 
+#sentence-transformers
 langchain
 #chromadb
-torch
+#torch
 openpyxl
 #pinecone-client
 qdrant-client
+fastembed

@@ -59,12 +59,12 @@ class DocumentToQdrantPipeline(VectorRetriever):
                 "max_optimization_threads": 1
             }
 
-            """# Create or update the collection with the new configuration
+            # Create or update the collection with the new configuration
             self.client.create_collection(
                 collection_name="chef-app-2",
                 vectors_config=VectorParams(size=384, distance=Distance.COSINE, on_disk=True),
                 optimizers_config=optimizers_config
-            )"""
+            )
             self.vector_store = Qdrant(
                 client=self.client,
                 collection_name="chef-app-2",
@@ -171,4 +171,4 @@ filter_1 = {
 }
 
 
-run_retriever_pipeline(ingredients_list, filter=filter_1)
+#run_retriever_pipeline(ingredients_list, filter=filter_1)

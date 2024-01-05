@@ -1,7 +1,7 @@
 from typing import List, Tuple, Union
 import json 
 from langchain.schema.document import Document
-from langchain.embeddings import HuggingFaceEmbeddings, SentenceTransformerEmbeddings
+from langchain.embeddings.fastembed import FastEmbedEmbeddings
 from langchain.vectorstores import Chroma, Pinecone
 import pinecone
 from typing import List,Tuple ,Union, Any, Dict
@@ -34,13 +34,11 @@ class VectorRetriever:
 
         :return: The initialized HuggingFaceEmbeddings object.
         """
-        hf = HuggingFaceEmbeddings(
-        model_name=self.model_name,
-        model_kwargs=self.model_kwargs,
-        encode_kwargs=self.encode_kwargs)
+        hf = FastEmbedEmbeddings(
+        model_name=self.model_name,)
 
-        embedding_dimension = hf.dict()['client'][1].get_config_dict()["word_embedding_dimension"]
-        print("embedder initialized with dimension: ", embedding_dimension)
+        #embedding_dimension = hf.dict()['client'][1].get_config_dict()["word_embedding_dimension"]
+        #print("embedder initialized with dimension: ", embedding_dimension)
 
         return hf
 
